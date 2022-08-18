@@ -1,1 +1,2 @@
-
+#subdir name will regard as sample name
+Rscript create_SeuratObj.R -i example_data
