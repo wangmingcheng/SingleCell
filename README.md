@@ -8,4 +8,5 @@ https://github.com/ZJUFanLab/scCATCH<br>
 https://github.com/IanevskiAleksandr/sc-type<br>
 https://github.com/LTLA/SingleR<br>
 ## single cell gene enrichment
-ssGSEA: https://github.com/ncborcherding/escape
+ssGSEA: https://github.com/ncborcherding/escape<br>
+ssGSEA2.0: https://github.com/broadinstitute/ssGSEA2.0
