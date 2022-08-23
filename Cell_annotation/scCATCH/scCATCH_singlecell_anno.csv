@@ -1,0 +1,16 @@
+CD8_T	T cell
+Macrophage1	Kupffer cell
+Endothelial	Endothelial cell
+CD4_T	Exhausted CD4+ T cell
+B_cell	B cell
+CD16_NK	Monocyte
+Monocyte	CD4+ cytotoxic T cell, Liver bud hepatic cell
+CD56_NK	Natural killer cell, Progenitor cell, T cell
+Fibroblast	Mesenchymal Mesenchymal stem cell
+cDC	Liver bud hepatic cell
+Smooth_muscle	Myofibroblast
+Epithelial	Stem cell
+Hepatocyte	Hepatocyte
+Macrophage2	Kupffer cell, Monocyte
+Pro_myelocyte	Stem cell
+pDC	Exhausted Exhausted CD4+ T cell

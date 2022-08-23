@@ -1,0 +1,16 @@
+0,CD8_T,T cell
+3,CD8_T,Helper T helper cell
+4,Endothelial,Endothelial cell
+6,CD16_NK,Monocyte
+7,Macrophage1,Kupffer cell
+8,Smooth_muscle,Myofibroblast
+9,Monocyte,Liver bud hepatic cell
+10,CD56_NK,Natural killer cell, Progenitor cell, T cell
+11,Epithelial,Stem cell
+12,B_cell,B cell
+13,pDC,Exhausted Exhausted CD4+ T cell
+14,Macrophage2,Kupffer cell, Monocyte
+15,cDC,Liver bud hepatic cell
+16,Fibroblast,Mesenchymal Mesenchymal stem cell
+17,Pro_myelocyte,Stem cell
+18,Hepatocyte,Hepatocyte

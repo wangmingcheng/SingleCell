@@ -1,0 +1,11 @@
+Attaching SeuratObject
+Attaching sp
+Warning message:
+In fun(libname, pkgname) :
+  rgeos: versions of GEOS runtime 3.11.0-CAPI-1.17.0
+and GEOS at installation 3.10.2-CAPI-1.16.0differ
+There are 330 potential marker genes in CellMatch database for Human on Small intestine.
+There were 50 or more warnings (use warnings() to see the first 50)
+Warning: Invalid name supplied, making object name syntactically valid. New object name is obj.celltype.cell_type; see ?make.names for more details on syntax validity
+Error: Cannot add more or fewer cell meta.data information without values being named with cell names
+Execution halted
