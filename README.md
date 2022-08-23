@@ -3,7 +3,11 @@ single cell small script
 ## tutorials
 https://satijalab.org/seurat/index.html<br>
 https://scanpy.readthedocs.io/en/stable/tutorials.html<br>
-## Single Cell annotation
+## Doublet Analysis
+Scrublet: https://github.com/swolock/scrublet<br>
+DoubletFinder: https://github.com/chris-mcginnis-ucsf/DoubletFinder<br>
+
+## Single cell annotation
 scCATCH: https://github.com/ZJUFanLab/scCATCH<br>
 sc-type: https://github.com/IanevskiAleksandr/sc-type<br>
 SingleR: https://github.com/LTLA/SingleR<br>
