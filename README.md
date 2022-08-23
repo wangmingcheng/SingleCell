@@ -13,3 +13,6 @@ ssGSEA2.0: https://github.com/broadinstitute/ssGSEA2.0<br>
 ## cell-cell communication
 CellChat: https://github.com/sqjin/CellChat<br>
 CellPhoneDB: https://github.com/Teichlab/cellphonedb<br>
+## RNA velocity
+scVelo: https://github.com/theislab/scvelo<br>
+dynamo: https://github.com/aristoteleo/dynamo-release<br>
