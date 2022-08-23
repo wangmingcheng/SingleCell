@@ -4,4 +4,5 @@ single cell small script
 https://satijalab.org/seurat/index.html<br>
 https://scanpy.readthedocs.io/en/stable/tutorials.html
 ## Single Cell annotation
-https://github.com/ZJUFanLab/scCATCH
+https://github.com/ZJUFanLab/scCATCH<br>
+https://github.com/IanevskiAleksandr/sc-type
