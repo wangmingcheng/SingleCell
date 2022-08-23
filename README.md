@@ -7,6 +7,11 @@ https://scanpy.readthedocs.io/en/stable/tutorials.html<br>
 Scrublet: https://github.com/swolock/scrublet<br>
 DoubletFinder: https://github.com/chris-mcginnis-ucsf/DoubletFinder<br>
 
+##  Single cell data integration
+harmony: https://github.com/immunogenomics/harmony<br>
+LIGER: https://github.com/welch-lab/liger<br>
+sctransform: https://github.com/satijalab/sctransform<br>
+
 ## Single cell annotation
 scCATCH: https://github.com/ZJUFanLab/scCATCH<br>
 sc-type: https://github.com/IanevskiAleksandr/sc-type<br>
