@@ -4,9 +4,9 @@ single cell small script
 https://satijalab.org/seurat/index.html<br>
 https://scanpy.readthedocs.io/en/stable/tutorials.html
 ## Single Cell annotation
-https://github.com/ZJUFanLab/scCATCH<br>
-https://github.com/IanevskiAleksandr/sc-type<br>
-https://github.com/LTLA/SingleR<br>
+scCATCH: https://github.com/ZJUFanLab/scCATCH<br>
+sc-type: https://github.com/IanevskiAleksandr/sc-type<br>
+SingleR: https://github.com/LTLA/SingleR<br>
 ## single cell gene enrichment
 ssGSEA: https://github.com/ncborcherding/escape<br>
 ssGSEA2.0: https://github.com/broadinstitute/ssGSEA2.0
