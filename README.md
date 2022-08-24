@@ -27,6 +27,7 @@ Slingshot: https://bioconductor.org/packages/devel/bioc/vignettes/slingshot/inst
 ## Single cell gene enrichment
 escape: https://github.com/ncborcherding/escape<br>
 ssGSEA2.0: https://github.com/broadinstitute/ssGSEA2.0<br>
+GSVA：https://github.com/rcastelo/GSVA
 ## Cell-Cell communication
 CellChat: https://github.com/sqjin/CellChat<br>
 CellPhoneDB: https://github.com/Teichlab/cellphonedb<br>
