@@ -17,6 +17,12 @@ sctransform: https://github.com/satijalab/sctransform<br>
 scCATCH: https://github.com/ZJUFanLab/scCATCH<br>
 sc-type: https://github.com/IanevskiAleksandr/sc-type<br>
 SingleR: https://github.com/LTLA/SingleR<br>
+
+## Trajectory Inference
+Monocle3: https://cole-trapnell-lab.github.io/monocle3<br>
+Slingshot: https://bioconductor.org/packages/devel/bioc/vignettes/slingshot/inst/doc/vignette.html<br>
+
+
 ## Single cell gene enrichment
 escape: https://github.com/ncborcherding/escape<br>
 ssGSEA2.0: https://github.com/broadinstitute/ssGSEA2.0<br>
