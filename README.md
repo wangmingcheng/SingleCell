@@ -7,7 +7,7 @@ https://scanpy.readthedocs.io/en/stable/tutorials.html<br>
 Scrublet: https://github.com/swolock/scrublet<br>
 DoubletFinder: https://github.com/chris-mcginnis-ucsf/DoubletFinder<br>
 scDblFinder: https://github.com/plger/scDblFinder<br>
-Benchmark article： https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30459-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405471220304592%3Fshowall%3Dtrue
+Benchmark article： [Benchmarking Computational Doublet-Detection Methods for Single-Cell RNA Sequencing Data](https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30459-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405471220304592%3Fshowall%3Dtrue)
 
 ##  Single cell data integration
 harmony: https://github.com/immunogenomics/harmony<br>
