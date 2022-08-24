@@ -6,6 +6,7 @@ https://scanpy.readthedocs.io/en/stable/tutorials.html<br>
 ## Doublet Analysis
 Scrublet: https://github.com/swolock/scrublet<br>
 DoubletFinder: https://github.com/chris-mcginnis-ucsf/DoubletFinder<br>
+scDblFinder: https://github.com/plger/scDblFinder<br>
 
 ##  Single cell data integration
 harmony: https://github.com/immunogenomics/harmony<br>
