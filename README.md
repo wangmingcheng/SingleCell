@@ -26,3 +26,6 @@ CellPhoneDB: https://github.com/Teichlab/cellphonedb<br>
 ## RNA velocity
 scVelo: https://github.com/theislab/scvelo<br>
 dynamo: https://github.com/aristoteleo/dynamo-release<br>
+## Single cell regulatory network
+pySCENIC: https://github.com/aertslab/pySCENIC<br>
+Benchmark article https://www.nature.com/articles/s41592-019-0690-6<br>
