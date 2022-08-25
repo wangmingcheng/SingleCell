@@ -30,6 +30,7 @@ escape: https://github.com/ncborcherding/escape<br>
 ssGSEA2.0: https://github.com/broadinstitute/ssGSEA2.0<br>
 GSVA：https://github.com/rcastelo/GSVA<br>
 AUCell: https://github.com/aertslab/AUCell<br>
+scGSVA: https://github.com/guokai8/scGSVA<br>
 ## Cell-Cell communication
 CellChat: https://github.com/sqjin/CellChat<br>
 CellPhoneDB: https://github.com/Teichlab/cellphonedb<br>
