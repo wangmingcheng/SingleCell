@@ -22,12 +22,13 @@ SingleR: https://github.com/LTLA/SingleR<br>
 ## Trajectory Inference
 Monocle3: https://cole-trapnell-lab.github.io/monocle3<br>
 Slingshot: https://bioconductor.org/packages/devel/bioc/vignettes/slingshot/inst/doc/vignette.html<br>
+Palantir: https://github.com/dpeerlab/Palantir<br>
 
 
 ## Single cell gene enrichment
 escape: https://github.com/ncborcherding/escape<br>
 ssGSEA2.0: https://github.com/broadinstitute/ssGSEA2.0<br>
-GSVA：https://github.com/rcastelo/GSVA
+GSVA：https://github.com/rcastelo/GSVA<br>
 ## Cell-Cell communication
 CellChat: https://github.com/sqjin/CellChat<br>
 CellPhoneDB: https://github.com/Teichlab/cellphonedb<br>
@@ -36,10 +37,10 @@ scVelo: https://github.com/theislab/scvelo<br>
 dynamo: https://github.com/aristoteleo/dynamo-release<br>
 ## Single cell regulatory network
 pySCENIC: https://github.com/aertslab/pySCENIC<br>
-SIGNET: https://github.com/Lan-lab/SIGNET
+SIGNET: https://github.com/Lan-lab/SIGNET<br>
 Benchmark article https://www.nature.com/articles/s41592-019-0690-6<br>
 ## Inference of CNV
 InferCNV: https://github.com/broadinstitute/infercnv<br>
-CopyKAT: https://github.com/navinlabcode/copykat
+CopyKAT: https://github.com/navinlabcode/copykat<br>
 
 
