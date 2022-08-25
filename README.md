@@ -45,4 +45,5 @@ Benchmark article https://www.nature.com/articles/s41592-019-0690-6<br>
 InferCNV: https://github.com/broadinstitute/infercnv<br>
 CopyKAT: https://github.com/navinlabcode/copykat<br>
 
-
+## Analyse pipeline
+popsicleR: https://github.com/bicciatolab/popsicleR
