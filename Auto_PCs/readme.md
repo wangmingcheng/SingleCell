@@ -6,6 +6,6 @@ Compare Dimensionality Reduction Methods: https://www.frontiersin.org/articles/1
 
 ### Automatic optimal PCs tools
 findPC: https://github.com/haotian-zhuang/findPC<br>
-PCAtools: https://github.com/kevinblighe/PCAtools#determine-optimum-number-of-pcs-to-retain takes too long time and cpu <br>
+PCAtools: https://github.com/kevinblighe/PCAtools#determine-optimum-number-of-pcs-to-retain takes too long time and CPUs<br>
 ### 
 https://www.biostars.org/p/9466164/
