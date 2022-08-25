@@ -51,6 +51,9 @@ CopyKAT: https://github.com/navinlabcode/copykat<br>
 ## Tumour cells
 ikarus: https://github.com/BIMSBbioinfo/ikarus<br>
 
+## Visualization
+scINSIGHT: https://github.com/Vivianstats/scINSIGHT<br>
+
 ## Analyse pipeline
 popsicleR: https://github.com/bicciatolab/popsicleR<br>
 ## Lab
