@@ -10,7 +10,7 @@ args <- commandArgs(T)
 obj <- readRDS(args[1])
 pct <- obj [["pca"]]@stdev / sum( obj [["pca"]]@stdev ) * 100
 cumu <- cumsum(pct)
-co1 <- which(cumu > 95 & pct < 2)[1]
+co1 <- which(cumu > 95 & pct < 3)[1]
 co2 <- sort(which((pct[1:length(pct) - 1] - pct[2:length(pct)]) > 0.1), decreasing = T)[1] + 1
 pcs <- min(co1, co2)
 pcs
