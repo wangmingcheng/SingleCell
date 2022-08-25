@@ -33,6 +33,7 @@ AUCell: https://github.com/aertslab/AUCell<br>
 ## Cell-Cell communication
 CellChat: https://github.com/sqjin/CellChat<br>
 CellPhoneDB: https://github.com/Teichlab/cellphonedb<br>
+celltalker：https://github.com/arc85/celltalker<br>
 ## RNA velocity
 scVelo: https://github.com/theislab/scvelo<br>
 dynamo: https://github.com/aristoteleo/dynamo-release<br>
