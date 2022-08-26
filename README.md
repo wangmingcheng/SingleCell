@@ -22,6 +22,7 @@ SingleR: https://github.com/LTLA/SingleR<br>
 UNIFAN: https://github.com/doraadong/UNIFAN<br>
 MACA: https://github.com/ImXman/MACA<br>
 scAnnotatR: https://github.com/grisslab/scAnnotatR<br>
+Benchmark: https://github.com/tabdelaal/scRNAseq_Benchmark<br>
 
 ## Trajectory Inference
 Monocle3: https://cole-trapnell-lab.github.io/monocle3<br>
