@@ -33,4 +33,4 @@ avg_exp_mat <- as.matrix(avg_exp_mat)
 avg_exp_mat <- log1p(avg_exp_mat)
 enrich_tbl <- clustermole_enrichment(expr_mat = avg_exp_mat, species = opt$species)
 
-write.table(enrich_tbl, file = paste(opt$outdir, "cluster", cluster, "_markersEnrichment_annotation.csv", sep = ""), sep = ",", row.names = F, col.names = T, quote = F)
+write.table(enrich_tbl, file = paste(opt$outdir, "markersEnrichment_annotation.csv", sep = ""), sep = ",", row.names = F, col.names = T, quote = F)
