@@ -21,6 +21,7 @@ sc-type: https://github.com/IanevskiAleksandr/sc-type<br>
 SingleR: https://github.com/LTLA/SingleR<br>
 UNIFAN: https://github.com/doraadong/UNIFAN<br>
 MACA: https://github.com/ImXman/MACA<br>
+DISCO: https://www.immunesinglecell.org/cellpredictor<br>
 scAnnotatR: https://github.com/grisslab/scAnnotatR<br>
 Benchmark: https://github.com/tabdelaal/scRNAseq_Benchmark<br>
 
