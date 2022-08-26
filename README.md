@@ -21,6 +21,7 @@ sc-type: https://github.com/IanevskiAleksandr/sc-type<br>
 SingleR: https://github.com/LTLA/SingleR<br>
 UNIFAN: https://github.com/doraadong/UNIFAN<br>
 MACA: https://github.com/ImXman/MACA<br>
+scAnnotatR: https://github.com/grisslab/scAnnotatR<br>
 
 ## Trajectory Inference
 Monocle3: https://cole-trapnell-lab.github.io/monocle3<br>
