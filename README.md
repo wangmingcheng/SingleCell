@@ -15,6 +15,7 @@ harmony: https://github.com/immunogenomics/harmony<br>
 LIGER: https://github.com/welch-lab/liger<br>
 sctransform: https://github.com/satijalab/sctransform<br>
 scanorama： https://github.com/brianhie/scanorama<br>
+Benchmark: https://github.com/theislab/scib<br>
 
 ## Single cell annotation
 scCATCH: https://github.com/ZJUFanLab/scCATCH<br>
