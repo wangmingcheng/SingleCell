@@ -25,6 +25,7 @@ UNIFAN: https://github.com/doraadong/UNIFAN<br>
 MACA: https://github.com/ImXman/MACA<br>
 DISCO: https://www.immunesinglecell.org/cellpredictor<br>
 scAnnotatR: https://github.com/grisslab/scAnnotatR<br>
+celltypist: https://github.com/Teichlab/celltypist<br>
 Benchmark: https://github.com/tabdelaal/scRNAseq_Benchmark<br>
 
 ## Trajectory Inference
