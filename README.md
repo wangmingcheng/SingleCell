@@ -44,6 +44,7 @@ scGSVA: https://github.com/guokai8/scGSVA<br>
 ## Cell-Cell communication
 CellChat: https://github.com/sqjin/CellChat<br>
 CellPhoneDB: https://github.com/Teichlab/cellphonedb<br>
+nichenetr: https://github.com/saeyslab/nichenetr<br>
 celltalker：https://github.com/arc85/celltalker<br>
 ## RNA velocity
 scVelo: https://github.com/theislab/scvelo<br>
@@ -55,6 +56,8 @@ Benchmark article https://www.nature.com/articles/s41592-019-0690-6<br>
 ## Inference of CNV
 InferCNV: https://github.com/broadinstitute/infercnv<br>
 CopyKAT: https://github.com/navinlabcode/copykat<br>
+HoneyBADGER: https://github.com/JEFworks-Lab/HoneyBADGER<br>
+
 
 ## Tumour cells
 ikarus: https://github.com/BIMSBbioinfo/ikarus<br>
