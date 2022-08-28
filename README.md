@@ -34,6 +34,7 @@ Monocle3: https://cole-trapnell-lab.github.io/monocle3<br>
 Slingshot: https://bioconductor.org/packages/devel/bioc/vignettes/slingshot/inst/doc/vignette.html<br>
 Palantir: https://github.com/dpeerlab/Palantir<br>
 scSTEM: https://github.com/alexQiSong/scSTEM<br>
+Benchmark: [A comparison of single-cell trajectory inference methods](https://www.nature.com/articles/s41587-019-0071-9)<br>
 
 
 ## Single cell gene enrichment
