@@ -15,8 +15,8 @@ harmony: https://github.com/immunogenomics/harmony<br>
 LIGER: https://github.com/welch-lab/liger<br>
 sctransform: https://github.com/satijalab/sctransform<br>
 scanorama： https://github.com/brianhie/scanorama<br>
-Benchmark: https://github.com/theislab/scib<br>
 Conos: https://github.com/kharchenkolab/conos<br>
+Benchmark: [Benchmarking atlas-level data integration in single-cell genomics](https://www.nature.com/articles/s41592-021-01336-8)
 
 ## Single cell annotation
 scCATCH: https://github.com/ZJUFanLab/scCATCH<br>
@@ -72,5 +72,6 @@ popsicleR: https://github.com/bicciatolab/popsicleR<br>
 ## Lab
 https://github.com/ggjlab<br>
 https://github.com/ZJUFanLab<br>
+https://github.com/theislab<br>
 ## Tools colection
 https://www.scrna-tools.org/<br>
