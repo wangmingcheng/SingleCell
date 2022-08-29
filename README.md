@@ -27,6 +27,7 @@ MACA: https://github.com/ImXman/MACA<br>
 DISCO: https://www.immunesinglecell.org/cellpredictor<br>
 scAnnotatR: https://github.com/grisslab/scAnnotatR<br>
 celltypist: https://github.com/Teichlab/celltypist<br>
+scPred: https://github.com/powellgenomicslab/scPred<br>
 Benchmark: https://github.com/tabdelaal/scRNAseq_Benchmark<br>
 
 ## Trajectory Inference
