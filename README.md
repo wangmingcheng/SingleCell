@@ -67,6 +67,7 @@ ikarus: https://github.com/BIMSBbioinfo/ikarus<br>
 
 ## Visualization
 scINSIGHT: https://github.com/Vivianstats/scINSIGHT<br>
+scPubr: https://enblacar.github.io/SCpubr-book/index.html<br>
 
 ## Analyse pipeline
 popsicleR: https://github.com/bicciatolab/popsicleR<br>
