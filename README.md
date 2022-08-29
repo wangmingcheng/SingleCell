@@ -14,6 +14,9 @@ Benchmark article: [Benchmarking Computational Doublet-Detection Methods for Sin
 harmony: https://github.com/immunogenomics/harmony<br>
 LIGER: https://github.com/welch-lab/liger<br>
 sctransform: https://github.com/satijalab/sctransform<br>
+scanorama： https://github.com/brianhie/scanorama<br>
+Conos: https://github.com/kharchenkolab/conos<br>
+Benchmark: [Benchmarking atlas-level data integration in single-cell genomics](https://www.nature.com/articles/s41592-021-01336-8)
 
 ## Single cell annotation
 scCATCH: https://github.com/ZJUFanLab/scCATCH<br>
@@ -21,7 +24,9 @@ sc-type: https://github.com/IanevskiAleksandr/sc-type<br>
 SingleR: https://github.com/LTLA/SingleR<br>
 UNIFAN: https://github.com/doraadong/UNIFAN<br>
 MACA: https://github.com/ImXman/MACA<br>
+DISCO: https://www.immunesinglecell.org/cellpredictor<br>
 scAnnotatR: https://github.com/grisslab/scAnnotatR<br>
+celltypist: https://github.com/Teichlab/celltypist<br>
 Benchmark: https://github.com/tabdelaal/scRNAseq_Benchmark<br>
 
 ## Trajectory Inference
@@ -29,6 +34,7 @@ Monocle3: https://cole-trapnell-lab.github.io/monocle3<br>
 Slingshot: https://bioconductor.org/packages/devel/bioc/vignettes/slingshot/inst/doc/vignette.html<br>
 Palantir: https://github.com/dpeerlab/Palantir<br>
 scSTEM: https://github.com/alexQiSong/scSTEM<br>
+Benchmark: [A comparison of single-cell trajectory inference methods](https://www.nature.com/articles/s41587-019-0071-9)<br>
 
 
 ## Single cell gene enrichment
@@ -40,6 +46,7 @@ scGSVA: https://github.com/guokai8/scGSVA<br>
 ## Cell-Cell communication
 CellChat: https://github.com/sqjin/CellChat<br>
 CellPhoneDB: https://github.com/Teichlab/cellphonedb<br>
+nichenetr: https://github.com/saeyslab/nichenetr<br>
 celltalker：https://github.com/arc85/celltalker<br>
 ## RNA velocity
 scVelo: https://github.com/theislab/scvelo<br>
@@ -51,6 +58,8 @@ Benchmark article https://www.nature.com/articles/s41592-019-0690-6<br>
 ## Inference of CNV
 InferCNV: https://github.com/broadinstitute/infercnv<br>
 CopyKAT: https://github.com/navinlabcode/copykat<br>
+HoneyBADGER: https://github.com/JEFworks-Lab/HoneyBADGER<br>
+
 
 ## Tumour cells
 ikarus: https://github.com/BIMSBbioinfo/ikarus<br>
@@ -63,5 +72,6 @@ popsicleR: https://github.com/bicciatolab/popsicleR<br>
 ## Lab
 https://github.com/ggjlab<br>
 https://github.com/ZJUFanLab<br>
+https://github.com/theislab<br>
 ## Tools colection
 https://www.scrna-tools.org/<br>
