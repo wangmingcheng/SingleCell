@@ -23,6 +23,7 @@ Benchmark: [Benchmarking atlas-level data integration in single-cell genomics](h
 scCATCH: https://github.com/ZJUFanLab/scCATCH<br>
 sc-type: https://github.com/IanevskiAleksandr/sc-type<br>
 SingleR: https://github.com/LTLA/SingleR<br>
+clustermole： https://github.com/igordot/clustermole<br>
 UNIFAN: https://github.com/doraadong/UNIFAN<br>
 MACA: https://github.com/ImXman/MACA<br>
 DISCO: https://www.immunesinglecell.org/cellpredictor<br>
