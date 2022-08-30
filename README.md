@@ -63,7 +63,8 @@ Benchmark article https://www.nature.com/articles/s41592-019-0690-6<br>
 InferCNV: https://github.com/broadinstitute/infercnv<br>
 CopyKAT: https://github.com/navinlabcode/copykat<br>
 HoneyBADGER: https://github.com/JEFworks-Lab/HoneyBADGER<br>
-
+## Cell fate
+scFates: https://github.com/LouisFaure/scFates<br>
 
 ## Tumour cells
 ikarus: https://github.com/BIMSBbioinfo/ikarus<br>
