@@ -5,6 +5,7 @@ https://satijalab.org/seurat/index.html<br>
 https://scanpy.readthedocs.io/en/stable/tutorials.html<br>
 https://github.com/hbctraining/scRNA-seq_online/blob/master/schedule/links-to-lessons.md<br>
 https://www.singlecellcourse.org/index.html<br>
+https://bioconductor.org/books/3.15/OSCA.advanced<br>
 ## Doublet Analysis
 Scrublet: https://github.com/swolock/scrublet<br>
 DoubletFinder: https://github.com/chris-mcginnis-ucsf/DoubletFinder<br>
