@@ -6,7 +6,7 @@ https://scanpy.readthedocs.io/en/stable/tutorials.html<br>
 https://github.com/hbctraining/scRNA-seq_online/blob/master/schedule/links-to-lessons.md<br>
 https://www.singlecellcourse.org/index.html<br>
 https://bioconductor.org/books/3.15/OSCA.advanced<br>
-https://www.singlecellcourse.org/index.html<br>
+
 ## Doublet Analysis
 Scrublet: https://github.com/swolock/scrublet<br>
 DoubletFinder: https://github.com/chris-mcginnis-ucsf/DoubletFinder<br>
@@ -74,6 +74,7 @@ ikarus: https://github.com/BIMSBbioinfo/ikarus<br>
 ## Visualization
 scINSIGHT: https://github.com/Vivianstats/scINSIGHT<br>
 scPubr: https://enblacar.github.io/SCpubr-book/index.html<br>
+pagoda: https://github.com/kharchenkolab/pagoda2<br>
 
 ## Analyse pipeline
 popsicleR: https://github.com/bicciatolab/popsicleR<br>
