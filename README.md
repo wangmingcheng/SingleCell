@@ -62,6 +62,7 @@ dynamo: https://github.com/aristoteleo/dynamo-release<br>
 ## Single cell regulatory network
 pySCENIC: https://github.com/aertslab/pySCENIC<br>
 SIGNET: https://github.com/Lan-lab/SIGNET<br>
+Pando: https://github.com/quadbiolab/Pando<br>
 Benchmark article https://www.nature.com/articles/s41592-019-0690-6<br>
 ## Inference of CNV
 InferCNV: https://github.com/broadinstitute/infercnv<br>
