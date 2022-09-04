@@ -87,5 +87,6 @@ https://github.com/ZJUFanLab<br>
 https://github.com/theislab<br>
 https://github.com/calico<br>
 https://github.com/immunogenomics<br>
+https://github.com/quadbiolab<br>
 ## Tools colection
 https://www.scrna-tools.org/<br>
