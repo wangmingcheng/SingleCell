@@ -20,6 +20,7 @@ harmony: https://github.com/immunogenomics/harmony<br>
 LIGER: https://github.com/welch-lab/liger<br>
 sctransform: https://github.com/satijalab/sctransform<br>
 scanorama： https://github.com/brianhie/scanorama<br>
+scINSIGHT： https://github.com/Vivianstats/scINSIGHT<br>
 Conos: https://github.com/kharchenkolab/conos<br>
 Benchmark: [Benchmarking atlas-level data integration in single-cell genomics](https://www.nature.com/articles/s41592-021-01336-8)
 
