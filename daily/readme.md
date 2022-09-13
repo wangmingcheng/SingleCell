@@ -21,4 +21,4 @@
 https://github.com/Avik-Jain/100-Days-Of-ML-Code
 
 
-### 读源码，搞懂单细胞数据整合的原理，终点SCTransform，harmony和liger
+### 读源码，搞懂单细胞数据整合的原理，重点SCTransform，harmony和liger
