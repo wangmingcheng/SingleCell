@@ -43,6 +43,7 @@ Slingshot: https://bioconductor.org/packages/devel/bioc/vignettes/slingshot/inst
 Palantir: https://github.com/dpeerlab/Palantir<br>
 scSTEM: https://github.com/alexQiSong/scSTEM<br>
 Tempora: https://github.com/BaderLab/Tempora<br>
+SCORPIUS: https://github.com/rcannood/SCORPIUS<br>
 Benchmark: [A comparison of single-cell trajectory inference methods](https://www.nature.com/articles/s41587-019-0071-9)<br>
 
 
