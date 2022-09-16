@@ -1,0 +1,427 @@
+acinar	Acinar	Baron_human_h5_2_SingleR	
+activated_stellate	Stellates	Baron_human_h5_2_SingleR	
+alpha	Alpha	Baron_human_h5_2_SingleR	
+alveolar macrophage	Macrophages	Quake_10x_h5_2_SingleR	
+Alveolar trajectory	Alveolar_trajectory	Giraddi_10x_h5_2_SingleR	
+amacrine	Amacrine	Macosko_h5_2_SingleR	
+Am/PH sheath cells	Am/PH_sheath_cells	Cao_h5_2_SingleR	
+Ascending_vasa_recta	Ascending_vasa_recta	Young_h5_2_SingleR	
+Ast	Astrocytes	Lake_2018_h5_2_SingleR	
+Astro	Astrocytes	Chen_h5_2_SingleR	
+astrocyte of the cerebral cortex	Astrocytes	Quake_Smart-seq2_Brain_Non-Myeloid_h5_2_SingleR	
+Astrocyte	Astrocytes	Campbell_h5_2_SingleR	
+astrocytes	Astrocytes	Macosko_h5_2_SingleR	
+Astrocytes	Astrocytes	Zeisel_2018_h5_2_SingleR	
+Avd	Differentiated_alveolar_cells	Bach_h5_2_SingleR	
+Avp	Progenitor_alveolar_cells	Bach_h5_2_SingleR	
+B lymph	B_cells	Park_h5_2_SingleR	
+basal cell	Basal_cells	Quake_10x_h5_2_SingleR	
+Basal trajectory	Basal_cells	Giraddi_10x_h5_2_SingleR	
+basophil	Basophil	Quake_10x_Bone_Marrow_h5_2_SingleR	
+B_cell	B_cells	Baron_mouse_h5_2_SingleR	
+Bergmann glial cell	Bergmann_glial_cell	Quake_Smart-seq2_Brain_Non-Myeloid_h5_2_SingleR	
+beta	Beta	Baron_human_h5_2_SingleR	
+bipolar	Bipolar	Macosko_h5_2_SingleR	
+bladder cell	Bladder_cells	Quake_10x_Bladder_h5_2_SingleR	
+blood cell	Blood_cells	Quake_10x_h5_2_SingleR	
+Body wall muscle	Body_wall_muscle	Cao_h5_2_SingleR	
+brain pericyte	Brain_pericyte	Quake_Smart-seq2_Brain_Non-Myeloid_h5_2_SingleR	
+Brush	Brush	Plasschaert_h5_2_SingleR	
+Bsl	Bsl	Bach_h5_2_SingleR	
+Canal associated neurons	Neurons	Cao_h5_2_SingleR	
+cardiac muscle cell	Cardiac_muscle_cell	Quake_10x_h5_2_SingleR	
+CD	Collecting_duct	Wang_Kidney_h5_2_SingleR	
+CD14+ Monocyte	Monocytes	Zheng_h5_2_SingleR	
+CD19+ B	B_cells	Zheng_h5_2_SingleR	
+CD34+	CD34+	Zheng_h5_2_SingleR	
+CD4+ T Helper2	T_cells	Zheng_h5_2_SingleR	
+CD4+/CD25 T Reg	T_cells	Zheng_h5_2_SingleR	
+CD4+/CD45RA+/CD25- Naive T	T_cells	Zheng_h5_2_SingleR	
+CD4+/CD45RO+ Memory	T_cells	Zheng_h5_2_SingleR	
+CD56+ NK	NKs	Zheng_h5_2_SingleR	
+CD8+ Cytotoxic T	T_cells	Zheng_h5_2_SingleR	
+CD8+/CD45RA+ Naive Cytotoxic	T_cells	Zheng_h5_2_SingleR	
+CD-IC	CD-IC	Park_h5_2_SingleR	CD intercalated cell
+CD-PC	CD-PC	Park_h5_2_SingleR	collecting duct principal cell
+CD-Trans	CD-Trans	Park_h5_2_SingleR	CD transitional cell
+Cerebellum neurons	Cerebellum_neurons	Zeisel_2018_h5_2_SingleR	
+Cholinergic neurons	Cholinergic_neurons	Cao_h5_2_SingleR	
+Choroid epithelial cells	Epithelial_cells	Zeisel_2018_h5_2_SingleR	
+ciliated columnar cell of tracheobronchial tree		Quake_10x_h5_2_SingleR	
+Ciliated sensory neurons	Neurons	Cao_h5_2_SingleR	
+classical monocyte	Monocytes	Quake_10x_h5_2_SingleR	
+Club	Club	Montoro_10x_h5_2_SingleR	
+CM	Cap_mesenchyme	Wang_Kidney_h5_2_SingleR	
+CnT	Connecting_tubule	Hochane_h5_2_SingleR	
+CNT	Connecting_tubule	Wu_human_h5_2_SingleR	
+Coelomocytes	Coelomocytes	Cao_h5_2_SingleR	
+Collecting_duct	Collecting_duct	Young_h5_2_SingleR	
+common lymphoid progenitor	Lymphoid_progenitor	Quake_Smart-seq2_Bone_Marrow_h5_2_SingleR	
+cones	Cones	Macosko_h5_2_SingleR	
+Cycling Basal (homeostasis)	Cycling Basal (homeostasis)	Plasschaert_h5_2_SingleR	
+DC1	DCs	Vento-Tormo_10x_h5_2_SingleR	
+DC2	DCs	Vento-Tormo_10x_h5_2_SingleR	
+D.cells	D.cells	Haber_10x_FAE_h5_2_SingleR	
+DCT	DCT	Wu_human_h5_2_SingleR	
+delta	Delta	Baron_human_h5_2_SingleR	
+dendritic cell	DCs	Quake_10x_h5_2_SingleR	
+Dendritic	DCs	Zheng_h5_2_SingleR	
+Dentate gyrus radial glia-like cells	Dentate gyrus radial glia-like cells	Zeisel_2018_h5_2_SingleR	
+Descending_vasa_recta	Descending_vasa_recta	Young_h5_2_SingleR	
+Di- and mesencephalon excitatory neurons	Di- and mesencephalon excitatory neurons	Zeisel_2018_h5_2_SingleR	
+differentiating S'gonia	differentiating S'gonia	Guo_h5_2_SingleR	
+Distal tubule	Distal tubule	Adam_h5_2_SingleR	
+dM1	Macrophages	Vento-Tormo_10x_h5_2_SingleR	decidual macrophages(蜕膜巨噬细胞)
+dM2	Macrophages	Vento-Tormo_10x_h5_2_SingleR	
+dM3	Macrophages	Vento-Tormo_10x_h5_2_SingleR	
+DN1 thymic pro-T cell	DN1 thymic pro-T cell	Quake_10x_h5_2_SingleR	
+dNK p	NKs	Vento-Tormo_10x_h5_2_SingleR	decidual natural killer
+dNK1	NKs	Vento-Tormo_10x_h5_2_SingleR	decidual natural killer
+dNK2	NKs	Vento-Tormo_10x_h5_2_SingleR	decidual natural killer
+dNK3	NKs	Vento-Tormo_10x_h5_2_SingleR	decidual natural killer
+Dopaminergic neurons	Dopaminergic neurons	Cao_h5_2_SingleR	
+dP1	dP1	Vento-Tormo_10x_h5_2_SingleR	
+dP2	dP2	Vento-Tormo_10x_h5_2_SingleR	
+dS1	Stromal_cells	Vento-Tormo_10x_h5_2_SingleR	decidual stromal cells(蜕膜基质细胞)
+dS2	Stromal_cells	Vento-Tormo_10x_h5_2_SingleR	
+dS3	Stromal_cells	Vento-Tormo_10x_h5_2_SingleR	
+DT	Distal_convoluted_tubule	Wang_Kidney_h5_2_SingleR	
+duct epithelial cell	Endothelial_cells	Quake_10x_h5_2_SingleR	
+ductal	ductal	Baron_human_h5_2_SingleR	
+early primary S'cytes	early primary S'cytes	Guo_h5_2_SingleR	
+EC	EC	Wu_human_h5_2_SingleR	
+EC.Reg4	EC.Reg4	Haber_10x_FAE_h5_2_SingleR	
+ED	Endothelial_cells	Wang_Kidney_h5_2_SingleR	
+elongated S'tids	elongated S'tids	Guo_h5_2_SingleR	
+EM	Extraglomerular_mesangium	Wang_Kidney_h5_2_SingleR	
+End	Endothelial_cells	Hochane_h5_2_SingleR	
+Endo (m)	Endothelial_cells	Vento-Tormo_10x_h5_2_SingleR	
+Endo1	Endothelial_cells	Chen_h5_2_SingleR	
+Endo2	Endothelial_cells	Chen_h5_2_SingleR	
+endocardial cell	Endocardial_cells	Quake_10x_h5_2_SingleR	
+Endocrine	Endocrine_cells	Haber_10x_h5_2_SingleR	
+endothelial	Endothelial_cells	Baron_human_h5_2_SingleR	
+Endothelial_Cells	Endothelial_cells	Campbell_h5_2_SingleR	
+Endothelium	Endothelial_cells	Karaiskos_mouse_h5_2_SingleR	
+Enteric neurons	Neurons	Zeisel_2018_h5_2_SingleR	
+enterocyte of epithelium of large intestine	Epithelial_cells	Quake_Smart-seq2_h5_2_SingleR	
+Enterocyte	Enterocyte	Haber_10x_region_h5_2_SingleR	
+Enterocyte.dist	Enterocyte.dist	Haber_10x_largecell_h5_2_SingleR	
+Enterocyte.Immature.Distal	Enterocyte.Immature.Distal	Haber_10x_h5_2_SingleR	
+Enterocyte.Immature.Proximal	Enterocyte.Immature.Proximal	Haber_10x_h5_2_SingleR	
+Enterocyte.Mature.Distal	Enterocyte.Mature.Distal	Haber_10x_h5_2_SingleR	
+Enterocyte.Mature.Proximal	Enterocyte.Mature.Proximal	Haber_10x_h5_2_SingleR	
+Enterocyte.Progenitor	Enterocyte.Progenitor	Haber_10x_h5_2_SingleR	
+Enterocyte.Progenitor.Early	Enterocyte.Progenitor.Early	Haber_10x_h5_2_SingleR	
+Enterocyte.Progenitor.Late	Enterocyte.Progenitor.Late	Haber_10x_h5_2_SingleR	
+Enterocyte.prox	Enterocyte.prox	Haber_10x_largecell_h5_2_SingleR	
+Entero.distal	Entero.distal	Haber_10x_FAE_h5_2_SingleR	
+enteroendocrine cell	enteroendocrine cell	Quake_Smart-seq2_h5_2_SingleR	
+Enteroendocrine	Enteroendocrine	Haber_10x_FAE_h5_2_SingleR	
+Entero.proximal	Entero.proximal	Haber_10x_FAE_h5_2_SingleR	
+EP	Ependymocytes	Haber_10x_region_h5_2_SingleR	
+Ependy	Ependymocytes	Chen_h5_2_SingleR	
+Ependymal cells	Ependymocytes	Zeisel_2018_h5_2_SingleR	
+Ependymocytes	Ependymocytes	Campbell_h5_2_SingleR	
+Epi1	Epithelial_cells	Vento-Tormo_10x_h5_2_SingleR	
+Epi2	Epithelial_cells	Vento-Tormo_10x_h5_2_SingleR	
+epidermal cell	Epithelial_cells	Quake_Smart-seq2_h5_2_SingleR	
+epithelial cell	Epithelial_cells	Quake_10x_h5_2_SingleR	
+epsilon	epsilon	Baron_human_h5_2_SingleR	
+ER	Erythrocytes	Wang_Kidney_h5_2_SingleR	
+ErPrT	Early_proximal_tubule	Hochane_h5_2_SingleR	
+erythroblast	Erythrocytes	Quake_10x_Bone_Marrow_h5_2_SingleR	
+erythrocyte	Erythrocytes	Quake_10x_h5_2_SingleR	
+EVT	Extravillous_trophoblast	Vento-Tormo_10x_h5_2_SingleR	绒毛外滋养层
+Ex1	Ex1	Lake_2018_h5_2_SingleR	
+Ex2	Ex2	Lake_2018_h5_2_SingleR	
+Ex3a	Ex3a	Lake_2018_h5_2_SingleR	
+Ex3b	Ex3b	Lake_2018_h5_2_SingleR	
+Ex3c	Ex3c	Lake_2018_h5_2_SingleR	
+Ex3d	Ex3d	Lake_2018_h5_2_SingleR	
+Ex3e	Ex3e	Lake_2018_h5_2_SingleR	
+Ex4	Ex4	Lake_2018_h5_2_SingleR	
+Ex5a	Ex5a	Lake_2018_h5_2_SingleR	
+Ex5b	Ex5b	Lake_2018_h5_2_SingleR	
+Ex6a	Ex6a	Lake_2018_h5_2_SingleR	
+Ex6b	Ex6b	Lake_2018_h5_2_SingleR	
+Ex8	Ex8	Lake_2018_h5_2_SingleR	
+Excretory cells	Excretory cells	Cao_h5_2_SingleR	
+fFB1	Fibroblasts	Vento-Tormo_10x_h5_2_SingleR	
+fFB2	Fibroblasts	Vento-Tormo_10x_h5_2_SingleR	
+Fib	Fibroblasts	Park_h5_2_SingleR	
+fibroblast of dermis	Fibroblasts	Philippeos_h5_2_SingleR	
+fibroblasts	Fibroblasts	Macosko_h5_2_SingleR	
+Fibroblasts	Fibroblasts	Young_h5_2_SingleR	
+flp-1(+) interneurons	flp-1(+) interneurons	Cao_h5_2_SingleR	
+Fraction A pre-pro B cell	Fraction A pre-pro B cell	Quake_10x_Bone_Marrow_h5_2_SingleR	
+GABA1	GABA1	Chen_h5_2_SingleR	
+GABA10	GABA10	Chen_h5_2_SingleR	
+GABA11	GABA11	Chen_h5_2_SingleR	
+GABA12	GABA12	Chen_h5_2_SingleR	
+GABA13	GABA13	Chen_h5_2_SingleR	
+GABA14	GABA14	Chen_h5_2_SingleR	
+GABA15	GABA15	Chen_h5_2_SingleR	
+GABA16	GABA16	Chen_h5_2_SingleR	
+GABA17	GABA17	Chen_h5_2_SingleR	
+GABA18	GABA18	Chen_h5_2_SingleR	
+GABA2	GABA2	Chen_h5_2_SingleR	
+GABA3	GABA3	Chen_h5_2_SingleR	
+GABA4	GABA4	Chen_h5_2_SingleR	
+GABA5	GABA5	Chen_h5_2_SingleR	
+GABA6	GABA6	Chen_h5_2_SingleR	
+GABA7	GABA7	Chen_h5_2_SingleR	
+GABA8	GABA8	Chen_h5_2_SingleR	
+GABA9	GABA9	Chen_h5_2_SingleR	
+GABAergic neurons	GABAergic neurons	Cao_h5_2_SingleR	
+gamma	gamma	Baron_human_h5_2_SingleR	
+ganglion	ganglion	Macosko_h5_2_SingleR	
+Germline	Germline	Cao_h5_2_SingleR	
+Glomerular_endothelium	Glomerular_endothelium	Young_h5_2_SingleR	
+Glomerular_epithelium	Glomerular_epithelium	Young_h5_2_SingleR	
+Glu1	Glu1	Chen_h5_2_SingleR	
+Glu10	Glu10	Chen_h5_2_SingleR	
+Glu11	Glu11	Chen_h5_2_SingleR	
+Glu12	Glu12	Chen_h5_2_SingleR	
+Glu13	Glu13	Chen_h5_2_SingleR	
+Glu14	Glu14	Chen_h5_2_SingleR	
+Glu15	Glu15	Chen_h5_2_SingleR	
+Glu2	Glu2	Chen_h5_2_SingleR	
+Glu3	Glu3	Chen_h5_2_SingleR	
+Glu4	Glu4	Chen_h5_2_SingleR	
+Glu5	Glu5	Chen_h5_2_SingleR	
+Glu6	Glu6	Chen_h5_2_SingleR	
+Glu7	Glu7	Chen_h5_2_SingleR	
+Glu8	Glu8	Chen_h5_2_SingleR	
+Glu9	Glu9	Chen_h5_2_SingleR	
+Glutamatergic neuroblasts	Glutamatergic neuroblasts	Zeisel_2018_h5_2_SingleR	
+Goblet	Goblet	Haber_10x_FAE_h5_2_SingleR	
+Gran	Granulocytes	Lake_2018_h5_2_SingleR	
+granulocyte	Granulocytes	Quake_10x_Bone_Marrow_h5_2_SingleR	
+Granulocytes	Granulocytes	Vento-Tormo_10x_h5_2_SingleR	
+granulocytopoietic cell	Granulocytopoietic_cells	Quake_10x_Bone_Marrow_h5_2_SingleR	粒细胞生成细胞
+HB	Hofbauer_cells	Vento-Tormo_10x_h5_2_SingleR	
+hematopoietic precursor cell	hematopoietic precursor cell	Quake_10x_Bone_Marrow_h5_2_SingleR	
+hepatocyte	hepatocyte	Quake_10x_h5_2_SingleR	
+Hindbrain neurons	Hindbrain neurons	Zeisel_2018_h5_2_SingleR	
+Hista	Hista	Chen_h5_2_SingleR	
+horizontal	horizontal	Macosko_h5_2_SingleR	
+Hsd	Hormone_sensing_differentiated	Bach_h5_2_SingleR	
+Hsp	Hormone_sensing_progenitors	Bach_h5_2_SingleR	
+HSPC	HSPC	Velten_Smart-seq2_h5_2_SingleR	
+ICa	Interstitial_cells	Hochane_h5_2_SingleR	
+IC-A	IC-A	Wu_human_h5_2_SingleR	
+ICb	ICb	Hochane_h5_2_SingleR	
+IC-B	IC-B	Wu_human_h5_2_SingleR	
+ILC3	ILC3	Vento-Tormo_10x_h5_2_SingleR	
+IMM	Immune_cells	Wang_Kidney_h5_2_SingleR	
+immature B cell	B_cells	Quake_10x_Bone_Marrow_h5_2_SingleR	
+Immune	Immune_cells	Karaiskos_mouse_h5_2_SingleR	
+immune_other	Immune_cells	Baron_mouse_h5_2_SingleR	
+IMO	IMO	Chen_h5_2_SingleR	
+In1a	In1a	Lake_2018_h5_2_SingleR	
+In1b	In1b	Lake_2018_h5_2_SingleR	
+In1c	In1c	Lake_2018_h5_2_SingleR	
+In2	In2	Lake_2018_h5_2_SingleR	
+In3	In3	Lake_2018_h5_2_SingleR	
+In4a	In4a	Lake_2018_h5_2_SingleR	
+In4b	In4b	Lake_2018_h5_2_SingleR	
+In6a	In6a	Lake_2018_h5_2_SingleR	
+In6b	In6b	Lake_2018_h5_2_SingleR	
+In7	In7	Lake_2018_h5_2_SingleR	
+In8	In8	Lake_2018_h5_2_SingleR	
+Intestinal/rectal muscle	Intestinal/rectal muscle	Cao_h5_2_SingleR	
+Ionocyte	Ionocytes	Montoro_10x_h5_2_SingleR	
+Ionocytes	Ionocytes	Plasschaert_h5_2_SingleR	
+IPC	Interstitial_progenitor_cells	Hochane_h5_2_SingleR	间质祖细胞
+K.cells	K.cells	Haber_10x_FAE_h5_2_SingleR	
+keratinocyte	keratinocyte	Quake_10x_h5_2_SingleR	
+kidney capillary endothelial cell	kidney capillary endothelial cell	Quake_10x_h5_2_SingleR	
+Krt4/13+	Krt4/13+	Plasschaert_h5_2_SingleR	
+Kupffer cell	Kupffer cell	Quake_Smart-seq2_h5_2_SingleR	
+Langerhans cell	Langerhans cell	Quake_10x_h5_2_SingleR	
+large intestine goblet cell	large intestine goblet cell	Quake_Smart-seq2_h5_2_SingleR	
+late primary S'cytes	late primary S'cytes	Guo_h5_2_SingleR	
+Leu	Leukocytes	Hochane_h5_2_SingleR	
+leukocyte	Leukocytes	Quake_10x_Bladder_h5_2_SingleR	
+leydig cell	leydig cell	Guo_h5_2_SingleR	
+LH	Loop_of_Henle	Wang_Kidney_h5_2_SingleR	
+LH(AL#1)	Loop_of_Henle	Wu_human_h5_2_SingleR	
+LH(AL#2)	Loop_of_Henle	Wu_human_h5_2_SingleR	
+LH(DL)	Loop_of_Henle	Wu_human_h5_2_SingleR	
+LOH	LOH	Park_h5_2_SingleR	ascending loop of Henle
+Loop_of_Henle	Loop_of_Henle	Young_h5_2_SingleR	
+Lp	Luminal_Progenitor	Bach_h5_2_SingleR	
+luminal epithelial cell of mammary gland	luminal epithelial cell of mammary gland	Quake_10x_h5_2_SingleR	
+Luminal trajectory	Luminal trajectory	Giraddi_10x_h5_2_SingleR	
+lung endothelial cell	Endothelial_cells	Quake_10x_h5_2_SingleR	
+lymphocyte	lymphocyte	Quake_Smart-seq2_Diaphragm_h5_2_SingleR	
+Macro	Macrophages	Chen_h5_2_SingleR	
+macrophage	Macrophages	Baron_human_h5_2_SingleR	
+Macrophage	Macrophages	Wu_human_h5_2_SingleR	
+mast	Mast	Baron_human_h5_2_SingleR	
+mature natural killer cell	NKs	Quake_Smart-seq2_Bone_Marrow_h5_2_SingleR	
+M.cell	M.cell	Haber_10x_FAE_h5_2_SingleR	
+megakaryocyte-erythroid progenitor cell		Quake_Smart-seq2_Bone_Marrow_h5_2_SingleR	
+Mes	Mesangial_cells	Hochane_h5_2_SingleR	
+mesangial cell	Mesangial_cells	Quake_10x_h5_2_SingleR	
+Mesangial_cells	Mesangial_cells	Young_h5_2_SingleR	
+Mesangium	Mesangial_cells	Wu_human_h5_2_SingleR	
+mesenchymal	Mesenchymal	Enge_h5_2_SingleR	
+MG	Mesangial_cells	Wang_Kidney_h5_2_SingleR	
+Mic	Microglial_cell	Lake_2018_h5_2_SingleR	
+Micro	Microglial_cell	Chen_h5_2_SingleR	
+microglia	Microglial_cell	Macosko_h5_2_SingleR	
+Microglia	Microglial_cell	Zeisel_2018_h5_2_SingleR	
+microglial cell	Microglial_cell	Quake_Smart-seq2_Brain_Myeloid_h5_2_SingleR	
+MMPr trajectory	MMPr trajectory	Giraddi_10x_h5_2_SingleR	
+MO	MO	Vento-Tormo_10x_h5_2_SingleR	
+monocyte	Monocytes	Quake_10x_Bone_Marrow_h5_2_SingleR	
+muller	muller	Macosko_h5_2_SingleR	
+Mural_Cells	Mural_Cells	Campbell_h5_2_SingleR	
+myeloid cell	myeloid cell	Quake_10x_h5_2_SingleR	
+Myo	Myoepithelial_cells	Bach_h5_2_SingleR	
+myofibroblast cell	Myofibroblast_cell	Quake_Smart-seq2_h5_2_SingleR	
+myoid cell	B_cells	Guo_h5_2_SingleR	
+naive B cell	B_cells	Quake_Smart-seq2_Bone_Marrow_h5_2_SingleR	
+natural killer cell	NKs	Quake_10x_h5_2_SingleR	
+neuroendocrine cell	Neuroendocrine	Quake_10x_h5_2_SingleR	
+Neuroendocrine	Neuroendocrine	Montoro_10x_h5_2_SingleR	
+neuron	Neurons	Quake_Smart-seq2_Brain_Non-Myeloid_h5_2_SingleR	
+Neurons1	Neurons	Campbell_h5_2_SingleR	
+Neurons2	Neurons	Campbell_h5_2_SingleR	
+Neurons3	Neurons	Campbell_h5_2_SingleR	
+Neurons4	Neurons	Campbell_h5_2_SingleR	
+Neurons5	Neurons	Campbell_h5_2_SingleR	
+Neurons6	Neurons	Campbell_h5_2_SingleR	
+Neutro	Neutrophils	Park_h5_2_SingleR	
+NG2/OPC	NG2/OPC	Campbell_h5_2_SingleR	
+NK CD16+	NKs	Vento-Tormo_10x_h5_2_SingleR	
+non-classical monocyte	Monocytes	Quake_10x_h5_2_SingleR	
+Non-glutamatergic neuroblasts	Non-glutamatergic_neuroblasts	Zeisel_2018_h5_2_SingleR	
+Non-seam hypodermis	Non-seam hypodermis	Cao_h5_2_SingleR	
+Novel1	Novel1	Park_h5_2_SingleR	
+Novel2	Novel2	Park_h5_2_SingleR	
+NPCa	Nephron_progenitor_cells	Hochane_h5_2_SingleR	
+NPCb	Nephron_progenitor_cells	Hochane_h5_2_SingleR	
+NPCc	Nephron_progenitor_cells	Hochane_h5_2_SingleR	
+NPCd	Nephron_progenitor_cells	Hochane_h5_2_SingleR	
+Olfactory inhibitory neurons	Olfactory inhibitory neurons	Zeisel_2018_h5_2_SingleR	
+Oli	Oli	Lake_2018_h5_2_SingleR	
+Oligodend1	Oligodendrocytes	Campbell_h5_2_SingleR	
+Oligodend2	Oligodendrocytes	Campbell_h5_2_SingleR	
+Oligodend3	Oligodendrocytes	Campbell_h5_2_SingleR	
+oligodendrocyte	Oligodendrocytes	Quake_Smart-seq2_Brain_Non-Myeloid_h5_2_SingleR	
+Oligodendrocyte precursor cells	Oligodendrocytes	Zeisel_2018_h5_2_SingleR	
+Oligodendrocytes	Oligodendrocytes	Zeisel_2018_h5_2_SingleR	
+OPC	OPC	Lake_2018_h5_2_SingleR	
+Other interneurons	Other interneurons	Cao_h5_2_SingleR	
+Oxygen sensory neurons	Oxygen sensory neurons	Cao_h5_2_SingleR	
+pancreatic acinar cell	pancreatic acinar cell	Quake_Smart-seq2_h5_2_SingleR	
+Paneth	Paneth	Haber_10x_h5_2_SingleR	
+Paneth.1	Paneth	Haber_10x_largecell_h5_2_SingleR	
+Paneth.2	Paneth	Haber_10x_largecell_h5_2_SingleR	
+Paneth.progenitor	Paneth	Haber_10x_largecell_h5_2_SingleR	
+ParsTuber1	Pars_puberalis	Campbell_h5_2_SingleR	
+ParsTuber2	Pars_puberalis	Campbell_h5_2_SingleR	
+PC	PC	Wu_human_h5_2_SingleR	
+PD	Podocytes	Wang_Kidney_h5_2_SingleR	
+Pelvis	Pelvis	Young_h5_2_SingleR	
+Peptidergic neurons	Peptidergic neurons	Zeisel_2018_h5_2_SingleR	
+Per	Pericytes	Lake_2018_h5_2_SingleR	
+pericytes	Pericytes	Macosko_h5_2_SingleR	
+Pericytes	Pericytes	Zeisel_2018_h5_2_SingleR	
+Peripheral sensory peptidergic neurons		Zeisel_2018_h5_2_SingleR	
+Perivascular macrophages	Perivascular macrophages	Zeisel_2018_h5_2_SingleR	
+Pharyngeal epithelia	Pharyngeal epithelia	Cao_h5_2_SingleR	
+Plasma	Plasma	Vento-Tormo_10x_h5_2_SingleR	
+PNEC	PNEC	Plasschaert_h5_2_SingleR	
+Pod	Podocytes	Hochane_h5_2_SingleR	足细胞
+Podo	Podocytes	Park_h5_2_SingleR	
+Podocyte	Podocytes	Wu_human_h5_2_SingleR	
+Podocytes	Podocytes	Adam_h5_2_SingleR	
+POPC	POPC	Chen_h5_2_SingleR	
+Prc	Procr+_cells	Bach_h5_2_SingleR	
+Prelep	Prelep	Green_h5_2_SingleR	
+Prelep(1)	Prelep	Green_h5_2_SingleR	
+pre-natural killer cell	pre-natural killer cell	Quake_Smart-seq2_Bone_Marrow_h5_2_SingleR	
+Primitive	Primitive	Giraddi_10x_h5_2_SingleR	
+pro-B cell	pro-B cell	Quake_Smart-seq2_Bone_Marrow_h5_2_SingleR	
+proerythroblast	proerythroblast	Quake_10x_Bone_Marrow_h5_2_SingleR	
+professional antigen presenting cell	professional antigen presenting cell	Quake_10x_h5_2_SingleR	
+Prolif	Proliferating_cells	Hochane_h5_2_SingleR	
+promonocyte	promonocyte	Quake_10x_Bone_Marrow_h5_2_SingleR	
+Proximal_tubuluar_cells	Proximal_tubuluar_cells	Young_h5_2_SingleR	
+PT	Proximal_tubule	Wang_Kidney_h5_2_SingleR	
+PTA	pretubular_aggregate	Hochane_h5_2_SingleR	
+PT(S1)	Proximal_tubule	Wu_human_h5_2_SingleR	
+PT(S2)	Proximal_tubule	Wu_human_h5_2_SingleR	
+PT(S3)	Proximal_tubule	Wu_human_h5_2_SingleR	
+Purk1	Purk1	Lake_2018_h5_2_SingleR	
+Purk2	Purk2	Lake_2018_h5_2_SingleR	
+PVMMicro	PVMMicro	Campbell_h5_2_SingleR	peripheral vascular macrophage and microglia
+quiescent_stellate	quiescent_stellate	Baron_human_h5_2_SingleR	
+Rectum	Rectum	Cao_h5_2_SingleR	
+regulatory T cell	T_cells	Quake_Smart-seq2_Bone_Marrow_h5_2_SingleR	
+RI	Renal_interstitium	Wang_Kidney_h5_2_SingleR	
+rods	rods	Macosko_h5_2_SingleR	
+round S'tids	round S'tids	Guo_h5_2_SingleR	
+Satellite glia	Satellite_glia	Zeisel_2018_h5_2_SingleR	
+schwann	Schwann_cells	Baron_human_h5_2_SingleR	
+Schwann cells	Schwann_cells	Zeisel_2018_h5_2_SingleR	
+SCO	SCO	Chen_h5_2_SingleR	
+SCT	Syncytiotrophoblast	Vento-Tormo_10x_h5_2_SingleR	
+Scytes	Scytes	Green_h5_2_SingleR	
+Scytes(1)	Scytes	Green_h5_2_SingleR	
+Scytes(2)	Scytes	Green_h5_2_SingleR	
+Scytes(3)	Scytes	Green_h5_2_SingleR	
+Scytes(4)	Scytes	Green_h5_2_SingleR	
+Seam cells	Seam_cells	Cao_h5_2_SingleR	
+Secretory	Secretory	Plasschaert_h5_2_SingleR	
+sertoli cell	sertoli cell	Guo_h5_2_SingleR	
+skeletal muscle satellite cell	skeletal muscle satellite cell	Quake_10x_h5_2_SingleR	
+Slamf1-negative multipotent progenitor cell		Quake_Smart-seq2_Bone_Marrow_h5_2_SingleR	
+Slamf1-positive multipotent progenitor cell		Quake_Smart-seq2_Bone_Marrow_h5_2_SingleR	
+smooth muscle cell	Smooth_muscle_cell	Quake_Smart-seq2_h5_2_SingleR	
+Socket cells	Socket cells	Cao_h5_2_SingleR	
+Somatic gonad precursors	Somatic gonad precursors	Cao_h5_2_SingleR	
+sperm	sperm	Guo_h5_2_SingleR	
+SPG	SPG	Green_h5_2_SingleR	
+Spinal cord excitatory neurons	Spinal cord excitatory neurons	Zeisel_2018_h5_2_SingleR	
+SSBpod	SSBpod	Hochane_h5_2_SingleR	s-shaped body podocyte precursor cells
+SSBpr	SSBpr	Hochane_h5_2_SingleR	s-shaped body proximal precursor cells
+SSC	SSC	Guo_h5_2_SingleR	
+stem cell of epidermis	Stem_cells	Quake_Smart-seq2_h5_2_SingleR	
+Stem	Stem_cells	Haber_10x_h5_2_SingleR	
+Stem.TA	Stem_cells	Haber_10x_FAE_h5_2_SingleR	
+Stids	Stids	Green_h5_2_SingleR	
+Stids(1)	Stids	Green_h5_2_SingleR	
+Stids(2)	Stids	Green_h5_2_SingleR	
+stromal cell	Stromal_cells	Quake_10x_h5_2_SingleR	
+Stromal	Stromal_cells	Adam_h5_2_SingleR	
+Subcommissural organ hypendymal cells	Subcommissural organ hypendymal cells	Zeisel_2018_h5_2_SingleR	
+Subventricular zone radial glia-like cells	Subventricular zone radial glia-like cells	Zeisel_2018_h5_2_SingleR	
+Sympathetic noradrenergic neurons	Sympathetic noradrenergic neurons	Zeisel_2018_h5_2_SingleR	
+T lymph	T_cells	Park_h5_2_SingleR	
+TA	TA	Haber_10x_largecell_h5_2_SingleR	
+TA.Early	TA	Haber_10x_h5_2_SingleR	
+TA.G1	TA	Haber_10x_h5_2_SingleR	
+TA.G2	TA	Haber_10x_h5_2_SingleR	
+Tany	Tanycytes	Chen_h5_2_SingleR	
+Tanycyte1	Tanycytes	Campbell_h5_2_SingleR	
+Tanycyte2	Tanycytes	Campbell_h5_2_SingleR	
+t_cell	T_cells	Baron_human_h5_2_SingleR	
+T_cell	T_cells	Baron_mouse_h5_2_SingleR	
+Tcells	T_cells	Vento-Tormo_10x_h5_2_SingleR	
+Telencephalon projecting excitatory neurons		Zeisel_2018_h5_2_SingleR	
+Touch receptor neurons	Touch_receptor_neurons	Cao_h5_2_SingleR	
+Tubules	Tubules	Karaiskos_mouse_h5_2_SingleR	
+Tuft	Tuft	Haber_10x_FAE_h5_2_SingleR	
+type II pneumocyte	type II pneumocyte	Quake_10x_h5_2_SingleR	
+Unclassified neurons	Unclassified neurons	Cao_h5_2_SingleR	
+Ureteric bud	Ureteric bud	Adam_h5_2_SingleR	
+Urothelium	Urothelium	Young_h5_2_SingleR	
+Vascular and leptomeningeal cells	Vascular and leptomeningeal cells	Zeisel_2018_h5_2_SingleR	
+vascular_endothelium	Endothelial_cells	Macosko_h5_2_SingleR	
+VCT	Villous_cytotrophoblast	Vento-Tormo_10x_h5_2_SingleR	绒毛细胞滋养层
+VLMC	vascular and leptomeningeal cells	Campbell_h5_2_SingleR

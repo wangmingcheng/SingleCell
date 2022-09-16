@@ -1,0 +1,715 @@
+1-cell stage cell (Blastomere)	Blastomeres	
+4-cell stage cell (Blastomere)	Blastomeres	
+8-cell stage cell (Blastomere)	Blastomeres	
+Abnormal plasma cell	Plasma_cells	
+Acinar cell	Acinar_cells	
+Activated B cell	B_cells	
+Activated CD4+ T cell	T_cells	
+Activated CD8+ T cell	T_cells	
+Activated endothelial cell	Endothelial_cells	
+Activated neural stem cell	Stem_cells	
+Activated platelet	Platelets	
+Activated T cell	T_cells	
+Adipogenic cell	Adipocytes	
+Adipogenic progenitor cell	Progenitors	
+Adipose-derived stem cell	Stem_cells	
+Adipose-derived stromal cell	Stromal_cells	
+Adipose multilineage-differentiating stress-enduring cell	Adipose_multilineage-differentiating_stres-enduring_cells	
+Adipose progenitor cell	Progenitors	
+Adventitial cell	Dventitial_cells	
+Airway dendritic cell	DCs	
+Airway secretory cell	Secretory_cells	
+Allantois cell	Allantois_cells	
+Alpha cell	Alpha_cells	
+Alternative macrophage	Macrophages	
+Alveolar bipotent progenitor cell	Progenitors	
+Alveolar cell	Alveolar_cells	
+Alveolar epithelial progenitor cell	Progenitors	
+Alveolar macrophage	Macrophages	
+Alveolar progenitor cell	Progenitors	
+Amacrine cell	Amacrine_cells	
+Amnion epithelial cell	Epithelial_cells	
+Amniotic fluid stem cell	Stem_cells	
+Angiogenic T cell	T_cells	
+Anterior foregut endoderm cell	Endoderm_cells	
+Antral mucous cell 	Antral_mucous_cells	
+Arterial cell	Arterial_cells	
+Astrocyte	Astrocytes	
+Astrocyte precursor cell	Astrocytes	
+Astroglial cell(bergman glia)	Astrocytes	
+Astroglial progenitor cell	Progenitors	
+AT1 cell	AT1_cells	
+AT2 cell	AT2_cells	
+Atrial cell	Atrial_cells	心房细胞
+Atypical memory B cell	B_cells	
+Auditory progenitor cell	Progenitors	
+Axin2+ cell	Axin2+_cells	
+Axin2-Palpha+ cell	Axin2-Palpha+_cells	
+AXL+SIGLEC6+ dendritic cell	DCs	
+B1 cell	B1_cells	
+Basal cell	Basal_cells	
+Basal epithelial cell	Epithelial_cells	
+Basal progenitor cell	Progenitors	
+Basket cell	Basket_cells	
+Basophil	Basophils	嗜碱性粒细胞
+B cell	B_cells	
+Beige adipogenic precursor cell	Beige_adipogenic_precursor_cells	米色脂肪前体细胞
+Beige fat cell	Adipocytes	
+Bergmann glial cell	Bergmann_glial_cells	
+Beta cell	Betas	
+Bile duct cell	Ductal_cells	
+Bipolar cell	Bipolar_cells	双极细胞
+Blast cell	Blast_cells	母细胞
+Blastema cell	Blast_cells	
+Blood progenitor cell	Progenitors	
+Bone marrow stem cell	Stem_cells	
+Bone marrow stromal cell	Stromal_cells	
+Brown adipogenic precursor cell	Brown_adipogenic_precursor_cells	棕色脂肪前体细胞
+Brown fat cell	Adipocytes	
+Brown fat cell (adipocyte)	Adipocytes	
+Brush cell (Tuft cell)	Brush_cell_(Tuft_cell)s	
+Buccal epithelial stem cell	Stem_cells	
+Bulge stem cell	Stem_cells	
+Cajal-Retzius cell	Cajal-Retzius_cells	
+Cancer-associated fibroblast	Fibroblasts	
+Cancer cell	Cancer_cells	
+Cancer stem cell	Stem_cells	
+Cancer stem-like cell	Stem_cells	
+Cardiac progenitor cell	Progenitors	
+Cardiomyocyte	Cardiomyocytes	
+Cardiomyocyte progenitor cell	Progenitors	
+Cardiovascular progenitor cell	Progenitors	
+Cartilage cell	Cartilage_cells	
+Cartilage progenitor cell	Progenitors	
+CCK basket cell	CCK_basket_cells	
+CD141+CLEC9A+ dendritic cell	DCs	
+CD14+CD16+ monocyte	Monocytes	
+CD14++CD16- monocyte	Monocytes	
+CD14+ endothelial progenitor cell	Progenitors	
+CD16+ dendritic cell	DCs	
+CD1C+_A dendritic cell	DCs	
+CD1C+_B dendritic cell	DCs	
+CD1C-CD141- dendritic cell	DCs	
+CD3+ T cell	T_cells	
+CD4-CD28+ T cell	T_cells	
+CD4-CD28- T cell	T_cells	
+CD4+ cytotoxic T cell	T_cells	
+CD4+ memory T cell	T_cells	
+CD4+ T cell	T_cells	
+CD4+ T follicular helper cell	T_cells	
+CD8a+ dendritic cell	DCs	
+CD8+ T cell	T_cells	
+Central memory T cell	T_cells	
+Central nervous system stem cell	Stem_cells	
+Chandelier cell	Chandelier_cells	
+Cholinergic neuron	Cholinergic_neurons	
+Chondrocyte	Chondrocytes	
+Chondrocyte-derived bone cell	Chondrocyte-derived_bone_cells	
+Chondrogenic cell	Chondrogenic_cells	
+Chondro progenitor cell	Progenitors	
+Chromaffin cell	Chromaffin_cells	
+Ciliated cell	Ciliated_cells	
+Ciliated epithelial cell	Epithelial_cells	
+Circulating fetal cell	Circulating_fetal_cells	
+Circulating precursor cell	Circulating_precursor_cells	
+Circulating progenitor cell	Progenitors	
+Circulating stem like cell	Stem_cells	
+Clara cell	Clara_cells	
+Classical macrophage	Macrophages	
+Classical monocyte	Monocytes	
+Class-switched memory B cell	B_cells	
+Collecting duct intercalated cell	Collecting_duct_intercalated_cells	
+Collecting duct principal cell	Collecting_duct_principal_cells	
+Collecting duct transient cell	Collecting_duct_transient_cells	
+Colonic stem cell	Stem_cells	
+Colony-forming cell	Colony-forming_cells	
+Colorectal stem cell	Stem_cells	
+Columnar epithelium	Epithelial_cells	
+Common myeloid progenitor	Progenitors	
+Conventional dendritic cell	DCs	
+Corneal endothelial cell	Endothelial_cells	
+Corneal epithelial progenitor cell	Progenitors	
+Corneal epithelial stem cell	Stem_cells	
+Corneal limbal stem cell	Stem_cells	
+Cortical cell	Cortical_cells	
+Cortical thymus epithelial cell	Epithelial_cells	
+Cumulus cell	Cumulus_cells	
+Cxcl12-abundant reticular cell	Cxcl12-abundant_reticular_cells	
+CXCR6+ T cell	T_cells	
+Cycling basal cell	Cycling_basal_cells	
+Cytokine induced killer cell	Cytokine_induced_killer_cells	
+Cytotoxic cell	Cytotoxic_cells	
+Cytotoxic T cell	T_cells	
+Cytotrophoblast	Cytotrophoblasts	
+DCLK1+ progenitor cell	Progenitors	
+Decidual cell	Decidual_cells	
+Decidual stromal cell	Stromal_cells	
+Dedifferentiation adipocyte	Dedifferentiation_adipocytes	
+Definitive zone cell	Definitive_zone_cells	
+Delta cell	Delta_cells	
+Dendritic cell	DCs	
+Dendritic cell progenitor	Progenitors	
+Dental pulp cell	Dental_pulp_cells	
+Dental pulp stem cell	Stem_cells	
+Dermal fibroblast	Fibroblasts	
+Dermal papilla cell	Dermal_papilla_cells	
+Differentiated alveolar cell	Differentiated_alveolar_cells	
+Distal convoluted tubule cell	Distal_convoluted_tubule_cells	
+Dividing cell	Dividing_cells	
+Dividing dendritic cell	DCs	
+Dividing T cell	T_cells	
+Dopaminergic neuron	Dopaminergic_neurons	
+Dorsal otocyst	Dorsal_otocysts	
+Double-negative B cell	B_cells	
+Double-negative memory B cell	B_cells	
+Ductal cell	Ductal_cells	
+Duct cell	Ductal_cells	
+Early enterocyte precursor cell	Early_enterocyte_precursor_cells	
+Early hematopoietic cell	Early_hematopoietic_cells	
+Early intermediate precursor cell	Early_intermediate_precursor_cells	
+Early neuroblast	Early_neuroblasts	
+Early transit-amplifying prostate epithelial cell	Epithelial_cells	
+EBV+ B lymphoma cell	B_cells	
+Ectoderm cell	Ectoderm_cells	
+Effector CD4+ memory T (Tem) cell	T_cells	
+Effector CD8+ memory T (Tem) cell	T_cells	
+Effector memory T cell	T_cells	
+Effector T cell	T_cells	
+Embryonic stem cell	Stem_cells	
+Endocardial cell	Endocardial_cells	
+Endocrine cell	Endocrine_cells	
+Endocrine progenitor cell	Progenitors	
+Endodermal cell	Endodermal_cells	
+Endoderm cell	Endoderm_cells	
+Endoderm progenitor cell	Progenitors	
+Endogenic cell	Endogenic_cells	
+Endometrial precursor cell	Endometrial_precursor_cells	
+Endometrial progenitor cell	Progenitors	
+Endometrial stem cell	Stem_cells	
+Endometrial stromal stem cell	Stromal_cells	
+Endothelial cell	Endothelial_cells	
+Endothelial precursor cell	Endothelial_cells	
+Endothelial progenitor cell	Progenitors	
+Enteric muscle cell	Enteric_muscle_cells	
+Enterochromaffin cell	Enterochromaffin_cells	
+Enterocyte	Enterocytes	
+Enterocyte progenitor cell	Progenitors	
+Enteroendocrine cell	Enteroendocrine_cells	
+Enteroendocrine precursor cell	Enteroendocrine_precursor_cells	
+Eosinophil	Eosinophils	
+Eosinophil granulocyte	Eosinophil_granulocytes	
+Eosinophil progenitor cell	Progenitors	
+Ependymal cell	Ependymal_cells	
+Epiblast cell	Epiblast_cells	
+Epidermal stem cell	Stem_cells	
+Epidermal transit amplifying cell	Epidermal_transit_amplifying_cells	
+Epithelial cell	Epithelial_cells	
+Epithelial hair follicle stem cell	Stem_cells	
+Epithelial progenitor cell	Progenitors	
+Epithelial stem cell	Stem_cells	
+Epithelium cell	Epithelial_cells	
+Epithelium of small intestinal villi	Epithelial_cells	
+Erythroblast	Erythroblasts	
+Erythrocyte progenitor	Progenitors	
+Erythroid cell	Erythroid_cells	
+Erythroid precursor	Erythroid_precursors	
+Erythroid progenitor	Progenitors	
+Esophageal mucosal cell	Esophageal_mucosal_cells	
+Exhausted CD4+ T cell	T_cells	
+Exhausted CD8+ T cell	T_cells	
+Extraembryonic cell	Extraembryonic_cells	
+Extraembryonic ectoderm cell	Extraembryonic_ectoderm_cells	
+Extravillous trophoblast cell	Extravillous_trophoblast_cells	
+Fat cell (adipocyte)	Adipocytes	
+Fenestrated endothelial cell	Endothelial_cells	
+FGFR1HighNME5- epithelial cell	Epithelial_cells	
+FGFR1LowNME5- epithelial cell	Epithelial_cells	
+Fibroblast	Fibroblasts	
+Flk1+ mesodermal cell	Flk1+_mesodermal_cells	
+Follicular dendritic cell	DCs	
+Follicular helper (Tfh) T cell	T_cells	
+FOXN4+ cell	FOXN4+_cells	
+FOXP3+ natural regulatory T (Treg) cell	T_cells	
+Ganglion cell	Ganglion_cells	
+Gastric stem cell	Stem_cells	
+G cell	G_cells	
+Gdt cell 	Gdt_cell_s	
+Germ cell	Germ_cells	
+Germinal center B cell	B_cells	
+Germinal stem cell	Stem_cells	
+Germline stem cell	Stem_cells	
+Glandular epithelium	Epithelial_cells	
+Glial cell	Glial_cells	
+Glomerular epithelial cell	Epithelial_cells	
+Glomus cell	Glomus_cells	
+Glutamatergic neuron	Glutamatergic_neurons	
+Goblet cell	Goblet_cells	
+Goblet progenitor cell	Progenitors	
+Gonadal endothelial cell	Endothelial_cells	
+Gonadal mitotic phase fetal germ cell	Gonadal_mitotic_phase_fetal_germ_cells	
+Gonocyte	Gonocytes	
+Granulocyte	Granulocytes	
+Granulocyte-monocyte progenitor	Progenitors	
+Granulocyte monocyte progenitor cell	Progenitors	
+Granulosa cell	Granulosa_cells	
+Hair cell	Hair_cells	
+Hair follicle cell	Hair_follicle_cells	
+Heart muscle stem cell	Stem_cells	
+Hemangioblast	Hemangioblasts	
+Hematopoietic cell	Hematopoietic_cells	
+Hematopoietic precursor cell	Hematopoietic_precursor_cells	
+Hematopoietic progenitor cell	Progenitors	
+Hematopoietic stem cell	Stem_cells	
+Hematopoietic stem cell progenitor cell	Progenitors	
+Hepatic progenitor-like cell	Progenitors	
+Hepatoblast	Hepatoblasts	
+Hepatocyte	Hepatocytes	
+Hepatocyte-like cell	Hepatocyte-like_cells	
+HES1High progenitor cell	Progenitors	
+Hormone sensing differentiated cell	Hormone_sensing_differentiated_cells	
+Hormone sensing progenitor	Progenitors	
+Hypothalamic ependymal cell	Hypothalamic_ependymal_cells	
+Idiopathic pulmonary fibrosis cell	Idiopathic_pulmonary_fibrosis_cells	
+IgA lamina propria lymphocyte	IgA_lamina_propria_lymphocytes	
+IL-17Ralpha T cell	T_cells	
+Immature dendritic cell	DCs	
+Immature endothelial cell	Endothelial_cells	
+Immature myeloid cell	Immature_myeloid_cells	
+Immature neuron	Immature_neurons	
+Immature olfactory sensory neuron	Immature_olfactory_sensory_neurons	
+Immature sertoli cell	Immature_sertoli_cells	
+Immature transitional B cell	B_cells	
+Immune cell	Immune_cells	
+Immunocyte	Immunocytes	
+Incisor epithelial stem cell	Stem_cells	
+Induced regulatory T (Treg) cell	T_cells	
+Infiltrated mononuclear cell	Infiltrated_mononuclear_cells	
+Inflammatory cell	Inflammatory_cells	
+Inflammatory monocyte	Monocytes	
+Intermediate monocyte	Monocytes	
+Interneuron	Interneurons	
+Interneuron-selective cell	Interneuron-selective_cells	
+Interstitial cell	Interstitial_cells	
+Interstitial macrophage	Macrophages	
+Intestinal epithelial stem cell	Stem_cells	
+Intestinal stem cell	Stem_cells	
+Invasive spongiotrophoblast	Invasive_spongiotrophoblasts	
+Ionocyte cell	Ionocyte_cells	
+Ito cell (hepatic stellate cell)	Ito_cell_(hepatic_stellate_cell)s	
+Keratinocyte	Keratinocytes	
+Keratinocyte progenitor cell	Progenitors	
+Krt4/13+ cell	Krt4/13+_cells	
+Kupffer cell	Kupffer_cells	
+Labyrinthine trophoblast	Labyrinthine_trophoblasts	
+Lacrimal gland germ epithelial cell	Epithelial_cells	
+Lake et al.Science.Ex1	Lake_et_al.Science.Ex1s	
+Lake et al.Science.Ex2	Lake_et_al.Science.Ex2s	
+Lake et al.Science.Ex3	Lake_et_al.Science.Ex3s	
+Lake et al.Science.Ex4	Lake_et_al.Science.Ex4s	
+Lake et al.Science.Ex5	Lake_et_al.Science.Ex5s	
+Lake et al.Science.Ex6	Lake_et_al.Science.Ex6s	
+Lake et al.Science.Ex7	Lake_et_al.Science.Ex7s	
+Lake et al.Science.Ex8	Lake_et_al.Science.Ex8s	
+Lake et al.Science.In1	Lake_et_al.Science.In1s	
+Lake et al.Science.In2	Lake_et_al.Science.In2s	
+Lake et al.Science.In3	Lake_et_al.Science.In3s	
+Lake et al.Science.In4	Lake_et_al.Science.In4s	
+Lake et al.Science.In5	Lake_et_al.Science.In5s	
+Lake et al.Science.In6	Lake_et_al.Science.In6s	
+Lake et al.Science.In7	Lake_et_al.Science.In7s	
+Lake et al.Science.In8	Lake_et_al.Science.In8s	
+Langerhans cell	Langerhans_cells	
+Large granular lymphocyte	Large_granular_lymphocytes	
+Large luteal cell	Large_luteal_cells	
+Late activated neural stem cell	Stem_cells	
+Late enterocyte precursor cell	Late_enterocyte_precursor_cells	
+Late neuroblast	Late_neuroblasts	
+Late transit-amplifying prostate epithelial cell	Epithelial_cells	
+Lee et al.Cell.A	Lee_et_al.Cell.As	
+Lee et al.Cell.B	Lee_et_al.Cell.Bs	
+Lee et al.Cell.C	Lee_et_al.Cell.Cs	
+Lee et al.Cell.D	Lee_et_al.Cell.Ds	
+Lee et al.Cell.E	Lee_et_al.Cell.Es	
+Leptomeningeal cell	Leptomeningeal_cells	
+Leukocyte	Leukocytes	
+Leydig cell	Leydig_cells	
+Leydig precursor cell	Leydig_precursor_cells	
+Lgr5+ cell	Lgr5+_cells	
+LGR5+ stem cell	Stem_cells	
+Lgr6+ cell	Lgr6+_cells	
+Limbal epithelial stem cell	Stem_cells	
+Limbal mesenchymal cell	Limbal_mesenchymal_cells	
+Limbal stem cell	Stem_cells	
+Lipofibroblast	Lipofibroblasts	
+Liver bud hepatic cell	Liver_bud_hepatic_cells	
+Liver progenitor cell	Progenitors	
+Liver stem cell	Stem_cells	
+Long-projecting GABAergic cell	Long-projecting_GABAergic_cells	
+Long-term hematopoietic stem cell	Stem_cells	
+Luminal cell	Luminal_cells	
+Luminal epithelial cell	Epithelial_cells	
+Luminal progenitor	Progenitors	
+Luminal progenitor cell	Progenitors	
+Lung epithelial cell	Epithelial_cells	
+Luteal cell	Luteal_cells	
+Luteinizing granulosa cell	Luteinizing_granulosa_cells	
+Ly6c+ monocyte	Monocytes	
+Lymphatic endothelial cell	Endothelial_cells	
+Lymphatic vessel endothelial cell	Endothelial_cells	
+Lymphoblast	Lymphoblasts	
+Lymphocyte	Lymphocytes	
+Lymphoid cell	Lymphoid_cells	
+Lymphoid-primed multipotent progenitor	Progenitors	
+Lymphoid-primed multipotent progenitor cell	Progenitors	
+Lymphoid progenitor cell	Progenitors	
+Lymphoid stem cell	Stem_cells	
+M1 macrophage	Macrophages	
+M2 macrophage	Macrophages	
+Macrophage	Macrophages	
+Macrophage and dendritic cell precursor cell	DCs	
+Malignant mesothelioma cell	Malignant_mesothelioma_cells	
+Marginal zone B cell	B_cells	
+Martinotti cell	Martinotti_cells	
+Mast cell	Mast_cells	
+Mast cell progenitor	Progenitors	
+Matrix fibroblast	Fibroblasts	
+Mature endothelial cell	Endothelial_cells	
+Mature naive B cell	B_cells	
+Mature olfactory sensory neuron	Mature_olfactory_sensory_neurons	
+Mature sertoli cell	Mature_sertoli_cells	
+Medullary cell	Medullary_cells	
+Medullary thymus epithelial cell	Epithelial_cells	
+Megakaryocyte	Megakaryocytes	
+Megakaryocyte-erythroid progenitor	Progenitors	
+Megakaryocyte progenitor cell	Progenitors	
+Meiotic prophase fetal germ cell	Meiotic_prophase_fetal_germ_cells	
+Melanocyte	Melanocytes	
+Memory B cell	B_cells	
+Memory T cell	T_cells	
+Meniscus-derived progenitor cell	Progenitors	
+Meniscus-derived stem cell	Stem_cells	
+Merkel cell	Merkel_cells	
+Mesangial cell	Mesangial_cells	
+Mesenchymal cell	Mesenchymal_cells	
+Mesenchymal progenitor cell	Progenitors	
+Mesenchymal stem cell	Stem_cells	
+Mesenchymal stromal cell	Stromal_cells	
+Mesodermal progenitor cell	Progenitors	
+Mesoderm cell	Mesoderm_cells	
+Mesothelial cell	Mesothelial_cells	
+Microglia cell	Microglia_cells	
+Microglial cell	Microglial_cells	
+Migrating cancer stem cell	Stem_cells	
+Migration phase fetal germ cell	Migration_phase_fetal_germ_cells	
+Mitotic arrest phase fetal germ cell	Mitotic_arrest_phase_fetal_germ_cells	
+Mitotic fetal germ cell	Mitotic_fetal_germ_cells	
+MKI67+ progenitor cell	Progenitors	
+Monocyte	Monocytes	
+Monocyte derived dendritic cell	DCs	
+Monocyte progenitor cell	Progenitors	
+Morula cell (Blastomere)	Morula_cell_(Blastomere)s	
+Mucosal-associated invariant T cell	T_cells	
+Mucous acinar cell	Mucous_acinar_cells	
+Muller cell	Muller_cells	
+Muller glia precursor cell	Muller_glia_precursor_cells	
+Multilymphoid progenitor cell	Progenitors	
+Multiple pluripotent progenitor cell	Progenitors	
+Multipotent mesenchymal stroma cell	Multipotent_mesenchymal_stroma_cells	
+Multipotent progenitor cell	Progenitors	
+Multipotent stem cell	Stem_cells	
+Mural cell	Mural_cells	
+Muscle cell	Muscle_cells	
+Muscle-derived cell	Muscle-derived_cells	
+Muscle progenitor cell	Progenitors	
+Muscle satellite cell	Muscle_satellite_cells	
+Myelinating oligodendrocyte	Myelinating_oligodendrocytes	
+Myeloid cell	Myeloid_cells	
+Myeloid conventional dendritic cell	DCs	
+Myeloid dendritic cell	DCs	
+Myeloid-derived suppressor cell	Myeloid-derived_suppresor_cells	
+Myeloid leukocyte	Myeloid_leukocytes	
+Myeloid progenitor cell	Progenitors	
+Myoblast	Myoblasts	
+Myocyte	Myocytes	
+Myoepithelial cell	Epithelial_cells	
+Myofibroblast	Myofibroblasts	
+Myogenic cell	Myogenic_cells	
+Myogenic endothelial cell	Endothelial_cells	
+Myometrial stem cell	Stem_cells	
+Myotube	Myotubes	
+Naive B cell	B_cells	
+Naive CD4+ T cell	T_cells	
+Naive CD8+ T cell	T_cells	
+Naive T cell	T_cells	
+Natural killer cell	Natural_killer_cells	
+Natural killer T (NKT) cell	T_cells	
+Natural regulatory T (Treg) cell	T_cells	
+Nephron epithelial cell	Epithelial_cells	
+Neural cell	Neurons	
+Neural crest cell	Neural_crest_cells	
+Neural crest stem cell	Stem_cells	
+Neural progenitor cell	Progenitors	
+Neural stem cell	Stem_cells	
+Neuroblast	Neuroblasts	
+Neuroendocrine cell	Neuroendocrine_cells	
+Neuron	Neurons	
+Neuronal progenitor cell	Progenitors	
+Neuron-restricted precursor	Neuron-restricted_precursors	
+Neutrophil	Neutrophils	
+Neutrophil granulocyte	Neutrophils	
+Neutrophil progenitor cell	Neutrophils	
+NG2-glia cell	NG2-glia_cells	
+Non-classical monocyte	Monocytes	
+Non-switched B cell	B_cells	
+Non-switched memory B cell	B_cells	
+Nucleus pulposus cell	Nucleus_pulposus_cells	
+Nuocyte	Nuocytes	
+O cell	O_cells	
+Oesophageal progenitor cell	Progenitors	
+Oesophageal stem cell	Stem_cells	
+Olfactory ensheathing glia	Olfactory_ensheathing_glias	
+Olfactory sensory neuron	Olfactory_sensory_neurons	
+Oligodendrocyte	Oligodendrocytes	
+Oligodendrocyte precursor cell	Oligodendrocyte_precursor_cells	
+Oligodendrocyte progenitor cell	Progenitors	
+Oocyte	Oocytes	
+Oogenesis phase fetal germ cell	Oogenesis_phase_fetal_germ_cells	
+Oogonial stem cell	Stem_cells	
+Oral keratinocyte stem cell	Stem_cells	
+Osteoblast	Osteoblasts	
+Osteoclast	Osteoclasts	
+Osteoclast precursor cell	Osteoclast_precursor_cells	
+Osteocyte	Osteocytes	
+Osteogenic cell	Osteogenic_cells	
+Osteogenic precursor-like cell	Osteogenic_precursor-like_cells	
+Outer Pillar Cell	Outer_Pillar_Cells	
+Ovarian germ stem cell	Stem_cells	
+Ovarian somatic cell	Ovarian_somatic_cells	
+Ovarian surface epithelial cell	Epithelial_cells	
+Oviduct-derived stem cell	Stem_cells	
+Oxyntic progenitor cell	Progenitors	
+Oxyntic stem cell	Stem_cells	
+Pancreatic ductal cell	Ductal_cells	
+Pancreatic ductal stem cell	Stem_cells	
+Pancreatic endoderm cell	Pancreatic_endoderm_cells	
+Pancreatic polypeptide cell	Pancreatic_polypeptide_cells	
+Pancreatic progenitor cell	Progenitors	
+Pancreatic stem cell	Stem_cells	
+Paneth cell	Paneth_cells	
+Pan-gabaergic	Pan-gabaergics	
+Parietal cell 	Parietal_cell_s	
+Parietal progenitor cell	Progenitors	
+Pdgfrapha+ cell	Pdgfrapha+_cells	
+PDX1+ pancreatic progenitor cell	Progenitors	
+Pe lineage cell	Pe_lineage_cells	
+Pericyte	Pericytes	
+Periodontal ligament stem cell	Stem_cells	
+Periosteum-derived progenitor cell	Progenitors	
+Peripheral monocyte	Monocytes	
+Peritubular myoid cell	Peritubular_myoid_cells	
+Pharyngeal mesoderm cell	Pharyngeal_mesoderm_cells	
+Photoreceptor cell	Photoreceptor_cells	
+Pigment epithelial cell	Epithelial_cells	
+Pit cell	Pit_cells	
+Pit progenitor cell	Progenitors	
+Placenta cell	Placenta_cells	
+Plasmablast	Plasma_cells	
+Plasma cell	Plasma_cells	
+Plasmacytoid dendritic cell	Plasma_cells	
+Platelet	Platelets	
+Pluripotent stem cell	Stem_cells	
+Pluripotent very small embryonic-like cell	Pluripotent_very_small_embryonic-like_cells	
+Podocyte	Podocytes	
+Polymorphonuclear neutrophil	Neutrophils	
+PP cell	PP_cells	
+Preadipocyte	Preadipocytes	
+Preadipocyte progenitor cell	Progenitors	
+Precursor cell	Precursor_cells	
+Pre-haematopoietic stem cell	Stem_cells	
+Preleptotene spermatogonia	Preleptotene_spermatogonias	
+Pre-megakaryocyte-erythroid progenitor cell	Progenitors	
+Premeiotic germ cell	Premeiotic_germ_cells	
+Pre-pro B cell	B_cells	
+Pre T cell	T_cells	
+Primitive endoderm cell	Primitive_endoderm_cells	
+Primitive erythroid cell	Primitive_erythroid_cells	
+Primitive streak cell	Primitive_streak_cells	
+Primitive vesicle cell	Primitive_vesicle_cells	
+Primordial germ cell	Primordial_germ_cells	
+Proangiogenic cell	Proangiogenic_cells	
+Procr+ basal cell	Procr+_basal_cells	
+PROCR+ progenitor cell	Progenitors	
+Progenitor cell	Progenitors	
+Progenitor-like angiogenesis-promoting cell	Progenitors	
+Proliferating thymocyte	Proliferating_thymocytes	
+PROM1High progenitor cell	Progenitors	
+PROM1Low progenitor cell	Progenitors	
+pro-Natural killer cell (pro-NK cell)	pro-Natural_killer_cell_(pro-NK_cell)s	
+Prostate progenitor cell	Progenitors	
+Prostate stem cell	Stem_cells	
+Proximal tubular cell	Proximal_tubular_cells	
+Proximal tubule brush border cell	Proximal_tubule_brush_border_cells	
+Proximal tubule cell	Proximal_tubule_cells	
+Purkinje cell	Purkinje_cells	
+Pyramidal neuron cell	Pyramidal_neuron_cells	
+Quiescent neural stem cell	Stem_cells	
+Quiescent satellite cell	Quiescent_satellite_cells	
+Quiescent small intestinal stem cell	Stem_cells	
+Radial glial cell	Radial_glial_cells	
+Red blood cell (erythrocyte)	Red_blood_cell_(erythrocyte)s	
+Regulatory B cell	B_cells	
+Regulatory T (Treg) cell	T_cells	
+Reproductive tissue cell	Reproductive_tisue_cells	
+Responder T cell	T_cells	
+Retinal ganglion cell	Retinal_ganglion_cells	
+Retinal progenitor cell	Progenitors	
+Retinoid acid signaling-responsive fetal germ cell	Retinoid_acid_signaling-responsive_fetal_germ_cells	
+Rheaume et al.Nat Commun.1	Rheaume_et_al.Nat_Commun.1s	
+Rheaume et al.Nat Commun.10	Rheaume_et_al.Nat_Commun.10s	
+Rheaume et al.Nat Commun.11	Rheaume_et_al.Nat_Commun.11s	
+Rheaume et al.Nat Commun.12	Rheaume_et_al.Nat_Commun.12s	
+Rheaume et al.Nat Commun.13	Rheaume_et_al.Nat_Commun.13s	
+Rheaume et al.Nat Commun.14	Rheaume_et_al.Nat_Commun.14s	
+Rheaume et al.Nat Commun.15	Rheaume_et_al.Nat_Commun.15s	
+Rheaume et al.Nat Commun.16	Rheaume_et_al.Nat_Commun.16s	
+Rheaume et al.Nat Commun.17	Rheaume_et_al.Nat_Commun.17s	
+Rheaume et al.Nat Commun.18	Rheaume_et_al.Nat_Commun.18s	
+Rheaume et al.Nat Commun.19	Rheaume_et_al.Nat_Commun.19s	
+Rheaume et al.Nat Commun.2	Rheaume_et_al.Nat_Commun.2s	
+Rheaume et al.Nat Commun.20	Rheaume_et_al.Nat_Commun.20s	
+Rheaume et al.Nat Commun.21	Rheaume_et_al.Nat_Commun.21s	
+Rheaume et al.Nat Commun.22	Rheaume_et_al.Nat_Commun.22s	
+Rheaume et al.Nat Commun.23	Rheaume_et_al.Nat_Commun.23s	
+Rheaume et al.Nat Commun.24	Rheaume_et_al.Nat_Commun.24s	
+Rheaume et al.Nat Commun.25	Rheaume_et_al.Nat_Commun.25s	
+Rheaume et al.Nat Commun.26	Rheaume_et_al.Nat_Commun.26s	
+Rheaume et al.Nat Commun.27	Rheaume_et_al.Nat_Commun.27s	
+Rheaume et al.Nat Commun.28	Rheaume_et_al.Nat_Commun.28s	
+Rheaume et al.Nat Commun.29	Rheaume_et_al.Nat_Commun.29s	
+Rheaume et al.Nat Commun.3	Rheaume_et_al.Nat_Commun.3s	
+Rheaume et al.Nat Commun.30	Rheaume_et_al.Nat_Commun.30s	
+Rheaume et al.Nat Commun.31	Rheaume_et_al.Nat_Commun.31s	
+Rheaume et al.Nat Commun.32	Rheaume_et_al.Nat_Commun.32s	
+Rheaume et al.Nat Commun.33	Rheaume_et_al.Nat_Commun.33s	
+Rheaume et al.Nat Commun.34	Rheaume_et_al.Nat_Commun.34s	
+Rheaume et al.Nat Commun.35	Rheaume_et_al.Nat_Commun.35s	
+Rheaume et al.Nat Commun.36	Rheaume_et_al.Nat_Commun.36s	
+Rheaume et al.Nat Commun.37	Rheaume_et_al.Nat_Commun.37s	
+Rheaume et al.Nat Commun.38	Rheaume_et_al.Nat_Commun.38s	
+Rheaume et al.Nat Commun.39	Rheaume_et_al.Nat_Commun.39s	
+Rheaume et al.Nat Commun.4	Rheaume_et_al.Nat_Commun.4s	
+Rheaume et al.Nat Commun.40	Rheaume_et_al.Nat_Commun.40s	
+Rheaume et al.Nat Commun.5	Rheaume_et_al.Nat_Commun.5s	
+Rheaume et al.Nat Commun.6	Rheaume_et_al.Nat_Commun.6s	
+Rheaume et al.Nat Commun.7	Rheaume_et_al.Nat_Commun.7s	
+Rheaume et al.Nat Commun.8	Rheaume_et_al.Nat_Commun.8s	
+Rheaume et al.Nat Commun.9	Rheaume_et_al.Nat_Commun.9s	
+Rhombic lip cell	Rhombic_lip_cells	
+Rod photoreceptor precursor cell	Rod_photoreceptor_precursor_cells	
+S cell	S_cells	
+Schwalie et al.Nature.G1	Schwalie_et_al.Nature.G1s	
+Schwalie et al.Nature.G2	Schwalie_et_al.Nature.G2s	
+Schwalie et al.Nature.G3	Schwalie_et_al.Nature.G3s	
+Schwalie et al.Nature.G4	Schwalie_et_al.Nature.G4s	
+Schwalie et al.Nature.P1	Schwalie_et_al.Nature.P1s	
+Schwalie et al.Nature.P2	Schwalie_et_al.Nature.P2s	
+Schwalie et al.Nature.P3	Schwalie_et_al.Nature.P3s	
+Schwann cell	Schwann_cells	
+Secretory alveoli cell	Secretory_alveoli_cells	
+Secretory cell	Secretory_cells	
+Secretory progenitor cell	Progenitors	
+Semilunar valve cell	Semilunar_valve_cells	
+Serous acinar cell	Serous_acinar_cells	
+Sertoli cell	Sertoli_cells	
+Side-population cell	Side-population_cells	
+Sinoatrial node cell	Sinoatrial_node_cells	
+Skeletal muscle cell	Skeletal_muscle_cells	
+Skeletal muscle stem cell	Stem_cells	
+Skin stem cell	Stem_cells	
+SLC16A7+ cell	SLC16A7+_cells	
+Small intestinal stem cell	Stem_cells	
+Smooth muscle cell	Smooth_muscle_cells	
+Somatic stem cell	Stem_cells	
+Spermatids	Spermatids	
+Spermatocyte	Spermatocytes	
+Spermatogonia	Spermatogonias	
+Spermatogonial stem cell	Stem_cells	
+Spermatogonium	Spermatogoniums	
+Spiral artery trophoblast giant cell	Spiral_artery_trophoblast_giant_cells	
+Spongiotrophoblast	Spongiotrophoblasts	
+Stage II neutrophil	Neutrophils	
+Stage I neutrophil	Neutrophils	
+Stem and progenitor cell	Progenitors	
+Stem cell	Stem_cells	
+Stem leydig cell	Stem_leydig_cells	
+Stomach stem cell	Stem_cells	
+Stromal cell	Stromal_cells	
+Stromal vascular fraction cell	Stromal_cells	
+Submandibular gland stem cell	Stem_cells	
+Suppressive monocyte	Monocytes	
+Suppressor T cell	T_cells	
+Switched memory B cell	B_cells	
+Syncytiotrophoblast	Syncytiotrophoblasts	
+T1 (Transitional) B cell	B_cells	
+T2 (Transitional) B cell	B_cells	
+Taste bud cell	Taste_bud_cells	
+T cell	T_cells	
+Tendon stem/progenitor cell	Progenitors	
+Testicular stem cell	Stem_cells	
+Testis somatic cell	Testis_somatic_cells	
+Theca interna cell	Theca_interna_cells	
+Thecal cell	Thecal_cells	
+T helper17 (Th17) cell	T_cells	
+T helper1 (Th1) cell	T_cells	
+T helper2 (Th2) cell	T_cells	
+T helper cell	T_cells	
+Thick ascending limb of the loop of henle	Thick_ascending_limb_of_the_loop_of_henles	
+Thymic emigrant cell	Thymic_emigrant_cells	
+Thymocyte	Thymocytes	
+Thymus-derived regulatory T (Treg) cell	T_cells	
+Transit amplifying (TA) cell	Transit_amplifying_(TA)_cells	
+Transitional B cell	B_cells	
+Trophectoderm cell	Trophectoderm_cells	
+Trophoblast cell	Trophoblast_cells	
+Trophoblast progenitor cell	Progenitors	
+Tuft cell	Tuft_cells	
+Tuft progenitor cell	Progenitors	
+Tumor endothelial cell	Endothelial_cells	
+Tympanic border cell	Tympanic_border_cells	
+Type IA spiral ganglion neuron	Type_IA_spiral_ganglion_neurons	
+Type IB spiral ganglion neuron	Type_IB_spiral_ganglion_neurons	
+Type IC spiral ganglion neuron	Type_IC_spiral_ganglion_neurons	
+Type III taste bud cell	Type_III_taste_bud_cells	
+Type II pneumocyte	Type_II_pneumocytes	
+Type II spiral ganglion neuron	Type_II_spiral_ganglion_neurons	
+Type II taste bud cell	Type_II_taste_bud_cells	
+Type I pneumocyte	Type_I_pneumocytes	
+Type I spiral ganglion neuron	Type_I_spiral_ganglion_neurons	
+Umbrella cell	Umbrella_cells	
+Undifferentiated type A spermatogonium	Undifferentiated_type_A_spermatogoniums	
+Unrestricted somatic stem cell	Stem_cells	
+Ureteric bud cell	Ureteric_bud_cells	
+Ureteric epithelium cell	Epithelial_cells	
+Urine-derived stem cell	Stem_cells	
+Urothelium cell	Urothelium_cells	
+Vaginal cell	Vaginal_cells	
+Vascular cell	Vascular_cells	
+Vascular endothelial cell	Endothelial_cells	
+Vascular progenitor cell	Progenitors	
+Vascular smooth muscle cell	Vascular_smooth_muscle_cells	
+Vascular smooth muscle progenitor cell	Progenitors	
+Vascular stem cell	Stem_cells	
+Vascular surface endothelium cell	Endothelial_cells	
+Venous cell	Venous_cells	
+Ventral otocyst	Ventral_otocysts	
+Ventricular cardiomyocyte	Ventricular_cardiomyocytes	
+Ventricular compact cell	Ventricular_compact_cells	
+Ventricular trabecular cell	Ventricular_trabecular_cells	
+Villous cytotrophoblast	Villous_cytotrophoblasts	
+Villous stromal cell	Stromal_cells	
+Visceral endoderm cell	Visceral_endoderm_cells	
+Vomeronasal sensory neuron	Vomeronasal_sensory_neurons	
+White blood cell	White_blood_cells	
+White fat cell	Adipocytes	
+Wnt2+ cell	Wnt2+_cells	
+Zymogenic chief cell	Zymogenic_chief_cells	

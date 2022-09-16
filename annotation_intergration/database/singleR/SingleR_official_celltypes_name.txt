@@ -1,0 +1,82 @@
+Adipocytes	Adipocytes	脂肪細胞|脂细胞|肥胖细胞
+Astrocyte	Astrocytes	胶细胞|星状胶质细胞|星形细胞
+Astrocytes	Astrocytes	胶细胞|星状胶质细胞|星形细胞
+Basophils	Basophils	嗜碱粒细胞|嗜碱性粒细胞|嗜碱细胞|嗜碱性白血球
+B_cell	B_cells
+B cells	B_cells
+B-cells	B_cells
+B cells, pro	B_cells
+BM	BM_cells	骨髓细胞|骨髓干细胞|骨髓有核细胞
+BM & Prog.	BM_Cells
+Cardiomyocytes	Cardiomyocytes	心肌细胞|心肌|向心肌细胞
+CD4+ T cells	T_cells
+CD4+ T-cells	T_cells
+CD8+ T cells	T_cells
+CD8+ T-cells	T_cells
+Chondrocytes	Chondrocytes	软骨细胞|关节软骨细胞|成软骨细胞|软骨母细胞
+CMP	CMPs	multipotent common myeloid progenitor (CMP) cells
+CMPs	CMPs
+DC	DCs
+Dendritic cells	DCs
+Embryonic_stem_cells	ESCs
+Endothelial cells	Endothelial_cells
+Endothelial_cells	Endothelial_cells
+Eosinophils	Eosinophils
+Epithelial cells	Epithelial_cells
+Epithelial_cells	Epithelial_cells
+Erythroblast	Erythroblasts
+Erythrocytes	Erythrocytes
+Erythroid cells	Erythroid_cells
+Fibroblasts	Fibroblasts
+Gametocytes	Gametocytes
+GMP	GMPs	granulocyte-monocyte progenitor
+GMPs	GMPs
+Granulocytes	Granulocytes
+Hepatocytes	Hepatocytes
+HSC	HSCs	Hematopoietic stem cells
+HSC_CD34+	HSCs
+HSC_-G-CSF	HSCs
+HSCs	HSCs
+ILC	ILCs	Innate Lymphoid Cells
+iPS_cells	iPS_cells	Induced Pluripotent Stem Cells 
+Keratinocytes	Keratinocytes
+Macrophage	Macrophages
+Macrophages	Macrophages
+Mast cells	Mast_cells
+Megakaryocytes	Megakaryocytes
+Melanocytes	Melanocytes
+MEP	MEPs	megakaryocyte–erythroid progenitor cell
+MEPs	MEPs
+Mesangial cells	Mesangial_cells
+Microglia	Microglia_cells
+Monocyte	Monocytes
+Monocytes	Monocytes
+MSC	MSCs	Mesenchymal stem cell
+Myelocyte	Myelocytes
+Myocytes	Myocytes
+Neuroepithelial_cell	Neuroepithelial_cells
+Neurons	Neurons
+Neutrophils	Neutrophils
+NK_cell	NK_cells
+NK cells	NK_cells
+NKT	NKT_cells	Natural killer T cells
+NK T cells	NKT_cells
+Oligodendrocytes	Oligodendrocytes
+Osteoblasts	Osteoblasts
+Pericytes	Pericytes
+Platelets	Platelets	
+Pre-B_cell_CD34-	Pre-B_cells
+Pro-B_cell_CD34+	Pro-B_cells
+Progenitors	Progenitors
+Pro-Myelocyte	Promyelocytes
+Skeletal muscle Skeletal_muscle_cells
+Smooth muscle	Smooth_muscle_cells
+Smooth_muscle_cells	Smooth_muscle_cells
+Stem cells	Stem_cells
+Stromal cells	Stromal_cells
+T cells	T_cells
+T_cells	T_cells
+T cells, CD4+	T_cells
+T cells, CD8+	T_cells
+Tgd	Tgds	T_cells
+Tissue_stem_cells	Tissue_stem_cells

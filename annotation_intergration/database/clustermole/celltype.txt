@@ -1,0 +1,2365 @@
+1-cell stage cell (Blastomere)	Blastomeres	1-cell stage cell (Blastomere)	Blastomeres
+3T3-L1	3T3-L1	小鼠前脂肪细胞	3T3-L1	3T3-L1	小鼠前脂肪细胞
+4-cell stage cell (Blastomere)	Blastomeres	4-cell stage cell (Blastomere)	Blastomeres
+8-cell stage cell (Blastomere)	Blastomeres	8-cell stage cell (Blastomere)	Blastomeres
+Abdomen	Abdomen	Abdomen	Abdomen
+Abomasum	Abomasum	Abomasum	Abomasum
+ACD	ACD	Active Cell Death	ACD	ACD	Active Cell Death
+Acinar cell	Acinar_cells	Acinar cell	Acinar_cells
+Acinar cells	Acinar_cells	Acinar cells	Acinar_cells
+ACN	ACN	ACN	ACN
+Activated CD4+ T cell	T_cells	T_cells
+Activated T cell	T_cells	T_cells
+Acute myeloid leukemia cell	AML	Acute myeloid leukemia cell	AML
+Acute promyelocytic leukemia cell	APL	Acute promyelocytic leukemia cell	APL
+aDC_IRIS_1	aDC		aDC_IRIS_1	aDC	
+aDC_IRIS_2	aDC	aDC_IRIS_2	aDC
+aDC_IRIS_3	aDC	aDC_IRIS_3	aDC
+Adenocarcinoma cell	Adenocarcinoma_cells	Adenocarcinoma cell	Adenocarcinoma_cells
+Adenocarcinoma cell line	Adenocarcinoma_cells	Adenocarcinoma cell line	Adenocarcinoma_cells
+Adipocyte	Adipocytes	Adipocytes
+Adipocyte progenitor cells	Adipocytes	Adipocytes
+Adipocytes	Adipocytes	Adipocytes
+Adipocytes_ENCODE_1	Adipocytes	Adipocytes
+Adipocytes_ENCODE_2	Adipocytes	Adipocytes
+Adipocytes_ENCODE_3	Adipocytes	Adipocytes
+Adipocytes_HPCA_1	Adipocytes	Adipocytes
+Adipocytes_HPCA_2	Adipocytes	Adipocytes
+Adipocytes_HPCA_3	Adipocytes	Adipocytes
+adipose_brown	Adipose_cells	adipose_brown	Adipose_cells
+ADIPOSE (BULK TISSUE)	Adipose_cells	ADIPOSE (BULK TISSUE)	Adipose_cells
+Adipose-derived stem cell	Stem_cells	Stem_cells
+Adipose-derived stromal cell	Stromal_cells	Adipose-derived stromal cell	Stromal_cells
+Adipose tissue	Adipose_cells	Adipose tissue	Adipose_cells
+adipose_white	Adipose_cells	adipose_white	Adipose_cells
+Adrenal cortex	Adrenal_cortex_cells	Adrenal cortex	Adrenal_cortex_cells
+adrenal_gland	Adrenal_gland	adrenal_gland	Adrenal_gland
+Adrenal gland	Adrenal_gland	Adrenal gland	Adrenal_gland
+ADRENAL GLAND	Adrenal_gland	ADRENAL GLAND	Adrenal_gland
+Adrenergic neurons	Neurons	Neurons
+Adult stem cell	Stem_cells	Stem_cells
+Adventitial cell	Adventitial_cells	Adventitial cell	Adventitial_cells
+Airway goblet cells	Goblet_cells	T_cells
+AIZARANI_LIVER_C10_MVECS_1	MVECs	AIZARANI_LIVER_C10_MVECS_1	MVECs
+AIZARANI_LIVER_C11_HEPATOCYTES_1	Hepatocytes	Hepatocytes
+AIZARANI_LIVER_C12_NK_NKT_CELLS_4	NK_cells	T_cells
+AIZARANI_LIVER_C13_LSECS_2	LSECs	AIZARANI_LIVER_C13_LSECS_2	LSECs
+AIZARANI_LIVER_C14_HEPATOCYTES_2	Hepatocytes	Hepatocytes
+AIZARANI_LIVER_C17_HEPATOCYTES_3	Hepatocytes	Hepatocytes
+AIZARANI_LIVER_C18_NK_NKT_CELLS_5	NK_cells	T_cells
+AIZARANI_LIVER_C1_NK_NKT_CELLS_1	NK_cells	T_cells
+AIZARANI_LIVER_C20_LSECS_3	LSECs	AIZARANI_LIVER_C20_LSECS_3	LSECs
+AIZARANI_LIVER_C21_STELLATE_CELLS_1		AIZARANI_LIVER_C21_STELLATE_CELLS_1	
+AIZARANI_LIVER_C22_RESIDENT_B_CELLS_2	B_cells
+AIZARANI_LIVER_C23_KUPFFER_CELLS_3	AIZARANI_LIVER_C23_KUPFFER_CELLS_3
+AIZARANI_LIVER_C24_EPCAM_POS_BILE_DUCT_CELLS_3	T_cells
+AIZARANI_LIVER_C25_KUPFFER_CELLS_4	AIZARANI_LIVER_C25_KUPFFER_CELLS_4
+AIZARANI_LIVER_C28_NK_NKT_CELLS_6	T_cells
+AIZARANI_LIVER_C29_MVECS_2	AIZARANI_LIVER_C29_MVECS_2
+AIZARANI_LIVER_C2_KUPFFER_CELLS_1	AIZARANI_LIVER_C2_KUPFFER_CELLS_1
+AIZARANI_LIVER_C30_HEPATOCYTES_4	Hepatocytes
+AIZARANI_LIVER_C31_KUPFFER_CELLS_5	AIZARANI_LIVER_C31_KUPFFER_CELLS_5
+AIZARANI_LIVER_C32_MVECS_3	AIZARANI_LIVER_C32_MVECS_3
+AIZARANI_LIVER_C33_STELLATE_CELLS_2	AIZARANI_LIVER_C33_STELLATE_CELLS_2
+AIZARANI_LIVER_C34_MHC_II_POS_B_CELLS	B_cells
+AIZARANI_LIVER_C38_RESIDENT_B_CELLS_3	B_cells
+AIZARANI_LIVER_C39_EPCAM_POS_BILE_DUCT_CELLS_4	T_cells
+AIZARANI_LIVER_C3_NK_NKT_CELLS_2	T_cells
+AIZARANI_LIVER_C4_EPCAM_POS_BILE_DUCT_CELLS_1	T_cells
+AIZARANI_LIVER_C5_NK_NKT_CELLS_3	T_cells
+AIZARANI_LIVER_C6_KUPFFER_CELLS_2	AIZARANI_LIVER_C6_KUPFFER_CELLS_2
+AIZARANI_LIVER_C7_EPCAM_POS_BILE_DUCT_CELLS_2	T_cells
+AIZARANI_LIVER_C8_RESIDENT_B_CELLS_1	B_cells
+AIZARANI_LIVER_C9_LSECS_1	AIZARANI_LIVER_C9_LSECS_1
+Alimentary canal	Alimentary canal
+ALO	ALO
+Alpha cell	Alpha cell
+ALPHA CELL	ALPHA CELL
+Alpha cells	Alpha cells
+ALVEOLAR CELL TYPE II	ALVEOLAR CELL TYPE II
+ALVEOLAR MACROPHAGE	Macrophages
+Alveolar macrophages	Macrophages
+Alveolar progenitor cell	Progenitors
+Amnion	Amnion
+Amniotic fluid	Amniotic fluid
+AMNIOTIC FLUID	AMNIOTIC FLUID
+amygdala	amygdala
+Amygdala	Amygdala
+Angiogenic T cell	T_cells
+Anterior pituitary gland cells	Anterior pituitary gland cells
+Aorta	Aorta
+Aorta endothelium	Endothelial_cells
+Aortic smooth muscle	Aortic smooth muscle
+Arterial cell	Arterial cell
+Arterial smooth muscle	Arterial smooth muscle
+Artery	Artery
+Articular cartilage	Articular cartilage
+Astrocyte	Astrocytes
+ASTROCYTE	Astrocytes
+Astrocytes	Astrocytes
+Astrocytes_ENCODE_1	Astrocytes
+Astrocytes_ENCODE_2	Astrocytes
+Astrocytes_ENCODE_3	Astrocytes
+Astrocytes_FANTOM_1	Astrocytes
+Astrocytes_FANTOM_2	Astrocytes
+Astrocytes_FANTOM_3	Astrocytes
+Astrocytoma cell	Astrocytoma cell
+Astroglia	Astroglia
+Astroglial cell	Astroglial cell
+ATD	ATD
+ATRIUM	ATRIUM
+Autonomic nervous system	Autonomic nervous system
+Avian pallium	Avian pallium
+Axin2+ cell	Axin2+ cell
+Axin2-Palpha+ cell	Axin2-Palpha+ cell
+AXL+SIGLEC6+ dendritic cell	DCs
+Baf3	Baf3
+Basal cell	Basal cell
+BASAL CELL	BASAL CELL
+Basal cells	Basal cells
+Basal ganglion	Basal ganglion
+Basket cell	Basket cell
+Basophil	Basophils
+Basophils	Basophils
+Basophils_FANTOM_1	Basophils
+Basophils_FANTOM_2	Basophils
+Basophils_FANTOM_3	Basophils
+Basophils_NOVERSHTERN_1	Basophils
+Basophils_NOVERSHTERN_2	Basophils
+Basophils_NOVERSHTERN_3	Basophils
+BCC	BCC
+B cell	B_cells
+B_cell	B_cells
+B cell (Leukemia)	B_cells
+B-cell lymphoma cell	B_cells
+B cell (Renal Cell Carcinoma)	B_cells
+B cells	B_cells
+B-cells_FANTOM_1	B_cells
+B-cells_FANTOM_2	B_cells
+B-cells_FANTOM_3	B_cells
+B-cells_HPCA_1	B_cells
+B-cells_HPCA_2	B_cells
+B-cells_HPCA_3	B_cells
+B-cells_marginal_zone	B_cells
+B cells memory	B_cells
+B cells naive	B_cells
+B-cells_NOVERSHTERN_1	B_cells
+B-cells_NOVERSHTERN_2	B_cells
+B-cells_NOVERSHTERN_3	B_cells
+Bergmann glia	Bergmann glia
+Bergmann glial cell	Bergmann glial cell
+Beta cell	Beta cell
+BETA CELL	BETA CELL
+Beta cells	Beta cells
+Bile	Bile
+bladder	bladder
+Bladder	Bladder
+BLASTOCYST	BLASTOCYST
+Blood	Blood
+Blood cancer cell	Blood cancer cell
+BLOOD DENDRITIC CELLS	DCs
+BLOOD PBMC	BLOOD PBMC
+Blood plasma	Plasma_cells
+Blood platelet	Blood platelet
+Blood vessel	Blood vessel
+Blood vessel endothelium	Endothelial_cells
+B-lymphocyte	B-lymphocyte
+BLYMPHOCYTE	BLYMPHOCYTE
+B-lymphocyte cell line	B-lymphocyte cell line
+bone	bone
+Bone	Bone
+Bone cancer cell	Bone cancer cell
+bone_marrow	bone_marrow
+Bone marrow	Bone marrow
+BONE MARROW (BULK TISSUE)	BONE MARROW (BULK TISSUE)
+Bone marrow cancer cell	Bone marrow cancer cell
+Bone marrow cell	Bone marrow cell
+Bone marrow stem cell	Stem_cells
+Bone marrow stromal cell	Bone marrow stromal cell
+BRAIN (BULK)	BRAIN (BULK)
+Brain cancer cell	Brain cancer cell
+Brain cell line	Brain cell line
+Brain cortex cell line	Brain cortex cell line
+Brain stem	Stem_cells
+Breast	Breast
+BREAST (BULK TISSUE)	BREAST (BULK TISSUE)
+Breast cancer cell	Breast cancer cell
+Bronchoalveolar system	Bronchoalveolar system
+Bronchogenic carcinoma cell	Bronchogenic carcinoma cell
+Brown adipose tissue	Brown adipose tissue
+Brush cell (Tuft cell)	Brush cell (Tuft cell)
+BU	BU
+C2C12	C2C12
+C3H_10T1_2	C3H_10T1_2
+Cajal-Retzius cell	Cajal-Retzius cell
+Cajal-Retzius cells	Cajal-Retzius cells
+Cancer cell (Breast Cancer (circulating))	Cancer cell (Breast Cancer (circulating))
+Cancer cell (Prostate Cancer (circulating))	Cancer cell (Prostate Cancer (circulating))
+Cancer stem cell	Stem_cells
+Cancer stem cell (Astroblastoma)	Stem_cells
+Cancer stem cell (Bladder Cancer)	Stem_cells
+Cancer stem cell (Breast Cancer)	Stem_cells
+Cancer stem cell (Colon Cancer)	Stem_cells
+Cancer stem cell (Colorectal Cancer)	Stem_cells
+Cancer stem cell (Colorectum Cancer)	Stem_cells
+Cancer stem cell (Gastric Cancer)	Stem_cells
+Cancer stem cell (Glioblastoma)	Stem_cells
+Cancer stem cell (Glioma)	Stem_cells
+Cancer stem cell (Head And Neck Squamous Cell Carcinoma)	Stem_cells
+Cancer stem cell (Hepatocellular Cancer)	Stem_cells
+Cancer stem cell (Leukemia)	Stem_cells
+Cancer stem cell (Liver Cancer)	Stem_cells
+Cancer stem cell (Lung Adenocarcinoma)	Stem_cells
+Cancer stem cell (Lung Cancer)	Stem_cells
+Cancer stem cell (Melanoma)	Stem_cells
+Cancer stem cell (Multiple Myeloma)	Stem_cells
+Cancer stem cell (Non-Small Cell Lung Cancer)	Stem_cells
+Cancer stem cell (oligodendroglioma)	Stem_cells
+Cancer stem cell (Oral Squamous Cell Carcinoma)	Stem_cells
+Cancer stem cell (Osteosarcoma)	Stem_cells
+Cancer stem cell (Ovarian Cancer)	Stem_cells
+Cancer stem cell (Pancreatic Cancer)	Stem_cells
+Cancer stem cell (Pancreatic Ductal Adenocarcinoma)	Ductal_cells
+Cancer stem cell (Prostate Cancer)	Stem_cells
+Cancer stem cell (Supratentorial Primitive Neuroectodermal Tumor)	Stem_cells
+Cancer stem-like cell (Thyroid Cancer)	Stem_cells
+Carcinoma cell	Carcinoma cell
+Carcinoma cell line	Carcinoma cell line
+Cardiac muscle	Cardiac muscle
+CARDIAC MUSCLE FIBER	CARDIAC MUSCLE FIBER
+Cardiac progenitor cell	Progenitors
+Cardiac stem and precursor cells	Stem_cells
+Cardiomyocyte	Myocytes
+Cardiomyocytes	Myocytes
+Cardiovascular system	Cardiovascular system
+Cartilage	Cartilage
+Caudate nucleus	Caudate nucleus
+CCK basket cell	CCK basket cell
+CD138plus_plasma_cell	Plasma_cells
+CD141+CLEC9A+ dendritic cell	DCs
+CD19+ B CELLS	B_cells
+CD1C+_A dendritic cell	DCs
+CD1C+_B dendritic cell	DCs
+CD1C-CD141- dendritic cell	DCs
+CD34+ CELL	CD34+ CELL
+CD34plus_cell	CD34plus_cell
+CD3plus_T-cell	T_cells
+CD4+CD25+ regulatory T cell	T_cells
+CD4-CD28+ T cell	T_cells
+CD4-CD28- T cell	T_cells
+CD4+ cytotoxic T cell	T_cells
+CD4+ memory T-cells_FANTOM_1	T_cells
+CD4+ memory T-cells_FANTOM_2	T_cells
+CD4+ memory T-cells_FANTOM_3	T_cells
+CD4+ memory T-cells_IRIS_1	T_cells
+CD4+ memory T-cells_IRIS_2	T_cells
+CD4+ memory T-cells_IRIS_3	T_cells
+CD4+ naive T-cells_FANTOM_1	T_cells
+CD4+ naive T-cells_FANTOM_2	T_cells
+CD4+ naive T-cells_FANTOM_3	T_cells
+CD4+ naive T-cells_HPCA_1	T_cells
+CD4+ naive T-cells_HPCA_2	T_cells
+CD4+ naive T-cells_HPCA_3	T_cells
+CD4+ naive T-cells_IRIS_1	T_cells
+CD4+ naive T-cells_IRIS_2	T_cells
+CD4+ naive T-cells_IRIS_3	T_cells
+CD4+ naive T-cells_NOVERSHTERN_1	T_cells
+CD4+ naive T-cells_NOVERSHTERN_2	T_cells
+CD4+ naive T-cells_NOVERSHTERN_3	T_cells
+CD4plus_T-cell	T_cells
+CD4+ T cell	T_cells
+CD4+ T CELL	T_cells
+CD4+ T-cells_BLUEPRINT_1	T_cells
+CD4+ T-cells_BLUEPRINT_2	T_cells
+CD4+ T-cells_BLUEPRINT_3	T_cells
+CD4+ T-cells_FANTOM_1	T_cells
+CD4+ T-cells_FANTOM_2	T_cells
+CD4+ T-cells_FANTOM_3	T_cells
+CD4+ T-cells_HPCA_1	T_cells
+CD4+ T-cells_HPCA_2	T_cells
+CD4+ T-cells_HPCA_3	T_cells
+CD4+ Tcm_BLUEPRINT_1	CD4+ Tcm_BLUEPRINT_1
+CD4+ Tcm_BLUEPRINT_2	CD4+ Tcm_BLUEPRINT_2
+CD4+ Tcm_BLUEPRINT_3	CD4+ Tcm_BLUEPRINT_3
+CD4+ Tcm_HPCA_1	CD4+ Tcm_HPCA_1
+CD4+ Tcm_HPCA_2	CD4+ Tcm_HPCA_2
+CD4+ Tcm_HPCA_3	CD4+ Tcm_HPCA_3
+CD4+ Tcm_NOVERSHTERN_1	CD4+ Tcm_NOVERSHTERN_1
+CD4+ Tcm_NOVERSHTERN_2	CD4+ Tcm_NOVERSHTERN_2
+CD4+ Tcm_NOVERSHTERN_3	CD4+ Tcm_NOVERSHTERN_3
+CD4+ Tem_BLUEPRINT_1	CD4+ Tem_BLUEPRINT_1
+CD4+ Tem_BLUEPRINT_2	CD4+ Tem_BLUEPRINT_2
+CD4+ Tem_BLUEPRINT_3	CD4+ Tem_BLUEPRINT_3
+CD4+ Tem_HPCA_1	CD4+ Tem_HPCA_1
+CD4+ Tem_HPCA_2	CD4+ Tem_HPCA_2
+CD4+ Tem_HPCA_3	CD4+ Tem_HPCA_3
+CD4+ Tem_NOVERSHTERN_1	CD4+ Tem_NOVERSHTERN_1
+CD4+ Tem_NOVERSHTERN_2	CD4+ Tem_NOVERSHTERN_2
+CD4+ Tem_NOVERSHTERN_3	CD4+ Tem_NOVERSHTERN_3
+CD8+ cytotoxic T cell	T_cells
+CD8+ naive T-cells_HPCA_1	T_cells
+CD8+ naive T-cells_HPCA_2	T_cells
+CD8+ naive T-cells_HPCA_3	T_cells
+CD8plus_T-cell	T_cells
+CD8+ T cell	T_cells
+CD8+ T-cells_BLUEPRINT_1	T_cells
+CD8+ T-cells_BLUEPRINT_2	T_cells
+CD8+ T-cells_BLUEPRINT_3	T_cells
+CD8+ T-cells_FANTOM_1	T_cells
+CD8+ T-cells_FANTOM_2	T_cells
+CD8+ T-cells_FANTOM_3	T_cells
+CD8+ T-cells_HPCA_1	T_cells
+CD8+ T-cells_HPCA_2	T_cells
+CD8+ T-cells_HPCA_3	T_cells
+CD8+ T-cells_IRIS_1	T_cells
+CD8+ T-cells_IRIS_2	T_cells
+CD8+ T-cells_IRIS_3	T_cells
+CD8+ T-cells_NOVERSHTERN_1	T_cells
+CD8+ T-cells_NOVERSHTERN_2	T_cells
+CD8+ T-cells_NOVERSHTERN_3	T_cells
+CD8+ Tcm_BLUEPRINT_1	CD8+ Tcm_BLUEPRINT_1
+CD8+ Tcm_BLUEPRINT_2	CD8+ Tcm_BLUEPRINT_2
+CD8+ Tcm_BLUEPRINT_3	CD8+ Tcm_BLUEPRINT_3
+CD8+ Tcm_HPCA_1	CD8+ Tcm_HPCA_1
+CD8+ Tcm_HPCA_2	CD8+ Tcm_HPCA_2
+CD8+ Tcm_HPCA_3	CD8+ Tcm_HPCA_3
+CD8+ Tcm_NOVERSHTERN_1	CD8+ Tcm_NOVERSHTERN_1
+CD8+ Tcm_NOVERSHTERN_2	CD8+ Tcm_NOVERSHTERN_2
+CD8+ Tcm_NOVERSHTERN_3	CD8+ Tcm_NOVERSHTERN_3
+CD8+ Tem_BLUEPRINT_1	CD8+ Tem_BLUEPRINT_1
+CD8+ Tem_BLUEPRINT_2	CD8+ Tem_BLUEPRINT_2
+CD8+ Tem_BLUEPRINT_3	CD8+ Tem_BLUEPRINT_3
+CD8+ Tem_HPCA_1	CD8+ Tem_HPCA_1
+CD8+ Tem_HPCA_2	CD8+ Tem_HPCA_2
+CD8+ Tem_HPCA_3	CD8+ Tem_HPCA_3
+CD8+ Tem_NOVERSHTERN_1	CD8+ Tem_NOVERSHTERN_1
+CD8+ Tem_NOVERSHTERN_2	CD8+ Tem_NOVERSHTERN_2
+CD8+ Tem_NOVERSHTERN_3	CD8+ Tem_NOVERSHTERN_3
+cDC_HPCA_1	cDCs
+cDC_HPCA_2	cDCs
+cDC_HPCA_3	cDCs
+cDC_NOVERSHTERN_1	cDCs
+cDC_NOVERSHTERN_3	cDCs
+celltype	celltype
+cerebellum	cerebellum
+Cerebellum	Cerebellum
+CEREBELLUM	CEREBELLUM
+cerebral_cortex	cerebral_cortex
+Cerebral cortex	Cerebral cortex
+CEREBRAL CORTEX	CEREBRAL CORTEX
+cerebral_cortex_prefrontal	cerebral_cortex_prefrontal
+Cerebral hemisphere	Cerebral hemisphere
+Cerebral lobe	Cerebral lobe
+Cerebrospinal fluid	Cerebrospinal fluid
+CHA	CHA
+Chandelier cell	Chandelier cell
+Cholangiocytes	Cholangiocytes
+Cholinergic neurons	Neurons
+Chondrocyte	Chondrocytes
+CHONDROCYTE	Chondrocytes
+Chondrocytes	Chondrocytes
+Chondrocytes_ENCODE_1	Chondrocytes
+Chondrocytes_ENCODE_2	Chondrocytes
+Chondrocytes_ENCODE_3	Chondrocytes
+Chondrocytes_FANTOM_1	Chondrocytes
+Chondrocytes_FANTOM_2	Chondrocytes
+Chondrocytes_FANTOM_3	Chondrocytes
+Chondrocytes_HPCA_1	Chondrocytes
+Chondrocytes_HPCA_2	Chondrocytes
+Chondrocytes_HPCA_3	Chondrocytes
+Chondrogenic cell	Chondrogenic cell
+Chondrosarcoma cell	Chondrosarcoma cell
+Choriocarcinoma cell	Choriocarcinoma cell
+Choroid plexus cells	Choroid plexus cells
+Chromaffin cells	Chromaffin cells
+Chronic lymphocytic leukemia cell	Chronic lymphocytic leukemia cell
+Chronic myeloid leukemia cell	Chronic myeloid leukemia cell
+ciliary_bodies	ciliary_bodies
+Ciliated cell	Ciliated cell
+Ciliated cells	Ciliated cells
+Ciliated epithelial cell	Epithelial_cells
+CINGULATE GYRUS	CINGULATE GYRUS
+Circulating fetal cell	Circulating fetal cell
+Clara cell	Clara cell
+Clara cells	Clara cells
+ClassicalMonocyte_CD14plusplusCD16minus	Monocytes
+Class-switched memory B-cells_BLUEPRINT_1	B_cells
+Class-switched memory B-cells_BLUEPRINT_2	B_cells
+Class-switched memory B-cells_BLUEPRINT_3	B_cells
+Class-switched memory B-cells_NOVERSHTERN_1	B_cells
+Class-switched memory B-cells_NOVERSHTERN_2	B_cells
+Class-switched memory B-cells_NOVERSHTERN_3	B_cells
+CLP_BLUEPRINT_1	CLP_BLUEPRINT_1
+CLP_BLUEPRINT_2	CLP_BLUEPRINT_2
+CLP_BLUEPRINT_3	CLP_BLUEPRINT_3
+CMP_BLUEPRINT_1	CMP_BLUEPRINT_1
+CMP_BLUEPRINT_2	CMP_BLUEPRINT_2
+CMP_BLUEPRINT_3	CMP_BLUEPRINT_3
+CMP_HPCA_1	CMP_HPCA_1
+CMP_HPCA_2	CMP_HPCA_2
+CMP_HPCA_3	CMP_HPCA_3
+CMP_NOVERSHTERN_1	CMP_NOVERSHTERN_1
+CMP_NOVERSHTERN_2	CMP_NOVERSHTERN_2
+CMP_NOVERSHTERN_3	CMP_NOVERSHTERN_3
+Cochlea	Cochlea
+Collecting duct intercalated cell	Ductal_cells
+Collecting duct principal cell	Ductal_cells
+Collecting duct transient cell	Ductal_cells
+Colon	Colon
+COLON (BULK TISSUE)	COLON (BULK TISSUE)
+Colonic adenocarcinoma cell	Colonic adenocarcinoma cell
+Colonic cancer cell	Colonic cancer cell
+Colonic epithelium	Epithelial_cells
+Colonic mucosa	Colonic mucosa
+COLONIC MUCOSA	COLONIC MUCOSA
+Colorectal adenocarcinoma cell	Colorectal adenocarcinoma cell
+Colorectal stem cell	Stem_cells
+Colorectum	Colorectum
+common_myeloid_progenitor	Progenitors
+Connective tissue	Connective tissue
+Conventional dendritic cell	DCs
+CORD BLOOD	CORD BLOOD
+cornea	cornea
+Cornea	Cornea
+Coronary artery	Coronary artery
+Coronary artery endothelial cell	Endothelial_cells
+Corpus callosum	Corpus callosum
+Corpus striatum	Corpus striatum
+Cortical cell	Cortical cell
+Cortical_Neurons	Neurons
+Craniofacial region	Craniofacial region
+Crypt cells	Crypt cells
+CUI_DEVELOPING_HEART_5TH_WEEK_ATRIAL_CARDIOMYOCYTE	Myocytes
+CUI_DEVELOPING_HEART_5TH_WEEK_VENTRICULAR_CARDIOMYOCYTE	Myocytes
+CUI_DEVELOPING_HEART_C1_5TH_WEEK_CARDIAC_CELLS	CUI_DEVELOPING_HEART_C1_5TH_WEEK_CARDIAC_CELLS
+CUI_DEVELOPING_HEART_C2_CARDIOMYOCYTE	Myocytes
+CUI_DEVELOPING_HEART_C3_FIBROBLAST_LIKE_CELL	Fibroblasts
+CUI_DEVELOPING_HEART_C4_ENDOTHELIAL_CELL	Endothelial_cells
+CUI_DEVELOPING_HEART_C5_VALVAR_CELL	CUI_DEVELOPING_HEART_C5_VALVAR_CELL
+CUI_DEVELOPING_HEART_C6_EPICARDIAL_CELL	CUI_DEVELOPING_HEART_C6_EPICARDIAL_CELL
+CUI_DEVELOPING_HEART_C7_MAST_CELL	T_cells
+CUI_DEVELOPING_HEART_C8_MACROPHAGE	Macrophages
+CUI_DEVELOPING_HEART_C9_B_T_CELL	T_cells
+CUI_DEVELOPING_HEART_CARDIAC_FIBROBLASTS	Fibroblasts
+CUI_DEVELOPING_HEART_COMPACT_ATRIAL_CARDIOMYOCYTE	Myocytes
+CUI_DEVELOPING_HEART_COMPACT_VENTRICULAR_CARDIOMYOCYTE	Myocytes
+CUI_DEVELOPING_HEART_CORONARY_VASCULAR_ENDOTHELIAL_CELL	Endothelial_cells
+CUI_DEVELOPING_HEART_ENDOCARDIAL_CELL	CUI_DEVELOPING_HEART_ENDOCARDIAL_CELL
+CUI_DEVELOPING_HEART_LEFT_ATRIAL_CARDIOMYOCYTE	Myocytes
+CUI_DEVELOPING_HEART_LEFT_VENTRICULAR_CARDIOMYOCYTE	Myocytes
+CUI_DEVELOPING_HEART_RIGHT_ATRIAL_CARDIOMYOCYTE	Myocytes
+CUI_DEVELOPING_HEART_RIGHT_VENTRICULAR_CARDIOMYOCYTE	Myocytes
+CUI_DEVELOPING_HEART_SMOOTH_MUSCLE_CELL	CUI_DEVELOPING_HEART_SMOOTH_MUSCLE_CELL
+CUI_DEVELOPING_HEART_TRABECULAR_ATRIAL_CARDIOMYOCYTE	Myocytes
+CUI_DEVELOPING_HEART_TRABECULAR_VENTRICULAR_CARDIOMYOCYTE	Myocytes
+CUI_DEVELOPING_HEART_VALVAR_ENDOTHELIAL_CELL	Endothelial_cells
+CUI_DEVELOPING_HEART_VASCULAR_ENDOTHELIAL_CELL	Endothelial_cells
+Cycling basal cell	Cycling basal cell
+Cytotoxic T cell	T_cells
+Daltons lymphoma cell	Daltons lymphoma cell
+DC_BLUEPRINT_2	DCs
+DC_FANTOM_1	DCs
+DC_FANTOM_2	DCs
+DC_FANTOM_3	DCs
+DC_HPCA_1	DCs
+DC_HPCA_2	DCs
+DC_HPCA_3	DCs
+DC_IRIS_2	DCs
+DC_IRIS_3	DCs
+DCLK1+ progenitor cell	DCs
+Decidual cells	Decidual cells
+Delta cell	Delta cell
+Delta cells	Delta cells
+Dendritic cell	DCs
+Dendritic_cell	DCs
+DENDRITIC CELL	DCs
+Dendritic cell progenitor	DCs
+Dendritic cells	DCs
+dendritic_cells_lymphoid_CD8a+	DCs
+dendritic_cells_myeloid_CD8a-_	DCs
+dendritic_plasmacytoid_B220+	DCs
+Dental pulp stem cell	Stem_cells
+DENTATE GRANULE CELL	DENTATE GRANULE CELL
+Dermis	Dermis
+Diencephalon	Diencephalon
+Digestive juice	Digestive juice
+Distal convoluted tubule cell	Distal convoluted tubule cell
+Distal tubule cells	Distal tubule cells
+DLE	DLE
+Dopaminergic neuron	Neurons
+Dopaminergic neurons	Neurons
+Dorsal otocyst	Dorsal otocyst
+dorsal_root_ganglia	dorsal_root_ganglia
+dorsal_striatum	dorsal_striatum
+DORSAL STRIATUM	DORSAL STRIATUM
+Ductal cells	Ductal_cells
+Duodenum	Duodenum
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_B_CELLS	B_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_BOWMANS_GLAND	Epithelial_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_CD4_T_CELLS	T_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_CD8_T_CELLS	T_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_DENDRITIC_CELLS	Epithelial_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_FIBROBLASTS_STROMAL_CELLS	Epithelial_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_GLOBOSE_BASAL_CELLS	Epithelial_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_IMMATURE_NEURONS	Epithelial_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_MACROPHAGES	Epithelial_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_MAST_CELLS	T_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_MATURE_NEURONS	Epithelial_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_MONOCYTES	Epithelial_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_NK_CELLS	Epithelial_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_OLFACTORY_ENSHEATHING_GLIA	Epithelial_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_OLFACTORY_HORIZONTAL_BASAL_CELLS	Epithelial_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_OLFACTORY_MICROVILLAR_CELLS	Epithelial_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_PERICYTES	Epithelial_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_PLASMA_CELLS	Epithelial_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_RESPIRATORY_CILIATED_CELLS	Epithelial_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_RESPIRATORY_COLUMNAR_CELLS	Epithelial_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_RESPIRATORY_EPITHELIAL_CELLS	Epithelial_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_RESPIRATORY_HORIZONTAL_BASAL_CELLS	Epithelial_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_RESPIRATORY_SECRETORY_CELLS	Epithelial_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_SUSTENTACULAR_CELLS	Epithelial_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_UNSPECIFIED	Epithelial_cells
+DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_VASCULAR_SMOOTH_MUSCLE_CELLS	Epithelial_cells
+Ear	Ear
+Early enterocyte precursor cell	Early enterocyte precursor cell
+Early neuroblast	Early neuroblast
+Ectoderm cell	Ectoderm cell
+Effector CD8+ memory T (Tem) cell	Effector CD8+ memory T (Tem) cell
+Effector memory T cell	T_cells
+Effector T cell	T_cells
+Embryonic brain	Embryonic brain
+Embryonic carcinoma cell line	Embryonic carcinoma cell line
+Embryonic cell line	Embryonic cell line
+Embryonic fibroblast	Fibroblasts
+Embryonic stem cell	Stem_cells
+Embryonic stem cells	Stem_cells
+embryonic_stem_line_Bruce4_p13	embryonic_stem_line_Bruce4_p13
+embryonic_stem_line_V26_2_p16	embryonic_stem_line_V26_2_p16
+Embryonic structure	Embryonic structure
+Endocardial cell	Endocardial cell
+Endocrine cell	Endocrine cell
+Endocrine pancreas	Endocrine pancreas
+Endometrial stem cell	Stem_cells
+ENDOMETRIUM (BULK)	ENDOMETRIUM (BULK)
+Endothelial cell	Endothelial_cells
+Endothelial cell (Renal Clear Cell Carcinoma)	Endothelial_cells
+Endothelial cells	Endothelial_cells
+Endothelial cells (aorta)	Endothelial_cells
+Endothelial cells (blood brain barrier)	Endothelial_cells
+Endothelial cells_BLUEPRINT_1	Endothelial_cells
+Endothelial cells_BLUEPRINT_2	Endothelial_cells
+Endothelial cells_BLUEPRINT_3	Endothelial_cells
+Endothelial cells_ENCODE_1	Endothelial_cells
+Endothelial cells_ENCODE_2	Endothelial_cells
+Endothelial cells_ENCODE_3	Endothelial_cells
+Endothelial cells_FANTOM_1	Endothelial_cells
+Endothelial cells_FANTOM_2	Endothelial_cells
+Endothelial cells_FANTOM_3	Endothelial_cells
+Endothelial cells_HPCA_1	Endothelial_cells
+Endothelial cells_HPCA_2	Endothelial_cells
+Endothelial cells_HPCA_3	Endothelial_cells
+Endothelial progenitor cell	Endothelial_cells
+Endothelial stem cell	Endothelial_cells
+Endothelium	Endothelial_cells
+ENL	ENL
+ENL2	ENL2
+Enteric glia cells	Enteric glia cells
+Enteric neurons	Neurons
+Enterochromaffin cells	Enterochromaffin cells
+Enterocyte	Enterocyte
+Enterocyte progenitor cell	Progenitors
+Enterocytes	Enterocytes
+Enteroendocrine cell	Enteroendocrine cell
+Enteroendocrine cells	Enteroendocrine cells
+Enteroendocrine precursor cell	Enteroendocrine precursor cell
+Eosinophil	Eosinophils
+Eosinophils	Eosinophils
+Eosinophils_BLUEPRINT_1	Eosinophils
+Eosinophils_BLUEPRINT_2	Eosinophils
+Eosinophils_BLUEPRINT_3	Eosinophils
+Eosinophils_FANTOM_1	Eosinophils
+Eosinophils_FANTOM_2	Eosinophils
+Eosinophils_FANTOM_3	Eosinophils
+Eosinophils_NOVERSHTERN_1	Eosinophils
+Eosinophils_NOVERSHTERN_2	Eosinophils
+Eosinophils_NOVERSHTERN_3	Eosinophils
+Ependymal cell	Ependymal cell
+Ependymal cells	Ependymal cells
+Epiblast cell	Epiblast cell
+Epiblast cells	Epiblast cells
+Epidermal cell	Epidermal cell
+Epidermal stem cell	Stem_cells
+epidermis	epidermis
+Epidermis	Epidermis
+Epididymis	Epididymis
+Epithelial cell	Epithelial_cells
+Epithelial cell line	Epithelial_cells
+Epithelial cell (Ovarian Cancer)	Epithelial_cells
+Epithelial cells	Epithelial_cells
+Epithelial cells_ENCODE_2	Epithelial_cells
+Epithelial cells_ENCODE_3	Epithelial_cells
+Epithelial cells_FANTOM_1	Epithelial_cells
+Epithelial cells_FANTOM_2	Epithelial_cells
+Epithelial cells_FANTOM_3	Epithelial_cells
+Epithelial cells_HPCA_3	Epithelial_cells
+Epithelioma cell	Epithelioma cell
+Epithelium	Epithelial_cells
+Epsilon cells	Epsilon cells
+ERYTHROBLAST	ERYTHROBLAST
+Erythroblasts	Erythroblasts
+Erythrocyte	Erythrocytes
+Erythrocytes_BLUEPRINT_1	Erythrocytes
+Erythrocytes_BLUEPRINT_2	Erythrocytes
+Erythrocytes_BLUEPRINT_3	Erythrocytes
+Erythrocytes_FANTOM_1	Erythrocytes
+Erythrocytes_FANTOM_2	Erythrocytes
+Erythrocytes_FANTOM_3	Erythrocytes
+Erythrocytes_HPCA_1	Erythrocytes
+Erythrocytes_HPCA_2	Erythrocytes
+Erythrocytes_HPCA_3	Erythrocytes
+Erythrocytes_NOVERSHTERN_1	Erythrocytes
+Erythrocytes_NOVERSHTERN_2	Erythrocytes
+Erythrocytes_NOVERSHTERN_3	Erythrocytes
+Erythroid cell	Erythroid cell
+Erythroid-like and erythroid precursor cells	Erythroid-like and erythroid precursor cells
+Erythroleukemia cell	Erythroleukemia cell
+Esophagus	Esophagus
+ESOPHAGUS (BULK TISSUE)	ESOPHAGUS (BULK TISSUE)
+Excretory gland	Excretory gland
+Exhausted CD4+ T cell	T_cells
+Exhausted CD8+ T cell (Hepatocellular Cancer)	T_cells
+Exhausted T cell	T_cells
+Exocrine gland	Exocrine gland
+External male genital organ	External male genital organ
+Eye	Eye
+Eye cancer cell	Eye cancer cell
+eyecup	eyecup
+FAN_EMBRYONIC_CTX_ASTROCYTE_1	Astrocytes
+FAN_EMBRYONIC_CTX_ASTROCYTE_2	Astrocytes
+FAN_EMBRYONIC_CTX_BIG_GROUPS_BRAIN_ENDOTHELIAL	Endothelial_cells
+FAN_EMBRYONIC_CTX_BIG_GROUPS_BRAIN_IMMUNE	FAN_EMBRYONIC_CTX_BIG_GROUPS_BRAIN_IMMUNE
+FAN_EMBRYONIC_CTX_BIG_GROUPS_CAJAL_RETZIUS	FAN_EMBRYONIC_CTX_BIG_GROUPS_CAJAL_RETZIUS
+FAN_EMBRYONIC_CTX_BIG_GROUPS_EXCITATORY_NEURON	Neurons
+FAN_EMBRYONIC_CTX_BIG_GROUPS_GLIAL	FAN_EMBRYONIC_CTX_BIG_GROUPS_GLIAL
+FAN_EMBRYONIC_CTX_BIG_GROUPS_INHIBITORY	FAN_EMBRYONIC_CTX_BIG_GROUPS_INHIBITORY
+FAN_EMBRYONIC_CTX_BIG_GROUPS_MICROGLIA	FAN_EMBRYONIC_CTX_BIG_GROUPS_MICROGLIA
+FAN_EMBRYONIC_CTX_BRAIN_B_CELL	B_cells
+FAN_EMBRYONIC_CTX_BRAIN_EFFECTOR_T_CELL	T_cells
+FAN_EMBRYONIC_CTX_BRAIN_ENDOTHELIAL_1	Endothelial_cells
+FAN_EMBRYONIC_CTX_BRAIN_ENDOTHELIAL_2	Endothelial_cells
+FAN_EMBRYONIC_CTX_BRAIN_MYELOID	FAN_EMBRYONIC_CTX_BRAIN_MYELOID
+FAN_EMBRYONIC_CTX_BRAIN_NAIVE_LIKE_T_CELL	T_cells
+FAN_EMBRYONIC_CTX_EX_2_EXCITATORY_NEURON	Neurons
+FAN_EMBRYONIC_CTX_EX_4_EXCITATORY_NEURON	Neurons
+FAN_EMBRYONIC_CTX_IN_1_INTERNEURON	Neurons
+FAN_EMBRYONIC_CTX_IN_4_INTERNEURON	Neurons
+FAN_EMBRYONIC_CTX_IN_5_INTERNEURON	Neurons
+FAN_EMBRYONIC_CTX_IN_6_INTERNEURON	Neurons
+FAN_EMBRYONIC_CTX_MICROGLIA_1	FAN_EMBRYONIC_CTX_MICROGLIA_1
+FAN_EMBRYONIC_CTX_MICROGLIA_2	FAN_EMBRYONIC_CTX_MICROGLIA_2
+FAN_EMBRYONIC_CTX_MICROGLIA_3	FAN_EMBRYONIC_CTX_MICROGLIA_3
+FAN_EMBRYONIC_CTX_NSC_1	FAN_EMBRYONIC_CTX_NSC_1
+FAN_EMBRYONIC_CTX_NSC_2	FAN_EMBRYONIC_CTX_NSC_2
+FAN_EMBRYONIC_CTX_OLIG	FAN_EMBRYONIC_CTX_OLIG
+FAN_EMBRYONIC_CTX_OPC	FAN_EMBRYONIC_CTX_OPC
+Fat cell (adipocyte)	Adipocytes
+Fat pad	Adipocytes
+FETAL BRAIN	FETAL BRAIN
+FETAL BRAIN CORTEX	FETAL BRAIN CORTEX
+FETAL LUNG	FETAL LUNG
+Fetal membrane	Fetal membrane
+FGFR1HighNME5- epithelial cell	Epithelial_cells
+FGFR1LowNME5- epithelial cell	Epithelial_cells
+Fibrobast	Fibrobast
+Fibroblast	Fibroblasts
+FIBROBLAST	Fibroblasts
+Fibroblast cell line	Fibroblasts
+Fibroblastoma cell	Fibroblasts
+Fibroblasts	Fibroblasts
+Fibroblasts_ENCODE_1	Fibroblasts
+Fibroblasts_ENCODE_2	Fibroblasts
+Fibroblasts_ENCODE_3	Fibroblasts
+Fibroblasts_FANTOM_1	Fibroblasts
+Fibroblasts_FANTOM_2	Fibroblasts
+Fibroblasts_FANTOM_3	Fibroblasts
+Fibroblasts_HPCA_1	Fibroblasts
+Fibroblasts_HPCA_2	Fibroblasts
+Fibroblasts_HPCA_3	Fibroblasts
+Fibrosarcoma cell	Fibrosarcoma cell
+Follicular B cell	B_cells
+follicular_B-cells	follicular_B-cells
+Follicular cells	Follicular cells
+Follicular helper (Tfh) T cell	T_cells
+Forebrain	Forebrain
+FORESKIN FIBROBLAST	Fibroblasts
+Foreskin fibroblast cell line	Fibroblasts
+Foveolar cells	Foveolar cells
+FOXN4+ cell	FOXN4+ cell
+Frontal lobe	Frontal lobe
+GABAergic neurons	Neurons
+Gamma_Delta_T-cell	T_cells
+Gamma delta T cells	T_cells
+Gamma (PP) cells	Gamma (PP) cells
+Ganglion	Ganglion
+GAO_ESOPHAGUS_25W_C1_CILIATED_EPITHELIAL_CELLS	Epithelial_cells
+GAO_ESOPHAGUS_25W_C2_KRT6BPOS_SECRETORY_PROGENITOR_CELLS	Progenitors
+GAO_ESOPHAGUS_25W_C3_FGFR1LOW_EPITHELIAL_CELLS	Epithelial_cells
+GAO_ESOPHAGUS_25W_C4_FGFR1HIGH_EPITHELIAL_CELLS	Epithelial_cells
+GAO_LARGE_INTESTINE_24W_C10_ENTEROCYTE	GAO_LARGE_INTESTINE_24W_C10_ENTEROCYTE
+GAO_LARGE_INTESTINE_24W_C11_PANETH_LIKE_CELL	GAO_LARGE_INTESTINE_24W_C11_PANETH_LIKE_CELL
+GAO_LARGE_INTESTINE_24W_C1_DCLK1POS_PROGENITOR	Progenitors
+GAO_LARGE_INTESTINE_24W_C2_MKI67POS_PROGENITOR	Progenitors
+GAO_LARGE_INTESTINE_24W_C4_PROM1LOW_PROGENITOR	Progenitors
+GAO_LARGE_INTESTINE_24W_C5_LGR5POS_STEM_CELL	GAO_LARGE_INTESTINE_24W_C5_LGR5POS_STEM_CELL
+GAO_LARGE_INTESTINE_24W_C6_SECRETORY_PROGENITOR	Progenitors
+GAO_LARGE_INTESTINE_24W_C7_GOBLET_PROGENITOR	Progenitors
+GAO_LARGE_INTESTINE_24W_C8_GOBLET_CELL	T_cells
+GAO_LARGE_INTESTINE_ADULT_CA_ENTEROENDOCRINE_CELLS	GAO_LARGE_INTESTINE_ADULT_CA_ENTEROENDOCRINE_CELLS
+GAO_LARGE_INTESTINE_ADULT_CE_OLFM4HIGH_STEM_CELL	GAO_LARGE_INTESTINE_ADULT_CE_OLFM4HIGH_STEM_CELL
+GAO_LARGE_INTESTINE_ADULT_CF_GOBLET_CELL_SUBTYPE_1	T_cells
+GAO_LARGE_INTESTINE_ADULT_CG_GOBLET_CELL_SUBTYPE_2	T_cells
+GAO_LARGE_INTESTINE_ADULT_CH_MKI67HIGH_CELLS	GAO_LARGE_INTESTINE_ADULT_CH_MKI67HIGH_CELLS
+GAO_LARGE_INTESTINE_ADULT_CI_MESENCHYMAL_CELLS	GAO_LARGE_INTESTINE_ADULT_CI_MESENCHYMAL_CELLS
+GAO_LARGE_INTESTINE_ADULT_CJ_IMMUNE_CELLS	GAO_LARGE_INTESTINE_ADULT_CJ_IMMUNE_CELLS
+GAO_SMALL_INTESTINE_24W_C1_TUFT_PROGENITOR	Progenitors
+GAO_SMALL_INTESTINE_24W_C2_PROCRPOS_PROGENITOR	Progenitors
+GAO_SMALL_INTESTINE_24W_C3_ENTEROCYTE_PROGENITOR_SUBTYPE_1	Progenitors
+GAO_SMALL_INTESTINE_24W_C4_ENTEROCYTE_PROGENITOR_SUBTYPE_2	Progenitors
+GAO_SMALL_INTESTINE_24W_C6_GOBLET_CELLS	T_cells
+GAO_SMALL_INTESTINE_24W_C7_SECRETORY_PROGENITOR	Progenitors
+GAO_SMALL_INTESTINE_24W_C9_ENTEROENDOCRINE_CELL	GAO_SMALL_INTESTINE_24W_C9_ENTEROENDOCRINE_CELL
+GAO_STOMACH_24W_C1_PROCRPOS_MULTIPOTENT_PROGENITOR	Progenitors
+GAO_STOMACH_24W_C2_TFF2POS_MULTIPOTENT_PROGENITOR	Progenitors
+GAO_STOMACH_24W_C5_PUTATIVE_PIT_CELL_PROGENITOR	T_cells
+GAO_STOMACH_24W_C6_PIT_CELL	T_cells
+Gastric adenocarcinoma cell	Gastric adenocarcinoma cell
+Gastric adenocarcinoma cell line	Gastric adenocarcinoma cell line
+Gastric cancer cell	Gastric cancer cell
+Gastric cancer cell line	Gastric cancer cell line
+Gastric cell line	Gastric cell line
+Gastric chief cells	Gastric chief cells
+GASTRIC EPITHELIAL CELL	Epithelial_cells
+Gastric mucosa	Gastric mucosa
+GASTRIC TISSUE (BULK)	GASTRIC TISSUE (BULK)
+Gastroesophageal cancer cell	Gastroesophageal cancer cell
+Gastrointestinal cancer cell	Gastrointestinal cancer cell
+Gastrointestinal tract	Gastrointestinal tract
+Germ cell	Germ cell
+Germ cells	Germ cells
+Germinal center B cell	B_cells
+Germ layer	Germ layer
+Glia	Glia
+Glial cell	Glial cell
+Glioblastoma cell	Glioblastoma cell
+Glioma cell	Glioma cell
+Glomus cell	Glomus cell
+Glutaminergic neurons	Neurons
+GMP_BLUEPRINT_1	GMP_BLUEPRINT_1
+GMP_BLUEPRINT_2	GMP_BLUEPRINT_2
+GMP_BLUEPRINT_3	GMP_BLUEPRINT_3
+GMP_HPCA_1	GMP_HPCA_1
+GMP_HPCA_2	GMP_HPCA_2
+GMP_HPCA_3	GMP_HPCA_3
+GMP_NOVERSHTERN_1	GMP_NOVERSHTERN_1
+GMP_NOVERSHTERN_2	GMP_NOVERSHTERN_2
+GMP_NOVERSHTERN_3	GMP_NOVERSHTERN_3
+GMT0	GMT0
+GMT12	GMT12
+GMT3	GMT3
+Goblet cell	Goblet cell
+Goblet cells	Goblet cells
+Goblet progenitor cell	Progenitors
+Gonad	Gonad
+Gonadal endothelial cell	Endothelial_cells
+Gonadal mitotic phase fetal germ cell	Gonadal mitotic phase fetal germ cell
+Granulocyte	Granulocyte
+GRANULOCYTE	GRANULOCYTE
+Granulocyte-monocyte progenitor	Monocytes
+granulocytes_mac1+gr1+	granulocytes_mac1+gr1+
+granulo_mono_progenitor	Progenitors
+Granulosa cell	Granulosa cell
+GRANULOSA CELL	GRANULOSA CELL
+Granulosa cells	Granulosa cells
+Hair	Hair
+Hair follicle	Hair follicle
+HAIR FOLLICLE	HAIR FOLLICLE
+Hair root	Hair root
+HAY_BONE_MARROW_CD34_POS_CLP	HAY_BONE_MARROW_CD34_POS_CLP
+HAY_BONE_MARROW_CD34_POS_EO_B_MAST	HAY_BONE_MARROW_CD34_POS_EO_B_MAST
+HAY_BONE_MARROW_CD34_POS_ERP	HAY_BONE_MARROW_CD34_POS_ERP
+HAY_BONE_MARROW_CD34_POS_ERP_EARLY	HAY_BONE_MARROW_CD34_POS_ERP_EARLY
+HAY_BONE_MARROW_CD34_POS_GRAN	HAY_BONE_MARROW_CD34_POS_GRAN
+HAY_BONE_MARROW_CD34_POS_HSC	HAY_BONE_MARROW_CD34_POS_HSC
+HAY_BONE_MARROW_CD34_POS_LYMPHOID_UNK	HAY_BONE_MARROW_CD34_POS_LYMPHOID_UNK
+HAY_BONE_MARROW_CD34_POS_MEP	HAY_BONE_MARROW_CD34_POS_MEP
+HAY_BONE_MARROW_CD34_POS_MKP	HAY_BONE_MARROW_CD34_POS_MKP
+HAY_BONE_MARROW_CD34_POS_MULTILIN	HAY_BONE_MARROW_CD34_POS_MULTILIN
+HAY_BONE_MARROW_CD34_POS_PRE_B	HAY_BONE_MARROW_CD34_POS_PRE_B
+HAY_BONE_MARROW_CD34_POS_PRE_PC	HAY_BONE_MARROW_CD34_POS_PRE_PC
+HAY_BONE_MARROW_CD8_T_CELL	T_cells
+HAY_BONE_MARROW_DENDRITIC_CELL	DCs
+HAY_BONE_MARROW_EARLY_ERYTHROBLAST	HAY_BONE_MARROW_EARLY_ERYTHROBLAST
+HAY_BONE_MARROW_EOSINOPHIL	Eosinophils
+HAY_BONE_MARROW_ERYTHROBLAST	HAY_BONE_MARROW_ERYTHROBLAST
+HAY_BONE_MARROW_FOLLICULAR_B_CELL	B_cells
+HAY_BONE_MARROW_IMMATURE_NEUTROPHIL	Neutrophils
+HAY_BONE_MARROW_MONOCYTE	Monocytes
+HAY_BONE_MARROW_NAIVE_T_CELL	T_cells
+HAY_BONE_MARROW_NEUTROPHIL	Neutrophils
+HAY_BONE_MARROW_NK_CELLS	NK_cells
+HAY_BONE_MARROW_PLASMA_CELL	Plasma_cells
+HAY_BONE_MARROW_PLATELET	HAY_BONE_MARROW_PLATELET
+HAY_BONE_MARROW_PRE_DENDRITIC	DCs
+HAY_BONE_MARROW_PRO_B	HAY_BONE_MARROW_PRO_B
+HAY_BONE_MARROW_STROMAL	HAY_BONE_MARROW_STROMAL
+HBA_721_B_lymphoblasts	HBA_721_B_lymphoblasts
+HBA_Adipocyte	Adipocytes
+HBA_AdrenalCortex	HBA_AdrenalCortex
+HBA_Adrenalgland	HBA_Adrenalgland
+HBA_Amygdala	HBA_Amygdala
+HBA_Appendix	HBA_Appendix
+HBA_AtrioventricularNode	HBA_AtrioventricularNode
+HBA_BDCA4+_DentriticCells	HBA_BDCA4+_DentriticCells
+HBA_Bonemarrow	HBA_Bonemarrow
+HBA_BronchialEpithelialCells	Epithelial_cells
+HBA_CardiacMyocytes	Myocytes
+HBA_Caudatenucleus	HBA_Caudatenucleus
+HBA_CD105+_Endothelial	Endothelial_cells
+HBA_CD14+_Monocytes	Monocytes
+HBA_CD19+_BCells(neg	HBA_CD19+_BCells(neg
+HBA_CD33+_Myeloid	HBA_CD33+_Myeloid
+HBA_CD34+	HBA_CD34+
+HBA_CD4+_Tcells	HBA_CD4+_Tcells
+HBA_CD56+_NKCells	HBA_CD56+_NKCells
+HBA_CD71+_EarlyErythroid	HBA_CD71+_EarlyErythroid
+HBA_CD8+_Tcells	HBA_CD8+_Tcells
+HBA_Cerebellum	HBA_Cerebellum
+HBA_CerebellumPeduncles	HBA_CerebellumPeduncles
+HBA_CiliaryGanglion	HBA_CiliaryGanglion
+HBA_CingulateCortex	HBA_CingulateCortex
+HBA_colon	HBA_colon
+HBA_Colorectaladenocarcinoma	HBA_Colorectaladenocarcinoma
+HBA_DorsalRootGanglion	HBA_DorsalRootGanglion
+HBA_Fetalbrain	HBA_Fetalbrain
+HBA_Fetalliver	HBA_Fetalliver
+HBA_Fetallung	HBA_Fetallung
+HBA_FetalThyroid	HBA_FetalThyroid
+HBA_GlobusPallidus	HBA_GlobusPallidus
+HBA_Heart	HBA_Heart
+HBA_Hypothalamus	HBA_Hypothalamus
+HBA_Kidney	HBA_Kidney
+HBA_Leukemia_chronicMyelogenousK-562	HBA_Leukemia_chronicMyelogenousK-562
+HBA_Leukemialymphoblastic(MOLT-4)	HBA_Leukemialymphoblastic(MOLT-4)
+HBA_Leukemia_promyelocytic-HL-60	HBA_Leukemia_promyelocytic-HL-60
+HBA_Liver	HBA_Liver
+HBA_Lung	HBA_Lung
+HBA_Lymphnode	HBA_Lymphnode
+HBA_Lymphoma_burkitts(Daudi)	HBA_Lymphoma_burkitts(Daudi)
+HBA_Lymphoma_burkitts(Raji)	HBA_Lymphoma_burkitts(Raji)
+HBA_MedullaOblongata	HBA_MedullaOblongata
+HBA_OccipitalLobe	HBA_OccipitalLobe
+HBA_OlfactoryBulb	HBA_OlfactoryBulb
+HBA_Ovary	HBA_Ovary
+HBA_Pancreas	HBA_Pancreas
+HBA_PancreaticIslet	HBA_PancreaticIslet
+HBA_ParietalLobe	HBA_ParietalLobe
+HBA_pineal_day	HBA_pineal_day
+HBA_pineal_night	HBA_pineal_night
+HBA_Pituitary	HBA_Pituitary
+HBA_Placenta	HBA_Placenta
+HBA_Pons	HBA_Pons
+HBA_PrefrontalCortex	HBA_PrefrontalCortex
+HBA_Prostate	HBA_Prostate
+HBA_retina	HBA_retina
+HBA_Salivarygland	HBA_Salivarygland
+HBA_SkeletalMuscle	HBA_SkeletalMuscle
+HBA_Skin	HBA_Skin
+HBA_small_intestine	HBA_small_intestine
+HBA_SmoothMuscle	HBA_SmoothMuscle
+HBA_Spinalcord	HBA_Spinalcord
+HBA_SubthalamicNucleus	HBA_SubthalamicNucleus
+HBA_SuperiorCervicalGanglion	HBA_SuperiorCervicalGanglion
+HBA_TemporalLobe	HBA_TemporalLobe
+HBA_Testis	HBA_Testis
+HBA_TestisGermCell	HBA_TestisGermCell
+HBA_TestisIntersitial	HBA_TestisIntersitial
+HBA_TestisLeydigCell	HBA_TestisLeydigCell
+HBA_TestisSeminiferousTubule	HBA_TestisSeminiferousTubule
+HBA_Thalamus	HBA_Thalamus
+HBA_Thymus	HBA_Thymus
+HBA_Thyroid	HBA_Thyroid
+HBA_Tongue	HBA_Tongue
+HBA_Tonsil	HBA_Tonsil
+HBA_Trachea	HBA_Trachea
+HBA_TrigeminalGanglion	HBA_TrigeminalGanglion
+HBA_Uterus	HBA_Uterus
+HBA_UterusCorpus	HBA_UterusCorpus
+HBA_WholeBlood	HBA_WholeBlood
+HBA_Wholebrain	HBA_Wholebrain
+heart	heart
+Heart	Heart
+HEART (BULK TISSUE)	HEART (BULK TISSUE)
+Heart primordium	Heart primordium
+Hemangioblast	Hemangioblast
+Hematopoietic cell	Hematopoietic cell
+Hematopoietic stem cell	Stem_cells
+Hematopoietic stem cell progenitor cell	Stem_cells
+Hematopoietic stem cells	Stem_cells
+Hematopoietic system	Hematopoietic system
+HEPATIC STELLATE CELL	HEPATIC STELLATE CELL
+Hepatic stellate cells	Hepatic stellate cells
+Hepatoblastoma cell	Hepatoblastoma cell
+Hepatoblasts	Hepatoblasts
+Hepatocyte	Hepatocytes
+HEPATOCYTE	Hepatocytes
+Hepatocytes	Hepatocytes
+Hepatocytes_FANTOM_1	Hepatocytes
+Hepatocytes_FANTOM_2	Hepatocytes
+Hepatocytes_FANTOM_3	Hepatocytes
+Hepatocytes_HPCA_1	Hepatocytes
+Hepatocytes_HPCA_2	Hepatocytes
+Hepatocytes_HPCA_3	Hepatocytes
+Hepatoma cell	Hepatoma cell
+Hindbrain	Hindbrain
+Hippocampal_Neurons	Neurons
+hippocampus	hippocampus
+Hippocampus	Hippocampus
+Histiocytic lymphoma cell	Histiocytic lymphoma cell
+Hormone sensing progenitor	Progenitors
+HPCA_Adipocytes	Adipocytes
+HPCA_B_cells	B_cells
+HPCA_Bronchial_Epithelial_cells	Epithelial_cells
+HPCA_CD34+	HPCA_CD34+
+HPCA_Dendritic_cells_BDCA1+	DCs
+HPCA_Dendritic_cells_BDCA3+	DCs
+HPCA_Dendritic_cells_plasmacytoid+	DCs
+HPCA_Endothelial_cells	Endothelial_cells
+HPCA_Fibroblasts	Fibroblasts
+HPCA_Keratinocytes	Keratinocytes
+HPCA_M1_IFNg	HPCA_M1_IFNg
+HPCA_M2_IL-4	HPCA_M2_IL-4
+HPCA_Macrophage	Macrophages
+HPCA_M_IFNa	HPCA_M_IFNa
+HPCA_Monocytes_CD14plusCD16minus	Monocytes
+HPCA_Monocytes_CD16plusCD14minus	Monocytes
+HPCA_MSC	HPCA_MSC
+HPCA_Neutrophils	Neutrophils
+HPCA_Neutrophils_LPS	Neutrophils
+HPCA_NK_cells	NK_cells
+HPCA_Platelets	HPCA_Platelets
+HPCA_Schwann_cells	HPCA_Schwann_cells
+HPCA_Smooth_muscle_cells	HPCA_Smooth_muscle_cells
+HPCA_T_cells_CD4+	T_cells
+HPCA_T_cells_CD8+	T_cells
+HPCA_T_cells_gamma-delta	T_cells
+HSC_BLUEPRINT_1	HSC_BLUEPRINT_1
+HSC_BLUEPRINT_2	HSC_BLUEPRINT_2
+HSC_BLUEPRINT_3	HSC_BLUEPRINT_3
+HSC_FANTOM_1	HSC_FANTOM_1
+HSC_FANTOM_2	HSC_FANTOM_2
+HSC_NOVERSHTERN_1	HSC_NOVERSHTERN_1
+HSC_NOVERSHTERN_3	HSC_NOVERSHTERN_3
+HU_FETAL_RETINA_AMACRINE	HU_FETAL_RETINA_AMACRINE
+HU_FETAL_RETINA_BIPOLAR	HU_FETAL_RETINA_BIPOLAR
+HU_FETAL_RETINA_BLOOD	HU_FETAL_RETINA_BLOOD
+HU_FETAL_RETINA_FIBROBLAST	Fibroblasts
+HU_FETAL_RETINA_HORIZONTAL	HU_FETAL_RETINA_HORIZONTAL
+HU_FETAL_RETINA_MICROGLIA	HU_FETAL_RETINA_MICROGLIA
+HU_FETAL_RETINA_MULLER	HU_FETAL_RETINA_MULLER
+HU_FETAL_RETINA_PHOTORECEPTOR	HU_FETAL_RETINA_PHOTORECEPTOR
+HU_FETAL_RETINA_RGC	HU_FETAL_RETINA_RGC
+HU_FETAL_RETINA_RPC	HU_FETAL_RETINA_RPC
+HU_FETAL_RETINA_RPE	HU_FETAL_RETINA_RPE
+HUMAN EMBRYO	HUMAN EMBRYO
+HUMAN ZYGOTE	HUMAN ZYGOTE
+Hypophysis	Hypophysis
+hypothalamus	hypothalamus
+Hypothalamus	Hypothalamus
+ICD	ICD
+iDC_HPCA_1	iDC_HPCA_1
+iDC_HPCA_2	iDC_HPCA_2
+iDC_HPCA_3	iDC_HPCA_3
+Idiopathic pulmonary fibrosis cell	Idiopathic pulmonary fibrosis cell
+IFNB_2	IFNB_2
+IFNB_24	IFNB_24
+IFNB_6	IFNB_6
+IFNg_10ng_24h_NHEK_55	IFNg_10ng_24h_NHEK_55
+IFNg_10ng_4d_NHEK_12	IFNg_10ng_4d_NHEK_12
+IFNG_2	IFNG_2
+IFNg_20ng_24h_NHEK_23	IFNg_20ng_24h_NHEK_23
+IFNg_20ng_24h_NHEK_45	IFNg_20ng_24h_NHEK_45
+IFNG_24	IFNG_24
+IFNg_24h_NHEK_2	IFNg_24h_NHEK_2
+IFNg_24h_NHEK_3	IFNg_24h_NHEK_3
+IFNG_6	IFNG_6
+IGNg_TNF_24h_HaCaT_27	IGNg_TNF_24h_HaCaT_27
+IL10_24	IL10_24
+IL10_24h_05-15	IL10_24h_05-15
+IL10_6	IL10_6
+IL10_6h_05-15	IL10_6h_05-15
+IL15_24	IL15_24
+IL15_24h_05-15	IL15_24h_05-15
+IL15_6	IL15_6
+IL15_6h_05-15	IL15_6h_05-15
+IL17A_20ng_24h_NHEK_49	IL17A_20ng_24h_NHEK_49
+IL17A_TNF_10ng_2h_NHEK_33	IL17A_TNF_10ng_2h_NHEK_33
+IL17A_TNF_1ng_24h_NHEK_32	IL17A_TNF_1ng_24h_NHEK_32
+IL22_20ng_4d_NHEK_9	IL22_20ng_4d_NHEK_9
+IL26d	IL26d
+IL4_24	IL4_24
+IL4_24h_05-15	IL4_24h_05-15
+IL4_6	IL4_6
+IL4_6h_05-15	IL4_6h_05-15
+IL6_justRMA	IL6_justRMA
+Ileal mucosa	Ileal mucosa
+Ileocecum	Ileocecum
+Ileum	Ileum
+ILEUM (BULK)	ILEUM (BULK)
+IL_M24	IL_M24
+IL_M6	IL_M6
+IMGN_B1a_PC	IMGN_B1a_PC
+IMGN_B1a_Sp	IMGN_B1a_Sp
+IMGN_B1b_PC	IMGN_B1b_PC
+IMGN_BEC_MLN	IMGN_BEC_MLN
+IMGN_BEC_SLN	IMGN_BEC_SLN
+IMGN_B_Fo_LN	IMGN_B_Fo_LN
+IMGN_B_Fo_MLN	IMGN_B_Fo_MLN
+IMGN_B_Fo_PC	IMGN_B_Fo_PC
+IMGN_B_Fo_Sp	IMGN_B_Fo_Sp
+IMGN_B_FrE_BM	IMGN_B_FrE_BM
+IMGN_B_FrE_FL	IMGN_B_FrE_FL
+IMGN_B_FrF_BM	IMGN_B_FrF_BM
+IMGN_B_GC_Sp	IMGN_B_GC_Sp
+IMGN_B_MZ_Sp	IMGN_B_MZ_Sp
+IMGN_B_T1_Sp	IMGN_B_T1_Sp
+IMGN_B_T2_Sp	IMGN_B_T2_Sp
+IMGN_B_T3_Sp	IMGN_B_T3_Sp
+IMGN_DC_103-11b+24+_Lu	DCs
+IMGN_DC_103-11b+F4_80lo_Kd	DCs
+IMGN_DC_103+11b-_Lu	DCs
+IMGN_DC_103+11b-_LuLN	DCs
+IMGN_DC_103-11b+_LuLN	DCs
+IMGN_DC_103+11b-_Lv	DCs
+IMGN_DC_103-11b+_Lv	DCs
+IMGN_DC_103+11b-_PolyIC_Lu	DCs
+IMGN_DC_103-11b+_PolyIC_Lu	DCs
+IMGN_DC_103+11b+_Salm3_SI	DCs
+IMGN_DC_103+11b-_Salm3_SI	DCs
+IMGN_DC_103+11b+_SI	DCs
+IMGN_DC_103+11b-_SI	DCs
+IMGN_DC_4+_MLN	DCs
+IMGN_DC_4+_SLN	DCs
+IMGN_DC_4+_Sp	DCs
+IMGN_DC_8-4-11b+_MLN	DCs
+IMGN_DC_8-4-11b-_MLN	DCs
+IMGN_DC_8-4-11b+_SLN	DCs
+IMGN_DC_8-4-11b-_SLN	DCs
+IMGN_DC_8-4-11b+_Sp	DCs
+IMGN_DC_8-4-11b-_Sp	DCs
+IMGN_DC_8+_MLN	DCs
+IMGN_DC_8+_SLN	DCs
+IMGN_DC_8+_Sp	DCs
+IMGN_DC_8+_Th	DCs
+IMGN_DC_8-_Th	DCs
+IMGN_DC_IIhilang+103+11blo_SLN	DCs
+IMGN_DC_IIhilang-103-11blo_SLN	DCs
+IMGN_DC_IIhilang+103-11b+_SLN	DCs
+IMGN_DC_IIhilang-103-11b+_SLN	DCs
+IMGN_DC_LC_Sk	DCs
+IMGN_DC_pDC_8+_MLN	DCs
+IMGN_DC_pDC_8+_SLN	DCs
+IMGN_DC_pDC_8+_Sp	DCs
+IMGN_DC_pDC_8-_Sp	DCs
+IMGN_Ep_MEChi_Th	IMGN_Ep_MEChi_Th
+IMGN_Fi_MTS15+_Th	IMGN_Fi_MTS15+_Th
+IMGN_Fi_Sk	IMGN_Fi_Sk
+IMGN_FRC_MLN	IMGN_FRC_MLN
+IMGN_FRC_SLN	IMGN_FRC_SLN
+IMGN_GN_Arth_BM	IMGN_GN_Arth_BM
+IMGN_GN_Arth_SynF	IMGN_GN_Arth_SynF
+IMGN_GN_Bl	IMGN_GN_Bl
+IMGN_GN_BM	IMGN_GN_BM
+IMGN_GN_Thio_PC	IMGN_GN_Thio_PC
+IMGN_GN_UrAc_PC	IMGN_GN_UrAc_PC
+IMGN_LEC_MLN	IMGN_LEC_MLN
+IMGN_LEC_SLN	IMGN_LEC_SLN
+IMGN_MF_103-11b+24-_Lu	IMGN_MF_103-11b+24-_Lu
+IMGN_MF_103-11b+_Salm3_SI	IMGN_MF_103-11b+_Salm3_SI
+IMGN_MF_103-11b+_SI	IMGN_MF_103-11b+_SI
+IMGN_MF_11cloSer_Salm3_SI	IMGN_MF_11cloSer_Salm3_SI
+IMGN_MF_11cloSer_SI	IMGN_MF_11cloSer_SI
+IMGN_MF_BM	IMGN_MF_BM
+IMGN_MF_II-480hi_PC	IMGN_MF_II-480hi_PC
+IMGN_MF_II+480lo_PC	IMGN_MF_II+480lo_PC
+IMGN_MF_Lu	IMGN_MF_Lu
+IMGN_MF_Microglia_CNS	IMGN_MF_Microglia_CNS
+IMGN_MF_RP_Sp	IMGN_MF_RP_Sp
+IMGN_MF_Thio5_II-480hi_PC	IMGN_MF_Thio5_II-480hi_PC
+IMGN_MF_Thio5_II+480int_PC	IMGN_MF_Thio5_II+480int_PC
+IMGN_MF_Thio5_II-480int_PC	IMGN_MF_Thio5_II-480int_PC
+IMGN_MF_Thio5_II+480lo_PC	IMGN_MF_Thio5_II+480lo_PC
+IMGN_MLP_BM	IMGN_MLP_BM
+IMGN_MLP_FL	IMGN_MLP_FL
+IMGN_Mo_6C+II+_Bl	IMGN_Mo_6C+II+_Bl
+IMGN_Mo_6C+II-_Bl	IMGN_Mo_6C+II-_Bl
+IMGN_Mo_6C-II+_Bl	IMGN_Mo_6C-II+_Bl
+IMGN_Mo_6C-II-_Bl	IMGN_Mo_6C-II-_Bl
+IMGN_Mo_6C+II-_BM	IMGN_Mo_6C+II-_BM
+IMGN_Mo_6C-II-_BM	IMGN_Mo_6C-II-_BM
+IMGN_Mo_6C-IIint_Bl	IMGN_Mo_6C-IIint_Bl
+IMGN_Mo_6C+II-_LN	IMGN_Mo_6C+II-_LN
+IMGN_NK_49CI+_Sp	NK_cells
+IMGN_NK_49CI-_Sp	NK_cells
+IMGN_NK_49H+_Sp	NK_cells
+IMGN_NK_49H-_Sp	NK_cells
+IMGN_NK_b2m-_Sp	NK_cells
+IMGN_NK_DAP10-_Sp	NK_cells
+IMGN_NK_DAP12-_Sp	NK_cells
+IMGN_NK_H+_MCMV1_Sp	NK_cells
+IMGN_NK_H+_MCMV7_Sp	NK_cells
+IMGN_NK_MCMV1_Sp	NK_cells
+IMGN_NK_MCMV7_Sp	NK_cells
+IMGN_NK_Sp	NK_cells
+IMGN_NKT_44+NK1_1+_Th	IMGN_NKT_44+NK1_1+_Th
+IMGN_NKT_44+NK1_1-_Th	IMGN_NKT_44+NK1_1-_Th
+IMGN_NKT_44-NK1_1-_Th	IMGN_NKT_44-NK1_1-_Th
+IMGN_NKT_4+_Lv	IMGN_NKT_4+_Lv
+IMGN_NKT_4-_Lv	IMGN_NKT_4-_Lv
+IMGN_NKT_4+_Sp	IMGN_NKT_4+_Sp
+IMGN_NKT_4-_Sp	IMGN_NKT_4-_Sp
+IMGN_preB_FrC_BM	IMGN_preB_FrC_BM
+IMGN_preB_FrD_BM	IMGN_preB_FrD_BM
+IMGN_preB_FrD_FL	IMGN_preB_FrD_FL
+IMGN_preT_DN2-3_Th	IMGN_preT_DN2-3_Th
+IMGN_preT_DN2A_Th	IMGN_preT_DN2A_Th
+IMGN_preT_DN2B_Th	IMGN_preT_DN2B_Th
+IMGN_preT_DN2_Th	IMGN_preT_DN2_Th
+IMGN_preT_DN3-4_Th	IMGN_preT_DN3-4_Th
+IMGN_preT_DN3A_Th	IMGN_preT_DN3A_Th
+IMGN_preT_DN3B_Th	IMGN_preT_DN3B_Th
+IMGN_preT_ETP-2A_Th	IMGN_preT_ETP-2A_Th
+IMGN_preT_ETP_Th	IMGN_preT_ETP_Th
+IMGN_proB_CLP_BM	IMGN_proB_CLP_BM
+IMGN_proB_CLP_FL	IMGN_proB_CLP_FL
+IMGN_proB_FrA_BM	IMGN_proB_FrA_BM
+IMGN_proB_FrA_FL	IMGN_proB_FrA_FL
+IMGN_proB_FrBC_BM	IMGN_proB_FrBC_BM
+IMGN_proB_FrBC_FL	IMGN_proB_FrBC_FL
+IMGN_SC_CDP_BM	IMGN_SC_CDP_BM
+IMGN_SC_CMP_BM	IMGN_SC_CMP_BM
+IMGN_SC_GMP_BM	IMGN_SC_GMP_BM
+IMGN_SC_LT34F_BM	IMGN_SC_LT34F_BM
+IMGN_SC_LTSL_BM	IMGN_SC_LTSL_BM
+IMGN_SC_LTSL_FL	IMGN_SC_LTSL_FL
+IMGN_SC_MDP_BM	IMGN_SC_MDP_BM
+IMGN_SC_MEP_BM	IMGN_SC_MEP_BM
+IMGN_SC_MPP34F_BM	IMGN_SC_MPP34F_BM
+IMGN_SC_ST34F_BM	IMGN_SC_ST34F_BM
+IMGN_SC_STSL_BM	IMGN_SC_STSL_BM
+IMGN_SC_STSL_FL	IMGN_SC_STSL_FL
+IMGN_St_31-38-44-_SLN	IMGN_St_31-38-44-_SLN
+IMGN_T_4+8int_Th	IMGN_T_4+8int_Th
+IMGN_T_4FP3+25+_AA	IMGN_T_4FP3+25+_AA
+IMGN_T_4FP3+25+_LN	IMGN_T_4FP3+25+_LN
+IMGN_T_4FP3+25+_Sp	IMGN_T_4FP3+25+_Sp
+IMGN_T_4FP3-_Sp	IMGN_T_4FP3-_Sp
+IMGN_T_4int8+_Th	IMGN_T_4int8+_Th
+IMGN_T_4_LN_BDC	IMGN_T_4_LN_BDC
+IMGN_T_4Mem44h62l_LN	IMGN_T_4Mem44h62l_LN
+IMGN_T_4Mem44h62l_Sp	IMGN_T_4Mem44h62l_Sp
+IMGN_T_4Mem_LN	IMGN_T_4Mem_LN
+IMGN_T_4Mem_Sp	IMGN_T_4Mem_Sp
+IMGN_T_4Nve_LN	IMGN_T_4Nve_LN
+IMGN_T_4Nve_MLN	IMGN_T_4Nve_MLN
+IMGN_T_4Nve_PP	IMGN_T_4Nve_PP
+IMGN_T_4Nve_Sp	IMGN_T_4Nve_Sp
+IMGN_T_4_Pa_BDC	IMGN_T_4_Pa_BDC
+IMGN_T_4_PLN_BDC	IMGN_T_4_PLN_BDC
+IMGN_T_4SP24int_Th	IMGN_T_4SP24int_Th
+IMGN_T_4SP24-_Th	IMGN_T_4SP24-_Th
+IMGN_T_4SP69+_Th	IMGN_T_4SP69+_Th
+IMGN_T_8Eff_Sp_OT1_12hr_LisOva	IMGN_T_8Eff_Sp_OT1_12hr_LisOva
+IMGN_T_8Eff_Sp_OT1_24hr_LisOva	IMGN_T_8Eff_Sp_OT1_24hr_LisOva
+IMGN_T_8Eff_Sp_OT1_48hr_LisOva	IMGN_T_8Eff_Sp_OT1_48hr_LisOva
+IMGN_T_8Eff_Sp_OT1_d10_LisOva	IMGN_T_8Eff_Sp_OT1_d10_LisOva
+IMGN_T_8Eff_Sp_OT1_d15_LisOva	IMGN_T_8Eff_Sp_OT1_d15_LisOva
+IMGN_T_8Eff_Sp_OT1_d15_VSVOva	IMGN_T_8Eff_Sp_OT1_d15_VSVOva
+IMGN_T_8Eff_Sp_OT1_d5_VSVOva	IMGN_T_8Eff_Sp_OT1_d5_VSVOva
+IMGN_T_8Eff_Sp_OT1_d6_LisOva	IMGN_T_8Eff_Sp_OT1_d6_LisOva
+IMGN_T_8Eff_Sp_OT1_d6_VSVOva	IMGN_T_8Eff_Sp_OT1_d6_VSVOva
+IMGN_T_8Eff_Sp_OT1_d8_LisOva	IMGN_T_8Eff_Sp_OT1_d8_LisOva
+IMGN_T_8Eff_Sp_OT1_d8_VSVOva	IMGN_T_8Eff_Sp_OT1_d8_VSVOva
+IMGN_T_8Mem_LN	IMGN_T_8Mem_LN
+IMGN_T_8Mem_Sp	IMGN_T_8Mem_Sp
+IMGN_T_8Mem_Sp_OT1_d100_LisOva	IMGN_T_8Mem_Sp_OT1_d100_LisOva
+IMGN_T_8Mem_Sp_OT1_d106_VSVOva	IMGN_T_8Mem_Sp_OT1_d106_VSVOva
+IMGN_T_8Mem_Sp_OT1_d45_LisOva	IMGN_T_8Mem_Sp_OT1_d45_LisOva
+IMGN_T_8Mem_Sp_OT1_d45_VSVOva	IMGN_T_8Mem_Sp_OT1_d45_VSVOva
+IMGN_T_8Nve_LN	IMGN_T_8Nve_LN
+IMGN_T_8Nve_MLN	IMGN_T_8Nve_MLN
+IMGN_T_8Nve_PP	IMGN_T_8Nve_PP
+IMGN_T_8Nve_Sp	IMGN_T_8Nve_Sp
+IMGN_T_8Nve_Sp_OT1	IMGN_T_8Nve_Sp_OT1
+IMGN_T_8SP24int_Th	IMGN_T_8SP24int_Th
+IMGN_T_8SP24-_Th	IMGN_T_8SP24-_Th
+IMGN_T_8SP69+_Th	IMGN_T_8SP69+_Th
+IMGN_T_DN4_Th	IMGN_T_DN4_Th
+IMGN_T_DP69+_Th	IMGN_T_DP69+_Th
+IMGN_T_DPbl_Th	IMGN_T_DPbl_Th
+IMGN_T_DPsm_Th	IMGN_T_DPsm_Th
+IMGN_T_DP_Th	IMGN_T_DP_Th
+IMGN_Tgd_Sp	Tgd
+IMGN_Tgd_Th	Tgd
+IMGN_Tgd_vg1+vd6+24ahi_Th	Tgd
+IMGN_Tgd_vg1+vd6-24ahi_Th	Tgd
+IMGN_Tgd_vg1+vd6+24alo_Th	Tgd
+IMGN_Tgd_vg1+vd6-24alo_Th	Tgd
+IMGN_Tgd_vg2+24ahi_e17_Th	Tgd
+IMGN_Tgd_vg2+24ahi_Th	Tgd
+IMGN_Tgd_vg2+24alo_Th	Tgd
+IMGN_Tgd_vg2+_act_Sp	Tgd
+IMGN_Tgd_vg2-_act_Sp	Tgd
+IMGN_Tgd_vg2+_Sp	Tgd
+IMGN_Tgd_vg2-_Sp	Tgd
+IMGN_Tgd_vg2+_Sp_TCRbko	Tgd
+IMGN_Tgd_vg2-_Sp_TCRbko	Tgd
+IMGN_Tgd_vg3+24ahi_e17_Th	Tgd
+IMGN_Tgd_vg3+24alo_e17_Th	Tgd
+IMGN_Tgd_vg5+24ahi_Th	Tgd
+IMGN_Tgd_vg5+_act_IEL	Tgd
+IMGN_Tgd_vg5-_act_IEL	Tgd
+IMGN_Tgd_vg5+_IEL	Tgd
+IMGN_Tgd_vg5-_IEL	Tgd
+IMGN_T_ISP_Th	IMGN_T_ISP_Th
+Immature neurons	Neurons
+Immature transitional B cell	B_cells
+Immune cell	Immune cell
+Immune cell (Ovarian Cancer)	Immune cell (Ovarian Cancer)
+Immune cell (Renal Clear Cell Carcinoma)	Immune cell (Renal Clear Cell Carcinoma)
+Immune system	Immune system
+Induced pluripotent stem cell	Stem_cells
+Infiltrated mononuclear cell	Infiltrated mononuclear cell
+Inner ear	Inner ear
+Insulinoma cell	Insulinoma cell
+Integument	Integument
+Intercalated cells	Intercalated cells
+IntermediateMonocyte_CD14plusplusCD16plus	Monocytes
+Internal female genital organ	Internal female genital organ
+Internal male genital organ	Internal male genital organ
+Interneuron	Neurons
+Interneurons	Neurons
+Interneuron-selective cell	Neurons
+Interstitial cell	Interstitial cell
+Interstitial cell of Cajal	Interstitial cell of Cajal
+INTESTINAL EPITHELIAL CELL	Epithelial_cells
+Intestinal epithelium	Epithelial_cells
+Intestinal mucosa	Intestinal mucosa
+Intestinal stem cell	Stem_cells
+Intestine	Intestine
+intestine_large	intestine_large
+intestine_small	intestine_small
+Ionocyte cell	Ionocyte cell
+Ionocytes	Ionocytes
+iris	iris
+Iris	Iris
+Ito cell (hepatic stellate cell)	Ito cell (hepatic stellate cell)
+Jejunum	Jejunum
+Joint	Joint
+Keratinocyte	Keratinocytes
+KERATINOCYTE	Keratinocytes
+Keratinocytes	Keratinocytes
+Keratinocytes_ENCODE_1	Keratinocytes
+Keratinocytes_ENCODE_2	Keratinocytes
+Keratinocytes_ENCODE_3	Keratinocytes
+Keratinocytes_FANTOM_1	Keratinocytes
+Keratinocytes_FANTOM_2	Keratinocytes
+Keratinocytes_FANTOM_3	Keratinocytes
+Keratinocytes_HPCA_1	Keratinocytes
+Keratinocytes_HPCA_2	Keratinocytes
+Keratinocytes_HPCA_3	Keratinocytes
+kidney	kidney
+Kidney	Kidney
+KIDNEY (BULK TISSUE)	KIDNEY (BULK TISSUE)
+Kidney cancer cell	Kidney cancer cell
+Kidney progenitor cells	Progenitors
+Krt4/13+ cell	Krt4/13+ cell
+Kupffer cell	Kupffer cell
+KUPFFER CELL	KUPFFER CELL
+Kupffer cells	Kupffer cells
+lacrimal_gland	lacrimal_gland
+LAKE_ADULT_KIDNEY_C10_THIN_ASCENDING_LIMB	LAKE_ADULT_KIDNEY_C10_THIN_ASCENDING_LIMB
+LAKE_ADULT_KIDNEY_C11_THIN_ASCENDING_LIMB	LAKE_ADULT_KIDNEY_C11_THIN_ASCENDING_LIMB
+LAKE_ADULT_KIDNEY_C12_THICK_ASCENDING_LIMB	LAKE_ADULT_KIDNEY_C12_THICK_ASCENDING_LIMB
+LAKE_ADULT_KIDNEY_C13_THICK_ASCENDING_LIMB	LAKE_ADULT_KIDNEY_C13_THICK_ASCENDING_LIMB
+LAKE_ADULT_KIDNEY_C14_DISTAL_CONVOLUTED_TUBULE	LAKE_ADULT_KIDNEY_C14_DISTAL_CONVOLUTED_TUBULE
+LAKE_ADULT_KIDNEY_C15_CONNECTING_TUBULE	LAKE_ADULT_KIDNEY_C15_CONNECTING_TUBULE
+LAKE_ADULT_KIDNEY_C16_COLLECTING_SYSTEM_PRINCIPAL_CELLS_CORTEX	LAKE_ADULT_KIDNEY_C16_COLLECTING_SYSTEM_PRINCIPAL_CELLS_CORTEX
+LAKE_ADULT_KIDNEY_C17_COLLECTING_SYSTEM_PCS_STRESSED_DISSOC_SUBSET	LAKE_ADULT_KIDNEY_C17_COLLECTING_SYSTEM_PCS_STRESSED_DISSOC_SUBSET
+LAKE_ADULT_KIDNEY_C18_COLLECTING_DUCT_PRINCIPAL_CELLS_MEDULLA	Ductal_cells
+LAKE_ADULT_KIDNEY_C19_COLLECTING_DUCT_INTERCALATED_CELLS_TYPE_A_MEDULLA	Ductal_cells
+LAKE_ADULT_KIDNEY_C1_EPITHELIAL_CELLS_UNASSIGNED	Epithelial_cells
+LAKE_ADULT_KIDNEY_C20_COLLECTING_DUCT_INTERCALATED_CELLS_TYPE_A_CORTEX	Ductal_cells
+LAKE_ADULT_KIDNEY_C21_COLLECTING_DUCT_INTERCALATED_CELLS_TYPE_B	Ductal_cells
+LAKE_ADULT_KIDNEY_C22_ENDOTHELIAL_CELLS_GLOMERULAR_CAPILLARIES	Endothelial_cells
+LAKE_ADULT_KIDNEY_C23_ENDOTHELIAL_CELLS_AVR	Endothelial_cells
+LAKE_ADULT_KIDNEY_C24_ENDOTHELIAL_CELLS_AEA_AND_DVR	Endothelial_cells
+LAKE_ADULT_KIDNEY_C25_ENDOTHELIAL_CELLS_UNASSIGNED	Endothelial_cells
+LAKE_ADULT_KIDNEY_C26_MESANGIAL_CELLS	LAKE_ADULT_KIDNEY_C26_MESANGIAL_CELLS
+LAKE_ADULT_KIDNEY_C27_VASCULAR_SMOOTH_MUSCLE_CELLS_AND_PERICYTES	Pericytes
+LAKE_ADULT_KIDNEY_C28_INTERSTITIUM	LAKE_ADULT_KIDNEY_C28_INTERSTITIUM
+LAKE_ADULT_KIDNEY_C29_UNKNOWN_NOVEL_PT_CFH_POS_SUBPOPULATION_S2	LAKE_ADULT_KIDNEY_C29_UNKNOWN_NOVEL_PT_CFH_POS_SUBPOPULATION_S2
+LAKE_ADULT_KIDNEY_C2_PODOCYTES	LAKE_ADULT_KIDNEY_C2_PODOCYTES
+LAKE_ADULT_KIDNEY_C30_IMMUNE_CELLS_MACROPHAGES	Macrophages
+LAKE_ADULT_KIDNEY_C3_PROXIMAL_TUBULE_EPITHELIAL_CELLS_S1_S2	Epithelial_cells
+LAKE_ADULT_KIDNEY_C4_PROXIMAL_TUBULE_EPITHELIAL_CELLS_S2	Epithelial_cells
+LAKE_ADULT_KIDNEY_C5_PROXIMAL_TUBULE_EPITHELIAL_CELLS_STRESS_INFLAM	Epithelial_cells
+LAKE_ADULT_KIDNEY_C6_PROXIMAL_TUBULE_EPITHELIAL_CELLS_FIBRINOGEN_POS_S3	Epithelial_cells
+LAKE_ADULT_KIDNEY_C7_PROXIMAL_TUBULE_EPITHELIAL_CELLS_S3	Epithelial_cells
+LAKE_ADULT_KIDNEY_C8_DECENDING_THIN_LIMB	LAKE_ADULT_KIDNEY_C8_DECENDING_THIN_LIMB
+LAKE_ADULT_KIDNEY_C9_THIN_ASCENDING_LIMB	LAKE_ADULT_KIDNEY_C9_THIN_ASCENDING_LIMB
+Lake et al.Science.Ex1	Lake et al.Science.Ex1
+Lake et al.Science.Ex2	Lake et al.Science.Ex2
+Lake et al.Science.Ex4	Lake et al.Science.Ex4
+Lake et al.Science.Ex5	Lake et al.Science.Ex5
+Lake et al.Science.Ex6	Lake et al.Science.Ex6
+Lake et al.Science.Ex8	Lake et al.Science.Ex8
+Lake et al.Science.In3	Lake et al.Science.In3
+Lake et al.Science.In5	Lake et al.Science.In5
+Langerhans cells	Langerhans cells
+Large granular lymphocyte	Large granular lymphocyte
+Large intestine	Large intestine
+Late enterocyte precursor cell	Late enterocyte precursor cell
+Late neuroblast	Late neuroblast
+Lee et al.Cell.E	Lee et al.Cell.E
+Leiomyosarcoma cell	Leiomyosarcoma cell
+lens	lens
+Lens	Lens
+Lens epithelium	Epithelial_cells
+Lep_BT	Lep_BT
+Lep_LL	Lep_LL
+Lep_RR	Lep_RR
+Leukemia cell	Leukemia cell
+Leukocyte	Leukocyte
+Leydig cell	Leydig cell
+Leydig cells	Leydig cells
+Leydig precursor cell	Leydig precursor cell
+LGR5+ stem cell	Stem_cells
+Limbic system	Limbic system
+Lipofibroblast	Fibroblasts
+liver	liver
+Liver	Liver
+Liver bud hepatic cell	Liver bud hepatic cell
+LIVER (BULK TISSUE)	LIVER (BULK TISSUE)
+Liver cancer cell	Liver cancer cell
+Liver progenitor cell	Progenitors
+Liver stem cell	Stem_cells
+Liver stem cell (Hepatocellular Carcinoma)	Stem_cells
+LL2	LL2
+LLP	LLP
+Long-projecting GABAergic cell	Long-projecting GABAergic cell
+Long-term hematopoietic stem cell	Stem_cells
+Loop of Henle cells	Loop of Henle cells
+Luminal epithelial cell	Epithelial_cells
+Luminal epithelial cells	Epithelial_cells
+Luminal progenitor	Progenitors
+lung	lung
+Lung	Lung
+Lung adenocarcinoma cell	Lung adenocarcinoma cell
+LUNG (BULK TISSUE)	LUNG (BULK TISSUE)
+Lung cancer cell	Lung cancer cell
+LUNG EPITHELIAL CELL	Epithelial_cells
+Lung epithelium	Epithelial_cells
+Lung fibroblast	Fibroblasts
+Luteal cells	Luteal cells
+ly Endothelial cells_FANTOM_1	Endothelial_cells
+ly Endothelial cells_FANTOM_2	Endothelial_cells
+ly Endothelial cells_FANTOM_3	Endothelial_cells
+ly Endothelial cells_HPCA_1	Endothelial_cells
+ly Endothelial cells_HPCA_2	Endothelial_cells
+ly Endothelial cells_HPCA_3	Endothelial_cells
+Lymph	Lymph
+Lymph_endothel_cell	Lymph_endothel_cell
+Lymph node	Lymph node
+lymph_nodes	lymph_nodes
+Lymphoblast	Lymphoblast
+Lymphocyte	Lymphocyte
+Lymphocytic leukemia cell	Lymphocytic leukemia cell
+Lymphoid cell	Lymphoid cell
+Lymphoid-primed multipotent progenitor cell	Progenitors
+Lymphoid tissue	Lymphoid tissue
+Lymphoma cell	Lymphoma cell
+M1 macrophage	Macrophages
+M2 macrophage	Macrophages
+MA_B	MA_B
+Macroglia	Macroglia
+Macrophage	Macrophages
+MACROPHAGE	Macrophages
+macrophage_bone_marrow_0hr	Macrophages
+macrophage_bone_marrow_24h_LPS	Macrophages
+macrophage_bone_marrow_2hr_LPS	Macrophages
+macrophage_bone_marrow_6hr_LPS	Macrophages
+Macrophage (Glioma)	Macrophages
+macrophage_peri_LPS_thio_0hrs	Macrophages
+macrophage_peri_LPS_thio_1hrs	Macrophages
+macrophage_peri_LPS_thio_7hrs	Macrophages
+Macrophages	Macrophages
+Macrophages_BLUEPRINT_1	Macrophages
+Macrophages_BLUEPRINT_2	Macrophages
+Macrophages_BLUEPRINT_3	Macrophages
+Macrophages_FANTOM_1	Macrophages
+Macrophages_FANTOM_2	Macrophages
+Macrophages_FANTOM_3	Macrophages
+Macrophages_HPCA_1	Macrophages
+Macrophages_HPCA_2	Macrophages
+Macrophages_HPCA_3	Macrophages
+Macrophages_IRIS_1	Macrophages
+Macrophages_IRIS_2	Macrophages
+Macrophages_IRIS_3	Macrophages
+Macrophages M1_BLUEPRINT_1	Macrophages
+Macrophages M1_BLUEPRINT_2	Macrophages
+Macrophages M1_BLUEPRINT_3	Macrophages
+Macrophages M1_FANTOM_1	Macrophages
+Macrophages M1_FANTOM_2	Macrophages
+Macrophages M1_FANTOM_3	Macrophages
+Macrophages M2_BLUEPRINT_1	Macrophages
+Macrophages M2_BLUEPRINT_3	Macrophages
+Macrophages M2_HPCA_1	Macrophages
+Macrophages M2_HPCA_2	Macrophages
+Macrophages M2_HPCA_3	Macrophages
+MA_DC_imm	DCs
+MA_DC_mat	DCs
+MA_DC_reg	DCs
+MA_DC_upLPS_10_24h	DCs
+MA_iTreg	MA_iTreg
+MA_iTreg_IL-2	MA_iTreg_IL-2
+Male reproductive gland	Ductal_cells
+Male reproductive system	Ductal_cells
+MA_M1_2_GMCSF_24h	MA_M1_2_GMCSF_24h
+MA_M_GMCSF_baseline_0h	MA_M_GMCSF_baseline_0h
+MA_M_GMCSF_baseline_12h	MA_M_GMCSF_baseline_12h
+MA_M_GMCSF_baseline_24h	MA_M_GMCSF_baseline_24h
+MA_M_GMCSF_baseline_48h	MA_M_GMCSF_baseline_48h
+MA_M_GMCSF_baseline_6h	MA_M_GMCSF_baseline_6h
+MA_M_GMCSF_baseline_72h	MA_M_GMCSF_baseline_72h
+MA_M_GMCSF_GC_72h	MA_M_GMCSF_GC_72h
+MA_M_GMCSF_HDL_6h	MA_M_GMCSF_HDL_6h
+MA_M_GMCSF_IFNb_72h	MA_M_GMCSF_IFNb_72h
+MA_M_GMCSF_IFNg_12h	MA_M_GMCSF_IFNg_12h
+MA_M_GMCSF_IFNg_1h	MA_M_GMCSF_IFNg_1h
+MA_M_GMCSF_IFNg_24h	MA_M_GMCSF_IFNg_24h
+MA_M_GMCSF_IFNg_2h	MA_M_GMCSF_IFNg_2h
+MA_M_GMCSF_IFNg_30min	MA_M_GMCSF_IFNg_30min
+MA_M_GMCSF_IFNg_4h	MA_M_GMCSF_IFNg_4h
+MA_M_GMCSF_IFNg_6h	MA_M_GMCSF_IFNg_6h
+MA_M_GMCSF_IFNg_72h	MA_M_GMCSF_IFNg_72h
+MA_M_GMCSF_IFNg_TNF_72h	MA_M_GMCSF_IFNg_TNF_72h
+MA_M_GMCSF_IL10_72h	MA_M_GMCSF_IL10_72h
+MA_M_GMCSF_IL13_72h	MA_M_GMCSF_IL13_72h
+MA_M_GMCSF_IL4_12h	MA_M_GMCSF_IL4_12h
+MA_M_GMCSF_IL4_1h	MA_M_GMCSF_IL4_1h
+MA_M_GMCSF_IL4_24h	MA_M_GMCSF_IL4_24h
+MA_M_GMCSF_IL4_2h	MA_M_GMCSF_IL4_2h
+MA_M_GMCSF_IL4_30min	MA_M_GMCSF_IL4_30min
+MA_M_GMCSF_IL4_4h	MA_M_GMCSF_IL4_4h
+MA_M_GMCSF_IL4_6h	MA_M_GMCSF_IL4_6h
+MA_M_GMCSF_IL4_72h	MA_M_GMCSF_IL4_72h
+MA_M_GMCSF_IL4_upLPS_72h	MA_M_GMCSF_IL4_upLPS_72h
+MA_M_GMCSF_LA_24h	MA_M_GMCSF_LA_24h
+MA_M_GMCSF_LiA_24h	MA_M_GMCSF_LiA_24h
+MA_M_GMCSF_OA_24h	MA_M_GMCSF_OA_24h
+MA_M_GMCSF_P3C_72h	MA_M_GMCSF_P3C_72h
+MA_M_GMCSF_P3C_PGE2_72h	MA_M_GMCSF_P3C_PGE2_72h
+MA_M_GMCSF_PA_24h	MA_M_GMCSF_PA_24h
+MA_M_GMCSF_PGE2_72h	MA_M_GMCSF_PGE2_72h
+MA_M_GMCSF_SA_24h	MA_M_GMCSF_SA_24h
+MA_M_GMCSF_sLPS_72h	MA_M_GMCSF_sLPS_72h
+MA_M_GMCSF_sLPS_IC_72h	MA_M_GMCSF_sLPS_IC_72h
+MA_M_GMCSF_sLPS_IFNg_72h	MA_M_GMCSF_sLPS_IFNg_72h
+MA_M_GMCSF_TNF_72h	MA_M_GMCSF_TNF_72h
+MA_M_GMCSF_TNF_P3C_72h	MA_M_GMCSF_TNF_P3C_72h
+MA_M_GMCSF_TNF_PGE2_72h	MA_M_GMCSF_TNF_PGE2_72h
+MA_M_GMCSF_TPP_12h	MA_M_GMCSF_TPP_12h
+MA_M_GMCSF_TPP_1h	MA_M_GMCSF_TPP_1h
+MA_M_GMCSF_TPP_24h	MA_M_GMCSF_TPP_24h
+MA_M_GMCSF_TPP_2h	MA_M_GMCSF_TPP_2h
+MA_M_GMCSF_TPP_30min	MA_M_GMCSF_TPP_30min
+MA_M_GMCSF_TPP_48h	MA_M_GMCSF_TPP_48h
+MA_M_GMCSF_TPP_4h	MA_M_GMCSF_TPP_4h
+MA_M_GMCSF_TPP_6h	MA_M_GMCSF_TPP_6h
+MA_M_GMCSF_TPP_72h	MA_M_GMCSF_TPP_72h
+MA_M_GMCSF_TPP_IFNb_72h	MA_M_GMCSF_TPP_IFNb_72h
+MA_M_GMCSF_TPP_IFNb_IFNg_72h	MA_M_GMCSF_TPP_IFNb_IFNg_72h
+MA_M_GMCSF_upLPS_72h	MA_M_GMCSF_upLPS_72h
+MA_M_GMCSF_upLPS_IC_72h	MA_M_GMCSF_upLPS_IC_72h
+Mammary epithelial cells	Epithelial_cells
+Mammary gland	Mammary gland
+MAMMARY GLAND	MAMMARY GLAND
+mammary_gland__lact	mammary_gland__lact
+mammary_gland_non-lactating	mammary_gland_non-lactating
+MA_M_MCSF_baseline_0h	MA_M_MCSF_baseline_0h
+MA_M_MCSF_IL4_72h	MA_M_MCSF_IL4_72h
+MA_M_MCSF_IL4_upLPS_72h	MA_M_MCSF_IL4_upLPS_72h
+MA_M_MCSF_OA_24h	MA_M_MCSF_OA_24h
+MA_M_MCSF_PA_24h	MA_M_MCSF_PA_24h
+MA_M_MCSF_SA_24h	MA_M_MCSF_SA_24h
+MA_M_MCSF_upLPS_72h	MA_M_MCSF_upLPS_72h
+MA_Monocyte_CD14+	Monocytes
+MA_NK_cells	NK_cells
+MANNO_MIDBRAIN_NEUROTYPES_BASAL	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HDA	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HDA1	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HDA2	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HENDO	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HGABA	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HMGL	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HNBGABA	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HNBM	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HNBML1	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HNBML5	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HNPROG	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HOMTN	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HOPC	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HPERIC	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HPROGBP	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HPROGFPL	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HPROGFPM	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HPROGM	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HRGL1	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HRGL2A	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HRGL2B	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HRGL2C	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HRGL3	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HRN	Neurons
+MANNO_MIDBRAIN_NEUROTYPES_HSERT	Neurons
+Marginal zone B cell	B_cells
+Marrow cell	Marrow cell
+Martinotti cell	Martinotti cell
+Mast cell	Mast cell
+mast_cells	T_cells
+Mast cells	Mast cells
+Mast cells_FANTOM_1	Mast cells_FANTOM_1
+Mast cells_FANTOM_2	Mast cells_FANTOM_2
+Mast cells_FANTOM_3	Mast cells_FANTOM_3
+mast_cells_IgE	T_cells
+mast_cells_IgE+antigen_1hr	T_cells
+mast_cells_IgE+antigen_6hr	T_cells
+MA_T_CD3+	MA_T_CD3+
+MA_Tconv	MA_Tconv
+MA_Tmemory	MA_Tmemory
+MA_Tnaive	MA_Tnaive
+MA_Treg	MA_Treg
+MA_Tresting	MA_Tresting
+Matrix fibroblast	Fibroblasts
+MA_Tstim	MA_Tstim
+Media_24h	Media_24h
+Media_6h	Media_6h
+Medulla oblongata	Medulla oblongata
+Medullary cell	Medullary cell
+mega_erythrocyte_progenitor	Progenitors
+Megakaryocyte	Megakaryocytes
+Megakaryocyte erythroid cell	Megakaryocytes
+Megakaryocyte-erythroid progenitor	Progenitors
+Megakaryocytes	Megakaryocytes
+Megakaryocytes_BLUEPRINT_1	Megakaryocytes
+Megakaryocytes_BLUEPRINT_2	Megakaryocytes
+Megakaryocytes_BLUEPRINT_3	Megakaryocytes
+Megakaryocytes_NOVERSHTERN_1	Megakaryocytes
+Megakaryocytes_NOVERSHTERN_2	Megakaryocytes
+Megakaryocytes_NOVERSHTERN_3	Megakaryocytes
+Meiotic prophase fetal germ cell	Meiotic prophase fetal germ cell
+MEL	MEL
+Melanocyte	Melanocyte
+MELANOCYTE	MELANOCYTE
+Melanocytes	Melanocytes
+Melanocytes_ENCODE_1	Melanocytes_ENCODE_1
+Melanocytes_ENCODE_2	Melanocytes_ENCODE_2
+Melanocytes_ENCODE_3	Melanocytes_ENCODE_3
+Melanocytes_FANTOM_1	Melanocytes_FANTOM_1
+Melanocytes_FANTOM_2	Melanocytes_FANTOM_2
+Melanocytes_FANTOM_3	Melanocytes_FANTOM_3
+Melanoma cell line	Melanoma cell line
+Memory B cell	B_cells
+Memory B-cells_BLUEPRINT_1	B_cells
+Memory B-cells_BLUEPRINT_2	B_cells
+Memory B-cells_BLUEPRINT_3	B_cells
+Memory B-cells_HPCA_1	B_cells
+Memory B-cells_HPCA_2	B_cells
+Memory B-cells_HPCA_3	B_cells
+Memory B-cells_IRIS_1	B_cells
+Memory B-cells_IRIS_2	B_cells
+Memory B-cells_IRIS_3	B_cells
+Meningeal cells	Meningeal cells
+Meniscus-derived progenitor cell	Progenitors
+Meniscus-derived stem cell	Stem_cells
+MENON_FETAL_KIDNEY_0_CAP_MESENCHYME_CELLS	MENON_FETAL_KIDNEY_0_CAP_MESENCHYME_CELLS
+MENON_FETAL_KIDNEY_10_IMMUNE_CELLS	MENON_FETAL_KIDNEY_10_IMMUNE_CELLS
+MENON_FETAL_KIDNEY_1_EMBRYONIC_RED_BLOOD_CELLS	MENON_FETAL_KIDNEY_1_EMBRYONIC_RED_BLOOD_CELLS
+MENON_FETAL_KIDNEY_2_NEPHRON_PROGENITOR_CELLS	Progenitors
+MENON_FETAL_KIDNEY_3_STROMAL_CELLS	MENON_FETAL_KIDNEY_3_STROMAL_CELLS
+MENON_FETAL_KIDNEY_4_PODOCYTES	MENON_FETAL_KIDNEY_4_PODOCYTES
+MENON_FETAL_KIDNEY_5_PROXIMAL_TUBULE_CELLS	MENON_FETAL_KIDNEY_5_PROXIMAL_TUBULE_CELLS
+MENON_FETAL_KIDNEY_6_COLLECTING_DUCT_CELLS	T_cells
+MENON_FETAL_KIDNEY_7_LOOPOF_HENLE_CELLS_DISTAL	MENON_FETAL_KIDNEY_7_LOOPOF_HENLE_CELLS_DISTAL
+MENON_FETAL_KIDNEY_8_CONNECTING_TUBULE_CELLS	MENON_FETAL_KIDNEY_8_CONNECTING_TUBULE_CELLS
+MENON_FETAL_KIDNEY_9_ENDOTHELIAL_CELLS	Endothelial_cells
+MEP_BLUEPRINT_1	MEP_BLUEPRINT_1
+MEP_BLUEPRINT_2	MEP_BLUEPRINT_2
+MEP_BLUEPRINT_3	MEP_BLUEPRINT_3
+MEP_HPCA_1	MEP_HPCA_1
+MEP_HPCA_2	MEP_HPCA_2
+MEP_HPCA_3	MEP_HPCA_3
+MEP_NOVERSHTERN_1	MEP_NOVERSHTERN_1
+MEP_NOVERSHTERN_2	MEP_NOVERSHTERN_2
+MEP_NOVERSHTERN_3	MEP_NOVERSHTERN_3
+Merkel cells	Merkel cells
+Mesangial cell	Mesangial cell
+Mesangial cells	Mesangial cells
+Mesangial cells_ENCODE_1	Mesangial cells_ENCODE_1
+Mesangial cells_ENCODE_2	Mesangial cells_ENCODE_2
+Mesangial cells_ENCODE_3	Mesangial cells_ENCODE_3
+Mesangial cells_FANTOM_1	Mesangial cells_FANTOM_1
+Mesangial cells_FANTOM_2	Mesangial cells_FANTOM_2
+Mesangial cells_FANTOM_3	Mesangial cells_FANTOM_3
+Mesangium	Mesangium
+Mesenchymal cell	Mesenchymal cell
+Mesenchymal cell (Ovarian Cancer)	Mesenchymal cell (Ovarian Cancer)
+Mesenchymal progenitor cell	Progenitors
+Mesenchymal stem cell	Stem_cells
+Mesenchymal stem cell (Glioblastoma)	Stem_cells
+Mesenchymal stromal cell	Mesenchymal stromal cell
+Mesoderm cell	Mesoderm cell
+Mesothelial cell	Mesothelial cell
+Mesothelial cells	Mesothelial cells
+Metencephalon	Metencephalon
+MF	MF
+Microfold cells	Microfold cells
+microglia	microglia
+Microglia	Microglia
+Microglial cell	Microglial cell
+Microglial cell (Glioma)	Microglial cell (Glioma)
+Midbrain	Midbrain
+MIDBRAIN	MIDBRAIN
+Migration phase fetal germ cell	Migration phase fetal germ cell
+mIMCD-3	mIMCD-3
+min6	min6
+Mitotic arrest phase fetal germ cell	Mitotic arrest phase fetal germ cell
+Mitotic fetal germ cell	Mitotic fetal germ cell
+MKI67+ progenitor cell	Progenitors
+Monocyte	Monocytes
+Monocyte derived dendritic cell	Monocytes
+Monocytes	Monocytes
+Monocytes_BLUEPRINT_1	Monocytes
+Monocytes_BLUEPRINT_2	Monocytes
+Monocytes_BLUEPRINT_3	Monocytes
+Monocytes_FANTOM_1	Monocytes
+Monocytes_FANTOM_2	Monocytes
+Monocytes_FANTOM_3	Monocytes
+Monocytes_HPCA_1	Monocytes
+Monocytes_HPCA_2	Monocytes
+Monocytes_HPCA_3	Monocytes
+Monocytes_IRIS_1	Monocytes
+Monocytes_IRIS_2	Monocytes
+Monocytes_IRIS_3	Monocytes
+Monocytes_NOVERSHTERN_1	Monocytes
+Monocytes_NOVERSHTERN_2	Monocytes
+Monocytes_NOVERSHTERN_3	Monocytes
+Monocytic leukemia cell	Monocytic leukemia cell
+Mononuclear cell	Mononuclear cell
+Mononuclear phagocyte	Mononuclear phagocyte
+MORULA	MORULA
+Morula cell (Blastomere)	Morula cell (Blastomere)
+MOTOR NEURON	Neurons
+Motor neurons	Neurons
+Mouth	Mouth
+MPP_BLUEPRINT_1	MPP_BLUEPRINT_1
+MPP_BLUEPRINT_2	MPP_BLUEPRINT_2
+MPP_BLUEPRINT_3	MPP_BLUEPRINT_3
+MPP_ENCODE_1	MPP_ENCODE_1
+MPP_ENCODE_2	MPP_ENCODE_2
+MPP_ENCODE_3	MPP_ENCODE_3
+MPP_FANTOM_1	MPP_FANTOM_1
+MPP_FANTOM_2	MPP_FANTOM_2
+MPP_FANTOM_3	MPP_FANTOM_3
+MPP_NOVERSHTERN_1	MPP_NOVERSHTERN_1
+MPP_NOVERSHTERN_2	MPP_NOVERSHTERN_2
+MPP_NOVERSHTERN_3	MPP_NOVERSHTERN_3
+MSC_FANTOM_1	MSC_FANTOM_1
+MSC_FANTOM_2	MSC_FANTOM_2
+MSC_FANTOM_3	MSC_FANTOM_3
+MSC_HPCA_1	MSC_HPCA_1
+MSC_HPCA_2	MSC_HPCA_2
+MSC_HPCA_3	MSC_HPCA_3
+Mucoepidermoid carcinoma cell	Mucoepidermoid carcinoma cell
+Mucosa	Mucosa
+Mucosal-associated invariant T cell (Hepatocellular Cancer)	T_cells
+Müller cells	Müller cells
+Multilymphoid progenitor cell	Progenitors
+Multiple pluripotent progenitor cell	Progenitors
+Multipotent mesenchymal stroma cell	Multipotent mesenchymal stroma cell
+Multipotent progenitor cell	Progenitors
+Mural cell	Mural cell
+MURARO_PANCREAS_ACINAR_CELL	MURARO_PANCREAS_ACINAR_CELL
+MURARO_PANCREAS_ALPHA_CELL	MURARO_PANCREAS_ALPHA_CELL
+MURARO_PANCREAS_BETA_CELL	MURARO_PANCREAS_BETA_CELL
+MURARO_PANCREAS_DELTA_CELL	MURARO_PANCREAS_DELTA_CELL
+MURARO_PANCREAS_DUCTAL_CELL	Ductal_cells
+MURARO_PANCREAS_ENDOTHELIAL_CELL	Endothelial_cells
+MURARO_PANCREAS_EPSILON_CELL	MURARO_PANCREAS_EPSILON_CELL
+MURARO_PANCREAS_MESENCHYMAL_STROMAL_CELL	MURARO_PANCREAS_MESENCHYMAL_STROMAL_CELL
+MURARO_PANCREAS_PANCREATIC_POLYPEPTIDE_CELL	MURARO_PANCREAS_PANCREATIC_POLYPEPTIDE_CELL
+Muscle	Muscle
+Muscle satellite cell	Muscle satellite cell
+Muscular system	Muscular system
+mv Endothelial cells_ENCODE_1	Endothelial_cells
+mv Endothelial cells_ENCODE_2	Endothelial_cells
+mv Endothelial cells_ENCODE_3	Endothelial_cells
+mv Endothelial cells_FANTOM_1	Endothelial_cells
+mv Endothelial cells_FANTOM_2	Endothelial_cells
+mv Endothelial cells_FANTOM_3	Endothelial_cells
+mv Endothelial cells_HPCA_1	Endothelial_cells
+mv Endothelial cells_HPCA_2	Endothelial_cells
+mv Endothelial cells_HPCA_3	Endothelial_cells
+Myelencephalon	Myelencephalon
+Myeloblast	Myeloblast
+Myeloid cell	Myeloid cell
+Myeloid conventional dendritic cell	DCs
+Myeloid dendritic cell	DCs
+Myeloid-derived suppressor cell	Myeloid-derived suppressor cell
+Myeloid-derived suppressor cells	Myeloid-derived suppressor cells
+Myeloid leukemia cell	Myeloid leukemia cell
+Myeloid progenitor cell	Progenitors
+Myeloma cell	Myeloma cell
+Myoblast	Myoblast
+MYOBLAST	MYOBLAST
+Myoblasts	Myoblasts
+Myocytes	Myocytes
+Myocytes_ENCODE_1	Myocytes
+Myocytes_ENCODE_2	Myocytes
+Myocytes_ENCODE_3	Myocytes
+Myocytes_FANTOM_1	Myocytes
+Myocytes_FANTOM_2	Myocytes
+Myocytes_FANTOM_3	Myocytes
+Myoepithelial cell	Epithelial_cells
+Myoepithelial cells	Epithelial_cells
+Myofibroblast	Fibroblasts
+MYOFIBROBLAST	Fibroblasts
+Myofibroblasts	Fibroblasts
+Myometrium	Myometrium
+naive B-cells_BLUEPRINT_1	B_cells
+naive B-cells_BLUEPRINT_2	B_cells
+naive B-cells_BLUEPRINT_3	B_cells
+naive B-cells_HPCA_1	B_cells
+naive B-cells_HPCA_2	B_cells
+naive B-cells_HPCA_3	B_cells
+naive B-cells_NOVERSHTERN_1	B_cells
+naive B-cells_NOVERSHTERN_2	B_cells
+naive B-cells_NOVERSHTERN_3	B_cells
+Naive CD4+ T cell	T_cells
+Naive CD8+ T cell	T_cells
+Naive T cell	T_cells
+Nasal mucosa	Nasal mucosa
+Nasal polyp	Nasal polyp
+Natural killer cell	Natural killer cell
+NATURAL KILLER CELLS	NATURAL KILLER CELLS
+Natural killer T cells	T_cells
+Natural killer T (NKT) cell	Natural killer T (NKT) cell
+Neck	Neck
+Neostriatum	Neostriatum
+Nephron	Nephron
+Nephron epithelial cell	Epithelial_cells
+Nerve	Nerve
+Neural arch	Neural arch
+Neural crest cell	Neural crest cell
+Neural progenitor cell	Progenitors
+Neural stem cell	Stem_cells
+Neural stem/precursor cells	Stem_cells
+Neural tube cell	Neural tube cell
+neuro2a	neuro2a
+Neuroblast	Neuroblast
+Neuroblastoma cell	Neuroblastoma cell
+Neuroblasts	Neuroblasts
+Neuroendocrine cell	Neuroendocrine cell
+Neuroendocrine cells	Neuroendocrine cells
+Neuroepithelioma cell	Neuroepithelioma cell
+Neuron	Neurons
+NEURONAL EPITHELIUM	Epithelial_cells
+NEURONAL PROGENITOR CELLS	Progenitors
+Neurons	Neurons
+Neurons_ENCODE_1	Neurons
+Neurons_ENCODE_2	Neurons
+Neurons_ENCODE_3	Neurons
+Neurons_FANTOM_1	Neurons
+Neurons_FANTOM_2	Neurons
+Neurons_FANTOM_3	Neurons
+Neutrophil	Neutrophils
+NEUTROPHIL	Neutrophils
+Neutrophil (Renal Cell Carcinoma)	Neutrophils
+Neutrophils	Neutrophils
+Neutrophils_BLUEPRINT_1	Neutrophils
+Neutrophils_BLUEPRINT_2	Neutrophils
+Neutrophils_BLUEPRINT_3	Neutrophils
+Neutrophils_FANTOM_1	Neutrophils
+Neutrophils_FANTOM_2	Neutrophils
+Neutrophils_FANTOM_3	Neutrophils
+Neutrophils_HPCA_3	Neutrophils
+Neutrophils_IRIS_2	Neutrophils
+Neutrophils_IRIS_3	Neutrophils
+nih_3T3	nih_3T3
+NK_cell	NK_cell
+NK cells	NK cells
+NK_cells	NK_cells
+NK cells_BLUEPRINT_1	NK cells_BLUEPRINT_1
+NK cells_BLUEPRINT_2	NK cells_BLUEPRINT_2
+NK cells_BLUEPRINT_3	NK cells_BLUEPRINT_3
+NK cells_FANTOM_1	NK cells_FANTOM_1
+NK cells_FANTOM_2	NK cells_FANTOM_2
+NK cells_FANTOM_3	NK cells_FANTOM_3
+NK cells_HPCA_1	NK cells_HPCA_1
+NK cells_HPCA_2	NK cells_HPCA_2
+NK cells_HPCA_3	NK cells_HPCA_3
+NK cells_IRIS_1	NK cells_IRIS_1
+NK cells_IRIS_2	NK cells_IRIS_2
+NK cells_IRIS_3	NK cells_IRIS_3
+NK cells_NOVERSHTERN_1	NK cells_NOVERSHTERN_1
+NK cells_NOVERSHTERN_2	NK cells_NOVERSHTERN_2
+NK cells_NOVERSHTERN_3	NK cells_NOVERSHTERN_3
+NK_T-cell	T_cells
+NKT_NOVERSHTERN_1	NKT_NOVERSHTERN_1
+NKT_NOVERSHTERN_2	NKT_NOVERSHTERN_2
+NKT_NOVERSHTERN_3	NKT_NOVERSHTERN_3
+NLA	NLA
+NOD2L_24	NOD2L_24
+NOD2L_6	NOD2L_6
+NonclassicalMonocyte_CD14plusCD16plus	Monocytes
+non-small cell lung cancer cell	non-small cell lung cancer cell
+Noradrenergic neurons	Neurons
+Nose	Nose
+NS	NS
+NT_24	NT_24
+NT_6	NT_6
+NT_M0	NT_M0
+NT_M24	NT_M24
+NT_M6	NT_M6
+nucleus_accumbens	nucleus_accumbens
+Nucleus pulposus cell	Nucleus pulposus cell
+Null cell	Null cell
+Nuocytes	Nuocytes
+O cell	O cell
+olfactory_bulb	olfactory_bulb
+Olfactory bulb	Olfactory bulb
+Olfactory ensheathing glia	Olfactory ensheathing glia
+Olfactory epithelial cells	Epithelial_cells
+Olfactory lobe	Olfactory lobe
+Olfactory sensory neuron	Neurons
+Oligodendrocyte	Oligodendrocyte
+OLIGODENDROCYTE	OLIGODENDROCYTE
+Oligodendrocyte precursor cell	Oligodendrocyte precursor cell
+Oligodendrocyte progenitor cell	Progenitors
+Oligodendrocyte progenitor cells	Progenitors
+Oligodendrocytes	Oligodendrocytes
+OMENTUM	OMENTUM
+Oocyte	Oocyte
+OOCYTE	OOCYTE
+Oogenesis phase fetal germ cell	Oogenesis phase fetal germ cell
+Organism form	Organism form
+Osteoblast	Osteoblasts
+OSTEOBLAST	Osteoblasts
+osteoblast_day14	Osteoblasts
+osteoblast_day21	Osteoblasts
+osteoblast_day5	Osteoblasts
+Osteoblast_FANTOM_1	Osteoblasts
+Osteoblast_FANTOM_2	Osteoblasts
+Osteoblast_FANTOM_3	Osteoblasts
+Osteoblast_HPCA_1	Osteoblasts
+Osteoblast_HPCA_2	Osteoblasts
+Osteoblast_HPCA_3	Osteoblasts
+Osteoblasts	Osteoblasts
+Osteoclast	Osteoclasts
+Osteoclastoma cell	Osteoclasts
+Osteoclast precursor cell	Osteoclasts
+Osteoclast precursor cells	Osteoclasts
+osteoclasts	Osteoclasts
+Osteoclasts	Osteoclasts
+Osteocyte	Osteocyte
+Osteogenic cell	Osteogenic cell
+Osteosarcoma cell	Osteosarcoma cell
+ovary	ovary
+Ovary	Ovary
+OVARY (BULK TISSUE)	OVARY (BULK TISSUE)
+Ovary cancer cell	Ovary cancer cell
+Oviduct-derived stem cell	Ductal_cells
+pancreas	pancreas
+Pancreas	Pancreas
+Pancreatic cancer cell	Pancreatic cancer cell
+Pancreatic cancer cell line	Pancreatic cancer cell line
+Pancreatic cell line	Pancreatic cell line
+Pancreatic endoderm cell	Pancreatic endoderm cell
+Pancreatic islet	Pancreatic islet
+PANCREATIC ISLET	PANCREATIC ISLET
+Pancreatic polypeptide cell	Pancreatic polypeptide cell
+Pancreatic progenitor cells	Progenitors
+Pancreatic stellate cells	Pancreatic stellate cells
+Paneth cell	Paneth cell
+Paneth cells	Paneth cells
+Parathyroid chief cells	Parathyroid chief cells
+Parathyroid gland	Parathyroid gland
+Parietal cells	Parietal cells
+pDC_FANTOM_1	pDC
+pDC_FANTOM_2	pDC
+pDC_FANTOM_3	pDC
+pDC_NOVERSHTERN_1	pDC
+pDC_NOVERSHTERN_2	pDC
+pDC_NOVERSHTERN_3	pDC
+Pdgfrapha+ cell	Pdgfrapha+ cell
+Penis	Penis
+Pericardium	Pericardium
+PERICARDIUM	PERICARDIUM
+Pericyte	Pericytes
+Pericytes	Pericytes
+Pericytes_ENCODE_1	Pericytes
+Pericytes_ENCODE_2	Pericytes
+Pericytes_ENCODE_3	Pericytes
+Pericytes_FANTOM_1	Pericytes
+Pericytes_FANTOM_2	Pericytes
+Peri-islet Schwann cells	Peri-islet Schwann cells
+Periosteum	Periosteum
+Peripheral blood	Peripheral blood
+PERIPHERAL BLOOD	PERIPHERAL BLOOD
+Peripheral blood lymphocyte	Peripheral blood lymphocyte
+Peripheral blood mononuclear cell	Peripheral blood mononuclear cell
+Peripheral ganglion	Peripheral ganglion
+Peripheral nervous system	Peripheral nervous system
+Peritubular myoid cells	Peritubular myoid cells
+Phagocyte	Phagocyte
+Pheochromocytoma cell line	Pheochromocytoma cell line
+Photoreceptor cells	Photoreceptor cells
+Pinealocytes	Pinealocytes
+Pit cell	Pit cell
+Pit progenitor cell	Progenitors
+pituitary	pituitary
+Pituitary gland tumor cell	Pituitary gland tumor cell
+placenta	placenta
+Placenta	Placenta
+PLACENTA (BULK)	PLACENTA (BULK)
+Plasma cell	Plasma_cells
+PLASMA CELL	Plasma_cells
+Plasma cell (Renal Cell Carcinoma)	Plasma_cells
+Plasma cells	Plasma_cells
+Plasma cells_BLUEPRINT_1	Plasma_cells
+Plasma cells_BLUEPRINT_2	Plasma_cells
+Plasma cells_BLUEPRINT_3	Plasma_cells
+Plasma cells_HPCA_1	Plasma_cells
+Plasma cells_HPCA_2	Plasma_cells
+Plasma cells_HPCA_3	Plasma_cells
+Plasma cells_IRIS_2	Plasma_cells
+Plasma cells_IRIS_3	Plasma_cells
+Plasmacytoid dendritic cell	DCs
+PLASMACYTOID DENDRITIC CELL	DCs
+Plasmacytoid dendritic cells	DCs
+Platelet	Platelet
+Platelets	Platelets
+Platelets_HPCA_1	Platelets_HPCA_1
+Platelets_HPCA_2	Platelets_HPCA_2
+Platelets_HPCA_3	Platelets_HPCA_3
+Pluripotent stem cell	Stem_cells
+Podocyte	Podocyte
+PODOCYTE	PODOCYTE
+Podocytes	Podocytes
+PREADIPOCYTE	Adipocytes
+Preadipocytes_ENCODE_1	Adipocytes
+Preadipocytes_ENCODE_2	Adipocytes
+Preadipocytes_ENCODE_3	Adipocytes
+Preadipocytes_FANTOM_1	Adipocytes
+Preadipocytes_FANTOM_2	Adipocytes
+Preadipocytes_FANTOM_3	Adipocytes
+pre-B-lymphocyte	pre-B-lymphocyte
+PREFRONTAL CORTEX	PREFRONTAL CORTEX
+Pre-haematopoietic stem cell	Stem_cells
+Prepuce	Prepuce
+pre-T-lymphocyte	pre-T-lymphocyte
+Primitive endoderm cell	Primitive endoderm cell
+Primordial germ cell	Primordial germ cell
+Primordium	Primordium
+Principal cells	Principal cells
+pro B-cells_HPCA_1	B_cells
+pro B-cells_HPCA_2	B_cells
+pro B-cells_HPCA_3	B_cells
+pro B-cells_NOVERSHTERN_1	B_cells
+pro B-cells_NOVERSHTERN_2	B_cells
+pro B-cells_NOVERSHTERN_3	B_cells
+pro-B-lymphocyte	pro-B-lymphocyte
+PROCR+ progenitor cell	Progenitors
+Progenitor cell	Progenitors
+PROM1Low progenitor cell	Progenitors
+Pronephros	Pronephros
+prostate	prostate
+Prostate adenocarcinoma cell	Prostate adenocarcinoma cell
+Prostate cancer cell line	Prostate cancer cell line
+Prostate gland	Prostate gland
+Prostate gland cell line	Prostate gland cell line
+Prostate gland epithelium	Epithelial_cells
+Proximal tubule cell	Proximal tubule cell
+Proximal tubule cells	Proximal tubule cells
+PS	PS
+Pulmonary alveolar type I cells	Pulmonary alveolar type I cells
+Pulmonary alveolar type II cells	Pulmonary alveolar type II cells
+Pulmonary artery	Pulmonary artery
+Purkinje cell	Purkinje cell
+Purkinje neurons	Neurons
+Pyramidal cell	Pyramidal cell
+Pyramidal cells	Pyramidal cells
+Quiescent neural stem cell	Stem_cells
+Radial glia cells	Radial glia cells
+Radial glial cell	Radial glial cell
+RAW_264_7	RAW_264_7
+Rectal cancer cell	Rectal cancer cell
+Rectum	Rectum
+Red blood cell (erythrocyte)	Erythrocytes
+Red pulp macrophages	Macrophages
+Regulatory_T-cell	T_cells
+REGULATORY T CELLS	T_cells
+Regulatory T (Treg) cell	Regulatory T (Treg) cell
+Regulatory T (Treg) cell (Hepatocellular Cancer)	Regulatory T (Treg) cell (Hepatocellular Cancer)
+Renal cell carcinoma cell	Renal cell carcinoma cell
+Renal corpuscle	Renal corpuscle
+Renal cortex	Renal cortex
+RENAL CORTEX	RENAL CORTEX
+Renal epithelium	Epithelial_cells
+Renal glomerulus	Renal glomerulus
+Renal proximal tubule	Renal proximal tubule
+Renal tubule	Renal tubule
+Respiratory epithelium	Epithelial_cells
+Respiratory mucosa	Respiratory mucosa
+RESPIRATORY SMOOTH MUSCLE	RESPIRATORY SMOOTH MUSCLE
+Respiratory system	Respiratory system
+Reticulocyte	Reticulocyte
+Reticulocytes	Reticulocytes
+retina	retina
+Retina	Retina
+RETINA	RETINA
+Retinal ganglion cell	Retinal ganglion cell
+Retinal ganglion cells	Retinal ganglion cells
+retinal_pigment_epithelium	Epithelial_cells
+Retinal pigment epithelium	Epithelial_cells
+Retinal progenitor cells	Progenitors
+Retinoblastoma cell	Retinoblastoma cell
+Retinoid acid signaling-responsive fetal germ cell	Retinoid acid signaling-responsive fetal germ cell
+Rhabdomyosarcoma cell	Rhabdomyosarcoma cell
+Rheaume et al.Nat Commun.11	Rheaume et al.Nat Commun.11
+Rheaume et al.Nat Commun.16	Rheaume et al.Nat Commun.16
+Rheaume et al.Nat Commun.18	Rheaume et al.Nat Commun.18
+Rheaume et al.Nat Commun.19	Rheaume et al.Nat Commun.19
+Rheaume et al.Nat Commun.21	Rheaume et al.Nat Commun.21
+Rheaume et al.Nat Commun.22	Rheaume et al.Nat Commun.22
+Rheaume et al.Nat Commun.23	Rheaume et al.Nat Commun.23
+Rheaume et al.Nat Commun.25	Rheaume et al.Nat Commun.25
+Rheaume et al.Nat Commun.27	Rheaume et al.Nat Commun.27
+Rheaume et al.Nat Commun.29	Rheaume et al.Nat Commun.29
+Rheaume et al.Nat Commun.3	Rheaume et al.Nat Commun.3
+Rheaume et al.Nat Commun.30	Rheaume et al.Nat Commun.30
+Rheaume et al.Nat Commun.31	Rheaume et al.Nat Commun.31
+Rheaume et al.Nat Commun.32	Rheaume et al.Nat Commun.32
+Rheaume et al.Nat Commun.33	Rheaume et al.Nat Commun.33
+Rheaume et al.Nat Commun.34	Rheaume et al.Nat Commun.34
+Rheaume et al.Nat Commun.35	Rheaume et al.Nat Commun.35
+Rheaume et al.Nat Commun.36	Rheaume et al.Nat Commun.36
+Rheaume et al.Nat Commun.37	Rheaume et al.Nat Commun.37
+Rheaume et al.Nat Commun.39	Rheaume et al.Nat Commun.39
+Rheaume et al.Nat Commun.4	Rheaume et al.Nat Commun.4
+Rheaume et al.Nat Commun.40	Rheaume et al.Nat Commun.40
+Rheaume et al.Nat Commun.5	Rheaume et al.Nat Commun.5
+Rheaume et al.Nat Commun.6	Rheaume et al.Nat Commun.6
+Rheaume et al.Nat Commun.7	Rheaume et al.Nat Commun.7
+Rheaume et al.Nat Commun.8	Rheaume et al.Nat Commun.8
+RR	RR
+RR2	RR2
+Saliva	Saliva
+salivary_gland	salivary_gland
+Salivary gland	Salivary gland
+Salivary mucous cells	Salivary mucous cells
+SAR	SAR
+Sarcoma cell	Sarcoma cell
+Satellite cells	Satellite cells
+Satellite glial cells	Satellite glial cells
+Scalp	Scalp
+SCC	SCC
+Schwalie et al.Nature.G1	Schwalie et al.Nature.G1
+Schwalie et al.Nature.G2	Schwalie et al.Nature.G2
+Schwalie et al.Nature.G3	Schwalie et al.Nature.G3
+Schwalie et al.Nature.G4	Schwalie et al.Nature.G4
+Schwalie et al.Nature.P1	Schwalie et al.Nature.P1
+Schwalie et al.Nature.P2	Schwalie et al.Nature.P2
+Schwalie et al.Nature.P3	Schwalie et al.Nature.P3
+Schwann cells	Schwann cells
+Sebocytes	Sebocytes
+Sebocytes_FANTOM_1	Sebocytes_FANTOM_1
+Sebocytes_FANTOM_2	Sebocytes_FANTOM_2
+Sebocytes_FANTOM_3	Sebocytes_FANTOM_3
+Secretory cell	Secretory cell
+Secretory progenitor cell	Progenitors
+Semen	Semen
+Seminoma cell	Seminoma cell
+Sense organ	Sense organ
+SENSORY NEURON	Neurons
+Serotonergic neurons	Neurons
+Sertoli cell	Sertoli cell
+Sertoli cells	Sertoli cells
+SJS	SJS
+skeletal_muscle	skeletal_muscle
+Skeletal muscle	Skeletal muscle
+SKELETAL MUSCLE (BULK TISSUE)	SKELETAL MUSCLE (BULK TISSUE)
+Skeletal muscle cancer cell	Skeletal muscle cancer cell
+Skeletal muscle_ENCODE_2	Skeletal muscle_ENCODE_2
+Skeletal muscle_ENCODE_3	Skeletal muscle_ENCODE_3
+Skeletal muscle_FANTOM_1	Skeletal muscle_FANTOM_1
+Skeletal muscle_FANTOM_2	Skeletal muscle_FANTOM_2
+Skeletal muscle_FANTOM_3	Skeletal muscle_FANTOM_3
+SKELETAL MUSCLE SATELLITE CELL	SKELETAL MUSCLE SATELLITE CELL
+Skeletal system	Skeletal system
+Skin	Skin
+SKIN (BULK TISSUE)	SKIN (BULK TISSUE)
+Skin fibroblast	Fibroblasts
+Skin fibroblast cell line	Fibroblasts
+SLC16A7+ cell	SLC16A7+ cell
+Small intestine	Small intestine
+SMALL INTESTINE (BULK TISSUE)	SMALL INTESTINE (BULK TISSUE)
+Smooth muscle	Smooth muscle
+Smooth muscle cell	Smooth muscle cell
+Smooth muscle cells	Smooth muscle cells
+Smooth muscle_ENCODE_1	Smooth muscle_ENCODE_1
+Smooth muscle_ENCODE_2	Smooth muscle_ENCODE_2
+Smooth muscle_ENCODE_3	Smooth muscle_ENCODE_3
+Smooth muscle_FANTOM_1	Smooth muscle_FANTOM_1
+Smooth muscle_FANTOM_2	Smooth muscle_FANTOM_2
+Smooth muscle_FANTOM_3	Smooth muscle_FANTOM_3
+Smooth muscle_HPCA_1	Smooth muscle_HPCA_1
+Smooth muscle_HPCA_2	Smooth muscle_HPCA_2
+Smooth muscle_HPCA_3	Smooth muscle_HPCA_3
+Specialist antigen presenting cell	Specialist antigen presenting cell
+SPERM	SPERM
+Spermatocytes	Spermatocytes
+Spermatogonial stem cell	Stem_cells
+Spermatogonium	Spermatogonium
+Spermatozoa	Spermatozoa
+Spermatozoon	Spermatozoon
+Spinal column	Spinal column
+spinal_cord	spinal_cord
+Spinal cord	Spinal cord
+SPINAL CORD	SPINAL CORD
+SPINAL CORD (BULK)	SPINAL CORD (BULK)
+Spinal ganglion	Spinal ganglion
+spleen	spleen
+Spleen	Spleen
+SPLEEN (BULK TISSUE)	SPLEEN (BULK TISSUE)
+Squamous cell carcinoma cell	Squamous cell carcinoma cell
+Stage II neutrophil	Neutrophils
+Stage I neutrophil	Neutrophils
+Stem cell	Stem_cells
+stem_cells__HSC	Stem_cells
+stomach	stomach
+Stomach	Stomach
+Stratum spinosum	Stratum spinosum
+Stromal cell	Stromal cell
+STROMAL CELL	STROMAL CELL
+Stromal cells	Stromal cells
+Subarachnoid space	Subarachnoid space
+Subcutan_adipose	Subcutan_adipose
+SUBCUTANEOUS ADIPOSE TISSUE	SUBCUTANEOUS ADIPOSE TISSUE
+Submandibular gland	Submandibular gland
+Substantia nigra	Substantia nigra
+Subthalamic nucleus	Subthalamic nucleus
+SUPERIOR FRONTAL GYRUS	SUPERIOR FRONTAL GYRUS
+Sympathetic chain	Sympathetic chain
+Sympathetic ganglion	Sympathetic ganglion
+Sympathetic nervous system	Sympathetic nervous system
+Synovial cell	Synovial cell
+Synovial sarcoma cell	Synovial sarcoma cell
+Synovial tissue	Synovial tissue
+Synovium	Synovium
+T0	T0
+Tanycytes	Tanycytes
+T cell	T_cells
+T cell (AIDS-related Non-hodgkin's Lymphoma)	T_cells
+T cell (B cell type MALT lymphoma)	T_cells
+T-cell chronic lymphocytic leukemia cell	T_cells
+T cell (Follicular Lymphoma)	T_cells
+T-cell lymphoma cell	T_cells
+T cell (Melanoma)	T_cells
+T cells	T_cells
+T-cells_CD4+	T_cells
+T-cells_CD8+	T_cells
+T-cells_foxP3+	T_cells
+T cytotoxic cells	T cytotoxic cells
+Tear	Tear
+Telencephalon	Telencephalon
+Temporal lobe	Temporal lobe
+Tendon	Tendon
+Tendon sheath	Tendon sheath
+Teratocarcinoma cell	Teratocarcinoma cell
+Testicular cancer cell	Testicular cancer cell
+Testicular cell line	Testicular cell line
+testis	testis
+Testis	Testis
+TESTIS (BULK TISSUE)	TESTIS (BULK TISSUE)
+T follicular helper cells	T follicular helper cells
+Tgd cells_HPCA_1	Tgd
+Tgd cells_HPCA_2	Tgd
+Tgd cells_HPCA_3	Tgd
+Th17	Th17
+Th1 cells_IRIS_1	Th1 cells_IRIS_1
+Th1 cells_IRIS_2	Th1 cells_IRIS_2
+Th1 cells_IRIS_3	Th1 cells_IRIS_3
+Th1_Harvard	Th1_Harvard
+Th1_rankRelative	Th1_rankRelative
+Th2 cells_IRIS_2	Th2 cells_IRIS_2
+Th2 cells_IRIS_3	Th2 cells_IRIS_3
+Th2_Harvard	Th2_Harvard
+Th2_rankRelative	Th2_rankRelative
+Thalamus	Thalamus
+T helper17 (Th17) cell	T helper17 (Th17) cell
+T helper1 (Th1) cell	T helper1 (Th1) cell
+T helper2 (Th2) cell	T helper2 (Th2) cell
+T helper9 (Th9) cell	T helper9 (Th9) cell
+T helper cell	T helper cell
+T helper cells	T helper cells
+Thorax	Thorax
+Throat	Throat
+Thymocyte	Thymocyte
+thymocyte_DP_CD4+CD8+	thymocyte_DP_CD4+CD8+
+Thymocytes	Thymocytes
+thymocyte_SP_CD4+	thymocyte_SP_CD4+
+thymocyte_SP_CD8+	thymocyte_SP_CD8+
+Thymus	Thymus
+THYMUS (BULK TISSUE)	THYMUS (BULK TISSUE)
+THYROID (BULK TISSUE)	THYROID (BULK TISSUE)
+Thyroid cancer cell	Thyroid cancer cell
+Thyroid gland	Thyroid gland
+TI_M_2	TI_M_2
+TI_M_24	TI_M_24
+TI_M_6	TI_M_6
+TL2	TL2
+TLP	TLP
+TLR_2	TLR_2
+TLR2_24	TLR2_24
+TLR_24	TLR_24
+TLR2_6	TLR2_6
+TLR_6	TLR_6
+T-lymphocyte	T-lymphocyte
+TLYMPHOCYTE	TLYMPHOCYTE
+T memory cells	T memory cells
+TNF_20ng_4h_HaCaT_43	TNF_20ng_4h_HaCaT_43
+Tongue	Tongue
+Tonsil	Tonsil
+Tooth	Tooth
+Trachea	Trachea
+TRACHEA (BULK TISSUE)	TRACHEA (BULK TISSUE)
+Tracheobronchial epithelium	Epithelial_cells
+Transient cells	Transient cells
+Transit amplifying (TA) cell	Transit amplifying (TA) cell
+Tregs_BLUEPRINT_1	Tregs_BLUEPRINT_1
+Tregs_BLUEPRINT_2	Tregs_BLUEPRINT_2
+Tregs_BLUEPRINT_3	Tregs_BLUEPRINT_3
+Tregs_FANTOM_1	Tregs_FANTOM_1
+Tregs_FANTOM_2	Tregs_FANTOM_2
+Tregs_FANTOM_3	Tregs_FANTOM_3
+Tregs_HPCA_1	Tregs_HPCA_1
+Tregs_HPCA_2	Tregs_HPCA_2
+Tregs_HPCA_3	Tregs_HPCA_3
+T regulatory cells	T regulatory cells
+Trichocytes	Trichocytes
+Trigeminal neurons	Neurons
+Trophectoderm cell	Trophectoderm cell
+Trophoblast cells	Trophoblast cells
+Trunk	Trunk
+Tuft cells	Tuft cells
+Tuft progenitor cell	Progenitors
+Type IA spiral ganglion neuron	Neurons
+Type IB spiral ganglion neuron	Neurons
+Type IC spiral ganglion neuron	Neurons
+Type III taste bud cell	Type III taste bud cell
+Type II pneumocyte	Type II pneumocyte
+Type II spiral ganglion neuron	Neurons
+Type I pneumocyte	Type I pneumocyte
+Type I spiral ganglion neuron	Neurons
+umbilical_cord	umbilical_cord
+Umbilical cord	Umbilical cord
+Umbilical cord blood	Umbilical cord blood
+Umbilical vein	Umbilical vein
+Umbilical vein endothelial cell	Endothelial_cells
+Umbilical vein endothelium	Endothelial_cells
+Undefined placental cells	Undefined placental cells
+Urinary bladder	Urinary bladder
+Urinary bladder cancer cell	Urinary bladder cancer cell
+Urinary system	Urinary system
+Urinary tract	Urinary tract
+Urine	Urine
+Urine-derived stem cell	Stem_cells
+Urothelial cells	Urothelial cells
+Uterine adenocarcinoma cell	Uterine adenocarcinoma cell
+Uterine cancer cell	Uterine cancer cell
+Uterine cervix	Uterine cervix
+Uterine endometrial cancer cell	Uterine endometrial cancer cell
+Uterine endometrium	Uterine endometrium
+uterus	uterus
+Uterus	Uterus
+VALVE	VALVE
+Vasc_endothel_cell	Vasc_endothel_cell
+Vascular endothelial cell	Endothelial_cells
+Vascular endothelium	Endothelial_cells
+Vascular smooth muscle	Vascular smooth muscle
+VASCULAR SMOOTH MUSCLE	VASCULAR SMOOTH MUSCLE
+Vascular system	Vascular system
+VD_125D	VD_125D
+VD_ATRA	VD_ATRA
+Vein	Vein
+Venous cell	Venous cell
+Ventral otocyst	Ventral otocyst
+VENTRICLE	VENTRICLE
+Ventricular cardiomyocyte	Myocytes
+Vertebrate muscular system	Vertebrate muscular system
+Vestibular labyrinth	Vestibular labyrinth
+Vestibular system	Vestibular system
+WA	WA
+WHARTONS JELLY	WHARTONS JELLY
+White adipose tissue	White adipose tissue
+Wnt2+ cell	Wnt2+ cell
+WPO	WPO
+ZHENG_CORD_BLOOD_C10_MULTILYMPHOID_PROGENITOR	Progenitors
+ZHENG_CORD_BLOOD_C1_PUTATIVE_MEGAKARYOCYTE_PROGENITOR	Progenitors
+ZHENG_CORD_BLOOD_C2_PUTATIVE_BASOPHIL_EOSINOPHIL_MAST_CELL_PROGENITOR	T_cells
+ZHENG_CORD_BLOOD_C3_MEGAKARYOCYTE_ERYTHROID_PROGENITOR	Progenitors
+ZHENG_CORD_BLOOD_C4_PUTATIVE_EARLY_ERYTHROID_COMMITMENT	ZHENG_CORD_BLOOD_C4_PUTATIVE_EARLY_ERYTHROID_COMMITMENT
+ZHENG_CORD_BLOOD_C5_SIMILAR_TO_HSC_C6_PUTATIVE_ALTERED_METABOLIC_STATE	ZHENG_CORD_BLOOD_C5_SIMILAR_TO_HSC_C6_PUTATIVE_ALTERED_METABOLIC_STATE
+ZHENG_CORD_BLOOD_C6_HSC_MULTIPOTENT_PROGENITOR	Progenitors
+ZHENG_CORD_BLOOD_C7_PUTATIVE_LYMPHOID_PRIMED_MULTIPOTENT_PROGENITOR_1	Progenitors
+ZHENG_CORD_BLOOD_C8_PUTATIVE_LYMPHOID_PRIMED_MULTIPOTENT_PROGENITOR_2	Progenitors
+ZHENG_CORD_BLOOD_C9_GRANULOCYTE_MACROPHAGE_PROGENITOR	Macrophages
+ZHONG_PFC_C1_ASTROCYTE	Astrocytes
+ZHONG_PFC_C1_DLX5_POS_INTERNEURON	Neurons
+ZHONG_PFC_C1_MICROGLIA	ZHONG_PFC_C1_MICROGLIA
+ZHONG_PFC_C1_NEUROD1_POS_EXCITATORY_NEURON	Neurons
+ZHONG_PFC_C1_OPC	ZHONG_PFC_C1_OPC
+ZHONG_PFC_C2_ASCL1_POS_ASTROCYTE	Astrocytes
+ZHONG_PFC_C2_SOX5_BCL11B_POS_EXCITATORY_NEURON	Neurons
+ZHONG_PFC_C2_THY1_POS_OPC	ZHONG_PFC_C2_THY1_POS_OPC
+ZHONG_PFC_C2_UNKNOWN_NPC	ZHONG_PFC_C2_UNKNOWN_NPC
+ZHONG_PFC_C3_ASTROCYTE	Astrocytes
+ZHONG_PFC_C3_HOPX_POS_OPC	ZHONG_PFC_C3_HOPX_POS_OPC
+ZHONG_PFC_C3_MICROGLIA	ZHONG_PFC_C3_MICROGLIA
+ZHONG_PFC_C3_PROX1_CCK_POS_INTERNEURON	Neurons
+ZHONG_PFC_C3_UNKNOWN_INP	ZHONG_PFC_C3_UNKNOWN_INP
+ZHONG_PFC_C4_PTGDS_POS_OPC	Tgd
+ZHONG_PFC_C4_UNKNOWN_INP	ZHONG_PFC_C4_UNKNOWN_INP
+ZHONG_PFC_C5_BCL11B_CALB2_POS_INP	ZHONG_PFC_C5_BCL11B_CALB2_POS_INP
+ZHONG_PFC_C6_DLX5_GAD1_GAD2_POS_INTERNEURON	Neurons
+ZHONG_PFC_C7_ORG_UNDERGOING_NEURONAL_DIFFERENTIATION	Neurons
+ZHONG_PFC_C7_SST_LHX6_POS_PUTATIVE_MIGRATING_INTERNEURON	Neurons
+ZHONG_PFC_C8_ORG_PROLIFERATING	ZHONG_PFC_C8_ORG_PROLIFERATING
+ZHONG_PFC_C8_UNKNOWN_NEUROD2_POS_INTERNEURON	Neurons
+ZHONG_PFC_C9_ORG_OTHER	ZHONG_PFC_C9_ORG_OTHER
+ZHONG_PFC_MAJOR_TYPES_ASTROCYTES	Astrocytes
+ZHONG_PFC_MAJOR_TYPES_EXCITATORY_NEURON	Neurons
+ZHONG_PFC_MAJOR_TYPES_INTERNEURON	Neurons
+ZHONG_PFC_MAJOR_TYPES_MICROGLIA	ZHONG_PFC_MAJOR_TYPES_MICROGLIA
+ZHONG_PFC_MAJOR_TYPES_NPCS	ZHONG_PFC_MAJOR_TYPES_NPCS
+ZHONG_PFC_MAJOR_TYPES_OPC	ZHONG_PFC_MAJOR_TYPES_OPC

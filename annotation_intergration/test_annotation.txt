@@ -1,0 +1,19 @@
+cluster	SingleR	scCATCH	clustermole
+0	B_cell	MKI67+ progenitor cell	Th2 cells_IRIS_2|ZHONG_PFC_C3_UNKNOWN_INP|B-cells_FANTOM_2|FAN_EMBRYONIC_CTX_MICROGLIA_1|GAO_LARGE_INTESTINE_ADULT_CH_MKI67HIGH_CELLS
+1	T_cell	Paneth cell	Natural killer T (NKT) cell|CD8+ T cell|Natural killer cell|Exhausted T cell|T cell (AIDS-related Non-hodgkin's Lymphoma)
+2	B_cell	Paneth cell	B-cells_HPCA_2|B-cells_FANTOM_1|B-cells_FANTOM_2|DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_B_CELLS|naive B-cells_BLUEPRINT_2
+3	RSPO3_fibroblast	DCLK1+ progenitor cell	GAO_SMALL_INTESTINE_24W_C2_PROCRPOS_PROGENITOR|PROCR+ progenitor cell|Kidney progenitor cells|CUI_DEVELOPING_HEART_SMOOTH_MUSCLE_CELL|Liver stem cell (Hepatocellular Carcinoma)
+4	Plasma	NA	Plasma cells_BLUEPRINT_1|Cancer stem cell (Multiple Myeloma)|DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_PLASMA_CELLS|Plasma cells_HPCA_3|Plasma cells_IRIS_3
+5	Monocyte	Paneth cell	Kupffer cell|Monocytes_BLUEPRINT_1|Monocytes_BLUEPRINT_3|Neutrophils_HPCA_3|Monocytes_BLUEPRINT_2
+6	Endothelial	MKI67+ progenitor cell	Endothelial cells_BLUEPRINT_1|Endothelial cells_BLUEPRINT_2|Endothelial cell|ly Endothelial cells_HPCA_1|ly Endothelial cells_HPCA_3
+7	Smooth_muscle	DCLK1+ progenitor cell, MKI67+ progenitor cell	Myofibroblasts|DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_VASCULAR_SMOOTH_MUSCLE_CELLS|Smooth muscle cell|GAO_LARGE_INTESTINE_24W_C4_PROM1LOW_PROGENITOR|PROM1Low progenitor cell
+8	Myofibroblast	NA	Myofibroblasts|GAO_LARGE_INTESTINE_24W_C4_PROM1LOW_PROGENITOR|PROM1Low progenitor cell|Smooth muscle cell|Jejunum
+9	Fibroblast1	DCLK1+ progenitor cell	DCLK1+ progenitor cell|GAO_LARGE_INTESTINE_24W_C1_DCLK1POS_PROGENITOR|CUI_DEVELOPING_HEART_C3_FIBROBLAST_LIKE_CELL|Lake et al.Science.Ex5|Chondrocytes_HPCA_2
+10	Granulocyte	Paneth cell	HAY_BONE_MARROW_CD34_POS_EO_B_MAST|Mast cell|DURANTE_ADULT_OLFACTORY_NEUROEPITHELIUM_MAST_CELLS|CUI_DEVELOPING_HEART_C7_MAST_CELL|MEP_BLUEPRINT_3
+11	Lamina_propria_fibroblast	DCLK1+ progenitor cell	Cancer stem cell (Hepatocellular Cancer)|Mesenchymal stem cell|DC_HPCA_3|Bone marrow stem cell|Mesenchymal stem cell
+12	Enterocyte	LGR5+ stem cell	Epithelial cell (Ovarian Cancer)|Pancreatic endoderm cell|Endothelial cell|Ionocytes|Luminal progenitor
+13	Sox6_fibroblast	LGR5+ stem cell, MKI67+ progenitor cell	Tregs_HPCA_2|Tregs_HPCA_3|Tregs_HPCA_1|Lake et al.Science.Ex4|Cancer stem cell (Glioma)
+14	Enteric_glia	DCLK1+ progenitor cell, MKI67+ progenitor cell	Neural progenitor cell|FAN_EMBRYONIC_CTX_IN_5_INTERNEURON|Peri-islet Schwann cells|Enteric glia cells|Brain cancer cell
+15	Unknown1	DCLK1+ progenitor cell	Embryonic brain|GAO_SMALL_INTESTINE_24W_C2_PROCRPOS_PROGENITOR|PROCR+ progenitor cell|CUI_DEVELOPING_HEART_C3_FIBROBLAST_LIKE_CELL|Abdomen
+16	Unknown2	MKI67+ progenitor cell	ly Endothelial cells_FANTOM_3|ly Endothelial cells_FANTOM_1|ly Endothelial cells_HPCA_2|Endothelial cells_HPCA_2|Endothelial cells_HPCA_1
+17	B_cell1	Paneth cell	HAY_BONE_MARROW_CD34_POS_PRE_B|Chronic myeloid leukemia cell|pro B-cells_NOVERSHTERN_2|MPP_ENCODE_2|MPP_ENCODE_3
