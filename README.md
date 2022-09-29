@@ -66,10 +66,12 @@ dynamo: https://github.com/aristoteleo/dynamo-release<br>
 pySCENIC: https://github.com/aertslab/pySCENIC<br>
 SIGNET: https://github.com/Lan-lab/SIGNET<br>
 Pando: https://github.com/quadbiolab/Pando<br>
+Dictys: https://github.com/pinellolab/dictys<br>
 Benchmark article https://www.nature.com/articles/s41592-019-0690-6<br>
 ## Inference of CNV
 InferCNV: https://github.com/broadinstitute/infercnv<br>
 CopyKAT: https://github.com/navinlabcode/copykat<br>
+Numbat: https://github.com/kharchenkolab/numbat<br>
 HoneyBADGER: https://github.com/JEFworks-Lab/HoneyBADGER<br>
 ## Cell fate
 scFates: https://github.com/LouisFaure/scFates<br>
