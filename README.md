@@ -38,6 +38,7 @@ scAnnotatR: https://github.com/grisslab/scAnnotatR<br>
 celltypist: https://github.com/Teichlab/celltypist<br>
 scPred: https://github.com/powellgenomicslab/scPred<br>
 CellMarker 2.0: http://bio-bigdata.hrbmu.edu.cn/CellMarker/index.html<br>
+HUSCH： http://husch.comp-genomics.org/#/annotation<br>
 Benchmark: https://github.com/tabdelaal/scRNAseq_Benchmark<br>
 
 ## Trajectory Inference
