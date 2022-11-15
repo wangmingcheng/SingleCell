@@ -8,7 +8,8 @@ https://github.com/hbctraining/scRNA-seq_online/blob/master/schedule/links-to-le
 https://www.singlecellcourse.org/index.html<br>
 https://bioconductor.org/books/3.15/OSCA.advanced<br>
 https://bookdown.org/ytliu13207/SingleCellMultiOmicsDataAnalysis<br>
-
+## 可视化
+scCustomize: https://samuel-marsh.github.io/scCustomize/index.html
 ## Doublet Analysis
 Scrublet: https://github.com/swolock/scrublet<br>
 DoubletFinder: https://github.com/chris-mcginnis-ucsf/DoubletFinder<br>
