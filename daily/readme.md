@@ -20,7 +20,7 @@
 我今后的生信之路就是学好数学和编程，然后知识的归纳提炼和输出，一方面是工作，另一方面和自己的对知识的理念相契合，做一个有不断探索原理的人，持续输出能力的人，因为热爱这个吧？<br>
 https://github.com/Avik-Jain/100-Days-Of-ML-Code
 
-
+http://lihuaxi.xjx100.cn/news/102615.html
 ### 读源码，搞懂单细胞数据整合的原理，重点SCTransform，harmony和liger
 
 ### 多样本单细胞批次效应，怎么定量评估，umap图欠缺定量的描述
