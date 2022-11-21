@@ -24,3 +24,8 @@ http://lihuaxi.xjx100.cn/news/102615.html
 ### 读源码，搞懂单细胞数据整合的原理，重点SCTransform，harmony和liger
 
 ### 多样本单细胞批次效应，怎么定量评估，umap图欠缺定量的描述
+
+###
+sed -i 's/[[:space:]]\{1,\}/,/g' gene_counts.txt
+#横坐标轴标签倾斜
+axis.text.x = element_text(angle = 45,vjust = 0.5,hjust = 0.5)
