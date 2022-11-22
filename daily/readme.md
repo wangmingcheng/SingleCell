@@ -29,3 +29,6 @@ http://lihuaxi.xjx100.cn/news/102615.html
 sed -i 's/[[:space:]]\{1,\}/,/g' gene_counts.txt
 #横坐标轴标签倾斜
 axis.text.x = element_text(angle = 45,vjust = 0.5,hjust = 0.5)
+
+## 了解蛋白组
+https://bioincloud.tech/cloudir/reports/TMT_report/TMT_Report.html<br>
