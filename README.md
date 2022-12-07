@@ -50,6 +50,7 @@ https://www.htcatlas.org/
 
 ## key gene
 https://github.com/YosefLab/Hotspot<br>
+https://github.com/GfellerLab/SuperCell<br>
 ## Trajectory Inference
 Monocle3: https://cole-trapnell-lab.github.io/monocle3<br>
 Slingshot: https://bioconductor.org/packages/devel/bioc/vignettes/slingshot/inst/doc/vignette.html<br>
