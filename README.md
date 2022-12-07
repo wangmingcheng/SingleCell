@@ -1,6 +1,6 @@
 # SingleCell
 # 需要更详细点，加上简介说明
-![](https://camo.github.com/27d70bea7d28e1346bed05f5e2fc26ef79101832ef77de0aeca37d703d301be0/68747470733a2f2f646174612e77686963646e2e636f6d2f696d616765732f3139313132303537392f6f726967696e616c2e676966)
+![](http://camo.github.com/27d70bea7d28e1346bed05f5e2fc26ef79101832ef77de0aeca37d703d301be0/68747470733a2f2f646174612e77686963646e2e636f6d2f696d616765732f3139313132303537392f6f726967696e616c2e676966)
 ## tutorials
 https://satijalab.org/seurat/index.html<br>
 https://scanpy.readthedocs.io/en/stable/tutorials.html<br>
@@ -11,6 +11,7 @@ https://bookdown.org/ytliu13207/SingleCellMultiOmicsDataAnalysis<br>
 ## 可视化
 scCustomize: https://samuel-marsh.github.io/scCustomize/index.html<br>
 SCpubr: https://enblacar.github.io/SCpubr-book/04-FeaturePlots.html<br>
+pagoda2: https://github.com/kharchenkolab/pagoda2<br>
 ## Doublet Analysis
 Scrublet: https://github.com/swolock/scrublet<br>
 DoubletFinder: https://github.com/chris-mcginnis-ucsf/DoubletFinder<br>
