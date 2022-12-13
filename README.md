@@ -46,7 +46,8 @@ Benchmark: https://github.com/tabdelaal/scRNAseq_Benchmark<br>
 scHumanNet: https://github.com/netbiolab/scHumanNet<br>
 TISCH： http://tisch.comp-genomics.org/<br>
 blood: http://abc.sklehabc.com/#/home<br>
-https://www.htcatlas.org/
+https://www.htcatlas.org/<br>
+devCellPy: https://github.com/devCellPy-Team/devCellPy<br>
 
 ## key gene
 https://github.com/YosefLab/Hotspot<br>
