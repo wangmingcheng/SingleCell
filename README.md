@@ -12,6 +12,7 @@ https://bookdown.org/ytliu13207/SingleCellMultiOmicsDataAnalysis<br>
 scCustomize: https://samuel-marsh.github.io/scCustomize/index.html<br>
 SCpubr: https://enblacar.github.io/SCpubr-book/04-FeaturePlots.html<br>
 pagoda2: https://github.com/kharchenkolab/pagoda2<br>
+plot1cell: https://github.com/HaojiaWu/plot1cell<br>
 ## Doublet Analysis
 Scrublet: https://github.com/swolock/scrublet<br>
 DoubletFinder: https://github.com/chris-mcginnis-ucsf/DoubletFinder<br>
