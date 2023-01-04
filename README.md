@@ -28,6 +28,7 @@ sctransform: https://github.com/satijalab/sctransform<br>
 scanorama： https://github.com/brianhie/scanorama<br>
 scINSIGHT： https://github.com/Vivianstats/scINSIGHT<br>
 Conos: https://github.com/kharchenkolab/conos<br>
+simspec：https://github.com/quadbiolab/simspec
 Benchmark: [Benchmarking atlas-level data integration in single-cell genomics](https://www.nature.com/articles/s41592-021-01336-8)
 
 ## Single cell annotation
