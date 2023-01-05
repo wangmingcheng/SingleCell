@@ -32,6 +32,9 @@ simspec：https://github.com/quadbiolab/simspec<br>
 scMerge: https://github.com/SydneyBioX/scMergeF<br>
 Benchmark: [Benchmarking atlas-level data integration in single-cell genomics](https://www.nature.com/articles/s41592-021-01336-8)
 
+## 整合评估
+scPOP：https://github.com/vinay-swamy/scPOP/<br>
+
 ## Single cell annotation
 scCATCH: https://github.com/ZJUFanLab/scCATCH<br>
 sc-type: https://github.com/IanevskiAleksandr/sc-type<br>
