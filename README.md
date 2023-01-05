@@ -8,6 +8,9 @@ https://github.com/hbctraining/scRNA-seq_online/blob/master/schedule/links-to-le
 https://www.singlecellcourse.org/index.html<br>
 https://bioconductor.org/books/3.15/OSCA.advanced<br>
 https://bookdown.org/ytliu13207/SingleCellMultiOmicsDataAnalysis<br>
+
+## 质控
+https://github.com/ayshwaryas/ddqc_R<br>
 ## 可视化
 scCustomize: https://samuel-marsh.github.io/scCustomize/index.html<br>
 SCpubr: https://enblacar.github.io/SCpubr-book/04-FeaturePlots.html<br>
@@ -34,6 +37,8 @@ Benchmark: [Benchmarking atlas-level data integration in single-cell genomics](h
 
 ## 整合评估
 scPOP：https://github.com/vinay-swamy/scPOP/<br>
+LISI: https://github.com/immunogenomics/LISI<br>
+https://github.com/carmonalab/scIntegrationMetrics<br>
 
 ## Single cell annotation
 scCATCH: https://github.com/ZJUFanLab/scCATCH<br>
