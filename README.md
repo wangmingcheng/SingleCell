@@ -126,3 +126,5 @@ https://www.scrna-tools.org/<br>
 # scATAC
 ## ArchR:
 https://github.com/GreenleafLab/ArchR
+## SnapATAC2:
+https://github.com/kaizhang/SnapATAC2
