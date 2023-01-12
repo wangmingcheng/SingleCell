@@ -63,6 +63,7 @@ devCellPy: https://github.com/devCellPy-Team/devCellPy<br>
 ## key gene
 https://github.com/YosefLab/Hotspot<br>
 https://github.com/GfellerLab/SuperCell<br>
+https://github.com/mahmoudibrahim/genesorteR<br>
 ## Trajectory Inference
 Monocle3: https://cole-trapnell-lab.github.io/monocle3<br>
 Slingshot: https://bioconductor.org/packages/devel/bioc/vignettes/slingshot/inst/doc/vignette.html<br>
