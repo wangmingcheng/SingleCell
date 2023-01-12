@@ -8,6 +8,7 @@ https://github.com/hbctraining/scRNA-seq_online/blob/master/schedule/links-to-le
 https://www.singlecellcourse.org/index.html<br>
 https://bioconductor.org/books/3.15/OSCA.advanced<br>
 https://bookdown.org/ytliu13207/SingleCellMultiOmicsDataAnalysis<br>
+https://www.sc-best-practices.org/preamble.html<br>
 
 ## 质控
 https://github.com/ayshwaryas/ddqc_R<br>
