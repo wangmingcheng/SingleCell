@@ -12,6 +12,7 @@ https://www.sc-best-practices.org/preamble.html<br>
 
 ## 质控
 https://github.com/ayshwaryas/ddqc_R<br>
+SampleQC：https://github.com/wmacnair/SampleQC<br>
 ## 可视化
 scCustomize: https://samuel-marsh.github.io/scCustomize/index.html<br>
 SCpubr: https://enblacar.github.io/SCpubr-book/04-FeaturePlots.html<br>
