@@ -139,3 +139,6 @@ https://github.com/morris-lab/CellOracle
 
 ## 文献分析步骤
 https://github.com/shendurelab/MMCA
+
+## 评估单细胞背景噪音
+https://github.com/Hellmann-Lab/scRNA-seq_Contamination
