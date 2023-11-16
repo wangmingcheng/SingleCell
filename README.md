@@ -142,3 +142,6 @@ https://github.com/shendurelab/MMCA
 
 ## 评估单细胞背景噪音
 https://github.com/Hellmann-Lab/scRNA-seq_Contamination
+
+## 10X genomics 的软件， Rust语言在生信领域大有可为
+https://github.com/10XGenomics
