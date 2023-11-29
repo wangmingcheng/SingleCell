@@ -10,6 +10,9 @@ https://bioconductor.org/books/3.15/OSCA.advanced<br>
 https://bookdown.org/ytliu13207/SingleCellMultiOmicsDataAnalysis<br>
 https://www.sc-best-practices.org/preamble.html<br>
 
+## 单细胞深度学习
+https://github.com/OmicsML/awesome-deep-learning-single-cell-papers<br>
+
 ## 质控
 ddqc: https://github.com/ayshwaryas/ddqc_R<br>
 SampleQC: https://github.com/wmacnair/SampleQC<br>
