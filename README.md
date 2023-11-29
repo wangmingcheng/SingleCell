@@ -151,3 +151,6 @@ https://github.com/10XGenomics
 
 ## 帮助开发者构建单细胞分析工具，作为单细胞工具测评平台
 https://omicsml.ai/ 
+
+## scGPT：生成式AI构建单细胞多组学基础模型
+https://github.com/bowang-lab/scGPT
