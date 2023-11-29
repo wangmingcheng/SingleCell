@@ -148,3 +148,6 @@ https://github.com/Hellmann-Lab/scRNA-seq_Contamination
 
 ## 10X genomics 的软件， Rust语言在生信领域大有可为
 https://github.com/10XGenomics
+
+## 帮助开发者构建单细胞分析工具，作为单细胞工具测评平台
+https://omicsml.ai/ 
